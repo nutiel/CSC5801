@@ -18,5 +18,22 @@
     <ClCompile Include="CW1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Prisoner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tournament.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CW1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prisoner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tournament.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

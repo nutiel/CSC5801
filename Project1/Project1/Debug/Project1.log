@@ -1,3 +1,8 @@
-﻿  CW1.cpp
+﻿  Tournament.cpp
+  CW1.cpp
+c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(184): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Prisoner.cpp
   Project1.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\Project1.exe
   Project1.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\Project1.pdb (Partial PDB)

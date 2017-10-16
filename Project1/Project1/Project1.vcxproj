@@ -112,6 +112,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CW1.cpp" />
+    <ClCompile Include="Prisoner.cpp" />
+    <ClCompile Include="Tournament.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CW1.h" />
+    <ClInclude Include="Prisoner.h" />
+    <ClInclude Include="Tournament.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
