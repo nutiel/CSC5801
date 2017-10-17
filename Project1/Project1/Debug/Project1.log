@@ -1,8 +1,30 @@
 ﻿  Tournament.cpp
-  CW1.cpp
-c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(184): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
-  Skipping... (no relevant changes detected)
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(22): error C2065: 'matchups': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(22): error C2228: left of '.getStrategy1' must have class/struct/union
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(23): error C2065: 'matchups': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(23): error C2228: left of '.getStrategy2' must have class/struct/union
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(31): error C2065: 'matchups': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(40): error C2065: 'matchups': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(40): error C2228: left of '.setStrategy' must have class/struct/union
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(45): error C2065: 'matchups': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(45): error C2541: 'delete': cannot delete objects that are not pointers
   Prisoner.cpp
-  Project1.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\Project1.exe
-  Project1.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\Project1.pdb (Partial PDB)
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
+  Game.cpp
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
+  CW1.cpp
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(206): error C3867: 'std::basic_istream<char,std::char_traits<char>>::peek': non-standard syntax; use '&' to create a pointer to member
+c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(206): error C2446: '!=': no conversion from 'int' to 'int (__thiscall std::basic_istream<char,std::char_traits<char>>::* )(void)'
+  c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(206): note: There are no conversions from integral values to pointer-to-member values
+  Generating Code...

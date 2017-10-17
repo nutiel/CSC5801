@@ -5,6 +5,8 @@
 #include <string>
 #include <cstdlib>
 
+const int lines = 10;
+
 void addIfStatement(int n);
 
 void writeStrategy(int n);

@@ -1,12 +1,12 @@
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"
+#include "Game.h"
 
 Prisoner::Prisoner() :
 	w(0), x(0),	y(0), z(0),
 	score(0), 
-	last_outcome(' '), 
-	iterations(0) {
+	last_outcome(' ') {
 
 }
 
@@ -36,4 +36,37 @@ int Prisoner::ALLOUTCOMES_Z() {
 
 int Prisoner::MYSCORE() {
 	return score;
+}
+
+void Prisoner::setCode(string line, int i) {
+	code[i] = line;
+}
+
+bool Prisoner::makeDecision(int iterations) {
+
+}
+
+/*
+ * 
+ * bool result1 - prisoners own decision
+ * bool result2 - other prisoners decision
+ * 
+ * true = silence, false = betray
+ * 
+ */
+void Prisoner::result(bool result1, bool result2) {
+	if(result1 && result2) {
+		w++;
+		score += 2;
+	}else if (result1 && !result2) {
+		x++;
+		score += 5;
+	}else if (!result1 && result2) {
+		y++;
+		score += 0;
+	}
+	else {
+		score += 4;
+		z++;
+	}
 }

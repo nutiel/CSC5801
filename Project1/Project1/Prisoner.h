@@ -14,7 +14,11 @@ public:
 	int ALLOUTCOMES_Y();
 	int ALLOUTCOMES_Z();
 	int MYSCORE();
+	void setCode(string code, int i);
+	bool makeDecision(int iterations);
+	void result(bool result1, bool result2);
 private:
-	int w, x, y, z, score, iterations;
+	int w, x, y, z, score;
+	string code[lines];
 	char last_outcome;
 };

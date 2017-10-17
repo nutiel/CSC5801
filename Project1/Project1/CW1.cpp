@@ -1,10 +1,10 @@
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"
+#include "Game.h"
 
 using namespace std;
 
-const int lines = 10;
 ofstream ifile;
 string* statement[lines];
 
@@ -33,7 +33,7 @@ void writeLastLine(int n) {
 void writeStrategy(int n) {
 
 	int random_integer;
-	random_integer = rand() % 13 + 1; // generates random int nums from 1 to 4
+	random_integer = rand() % 13 + 1; // generates random int nums from 1 to 13
 	statement[n]->append(std::to_string(n+1)) + " ";
 
 	switch (random_integer) {
@@ -83,7 +83,7 @@ void writeFirstLine(int n) {
 void addIfStatement(int n) {
 
 	int random_integer;
-	random_integer = rand() % 7 + 1; // generates random int nums from 1 to 6
+	random_integer = rand() % 7 + 1; // generates random int nums from 1 to 7
 
 	statement[n]->append(" IF ");
 
@@ -111,7 +111,7 @@ void addIfStatement(int n) {
 		break;
 	}
 
-	random_integer = rand() % 3 + 1;
+	random_integer = rand() % 3 + 1; // generates random int nums from 1 to 3
 
 	switch (random_integer) {
 	case 1:
@@ -125,7 +125,7 @@ void addIfStatement(int n) {
 		break;
 	}
 
-	random_integer = rand() % lines + 1;
+	random_integer = rand() % 8 + 1; // generates random int nums from 1 to 8
 
 	switch (random_integer) {
 	case 1:
@@ -150,7 +150,7 @@ void addIfStatement(int n) {
 		statement[n]->append("ITERATIONS ");
 		break;
 	default:
-		random_integer = rand() % (n + 1) + 1;
+		random_integer = rand() % n + 1; // generates random int nums from 1 to number of iterations
 		statement[n]->append(std::to_string(n)).append(" ");
 		break;
 	}
@@ -169,6 +169,7 @@ void goToStatement(int n) {
 			flag1 = true;
 		}
 		if (flag1) {
+			//random_integer = rand() % (n + 1) + 1; // for arbitary number
 			statement[n]->append(std::to_string(i+2));
 			flag2 = false;
 			break;
@@ -194,9 +195,21 @@ bool checkIf(int n) {
 void createFile(int n) {
 
 	string name;
+	string path;
+	char c;
+	int k = 0;
 
 	name = name + std::to_string(n);
 	name.append(".txt");
+	
+	cout << "\nEnter the path to the location of the files:\n";
+	cout << "./\t  -> defines the source folder\n./\"path\"/ -> defines a path within that folder\n> ";
+	while (cin.peek() != '\n') {
+		cin >> c;
+		path += c;
+		k++;
+	}
+
 	ifile.open("./files/" + name);
 	for (int i = lines-1; i >= 0; i--) {
 		statement[i] = new string;
