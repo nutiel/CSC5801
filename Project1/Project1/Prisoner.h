@@ -20,5 +20,5 @@ public:
 private:
 	int w, x, y, z, score;
 	string code[lines];
-	char last_outcome;
+	char last_outcome; // a ' ' means this is the first iteration
 };

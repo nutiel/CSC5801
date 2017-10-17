@@ -26,12 +26,16 @@ void Tournament::runSimulation(int i, int j) {
 	bool p1_decision, p2_decision;
 
 	readFiles(i, j, p1, p2);
-	
-	p1_decision = p1->makeDecision(iterations);
-	p2_decision = p2->makeDecision(iterations);
+	for (int k = 0; k < 200; k++) {
 
-	p1->result(p1_decision, p2_decision);
-	p2->result(p2_decision, p1_decision);
+		iterations++;
+
+		p1_decision = p1->makeDecision(iterations);
+		p2_decision = p2->makeDecision(iterations);
+
+		p1->result(p1_decision, p2_decision);
+		p2->result(p2_decision, p1_decision);
+	}
 	
 	delete p1;
 	delete p2;

@@ -58,15 +58,19 @@ void Prisoner::result(bool result1, bool result2) {
 	if(result1 && result2) {
 		w++;
 		score += 2;
+		this->last_outcome = 'w';
 	}else if (result1 && !result2) {
 		x++;
 		score += 5;
+		this->last_outcome = 'x';
 	}else if (!result1 && result2) {
 		y++;
 		score += 0;
+		this->last_outcome = 'y';
 	}
 	else {
-		score += 4;
 		z++;
+		score += 4;
+		this->last_outcome = 'z';
 	}
 }
