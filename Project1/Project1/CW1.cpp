@@ -2,6 +2,7 @@
 #include "Prisoner.h"
 #include "Tournament.h"
 #include "Game.h"
+#include "IfNode.h"
 
 using namespace std;
 

@@ -12,6 +12,8 @@ public:
 	bool ifSyntaxCheck(string kwrd);
 	bool opSyntaxCheck(string kwrd);
 	bool gotoSyntaxCheck(string kwrd);
+	bool lheSyntaxCheck();
+	bool rheSyntaxCheck();
 private:
 	//if statement keywords
 	string if_kwrd;
