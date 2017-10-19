@@ -18,7 +18,7 @@ int IfNode::performComparison(int i) {
 
 	switch (operat) {
 	case 0:
-		if (lhe.getValue < rhe.getValue) {
+		if (lhe->getValue() < rhe->getValue()) {
 			return result;
 		}
 		else {
@@ -26,7 +26,7 @@ int IfNode::performComparison(int i) {
 		}
 		break;
 	case 1:
-		if (lhe.getValue > rhe.getValue) {
+		if (lhe->getValue() > rhe->getValue()) {
 			return result;
 		}
 		else {
@@ -34,7 +34,7 @@ int IfNode::performComparison(int i) {
 		}
 		break;
 	case 2:
-		if (lhe.getValue == rhe.getValue) {
+		if (lhe->getValue() == rhe->getValue()) {
 			return result;
 		}
 		else {
@@ -58,27 +58,55 @@ int IfNode::ifSyntaxCheck(int i) {
 
 int IfNode::lheSyntaxCheck() {
 
-}
+	int i = 2;
 
-int IfNode::opSyntaxCheck(int i) {
+	while (if_stmt[i] != "<" && if_stmt[i] != ">" && if_stmt[i] != "=") {
+		i++;
+	}
 
-	if (if_stmt[i] == "<") {
-		operat = 0;
-		return rheSyntaxCheck();
-	}else if (if_stmt[i] == ">") {
-		operat = 1;
-		return rheSyntaxCheck();
-	}else if (if_stmt[i] == "=") {
-		operat = 2;
-		return rheSyntaxCheck();
+	lhe = new Expression(2, i, if_stmt);
+
+	if (lhe->getSyntaxCheck) {
+		return opSyntaxCheck(i + 1);
 	}
 	else {
 		return -1;
 	}
 }
 
-int IfNode::rheSyntaxCheck() {
+int IfNode::opSyntaxCheck(int i) {
 
+	if (if_stmt[i] == "<") {
+		operat = 0;
+		return rheSyntaxCheck(i+1);
+	}else if (if_stmt[i] == ">") {
+		operat = 1;
+		return rheSyntaxCheck(i+1);
+	}else if (if_stmt[i] == "=") {
+		operat = 2;
+		return rheSyntaxCheck(i+1);
+	}
+	else {
+		return -1;
+	}
+}
+
+int IfNode::rheSyntaxCheck(int i) {
+
+	int j = i;
+
+	while (if_stmt[j] != "GOTO") {
+		j++;
+	}
+
+	rhe = new Expression(i, j, if_stmt);
+
+	if (rhe->getSyntaxCheck) {
+		return gotoSyntaxCheck(j + 1);
+	}
+	else {
+		return -1;
+	}
 }
 
 int IfNode::gotoSyntaxCheck(int i) {
@@ -86,7 +114,9 @@ int IfNode::gotoSyntaxCheck(int i) {
 	std::transform(if_stmt[i].begin(), if_stmt[i].end(), if_stmt[i].begin(), ::toupper);//transform to Uppercase
 
 	if (if_stmt[i] == "GOTO") {
-		//return ; jump destination ADD FUNCTION
+		goto_pstn = new Expression(i + 1, if_stmt.size() - 1, if_stmt);
+		result = goto_pstn->getValue();
+		return 0;
 	}
 	else {
 		return -1;

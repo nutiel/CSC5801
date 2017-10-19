@@ -62,8 +62,6 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 		k++;
 	}
 
-	//////---->>>Create New function for opening the file for each prisoner
-
 	//prisoner1 strategy
 	ifstream ofile(path.append(st1));
 	if (ofile.is_open()) {
@@ -81,14 +79,14 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 	l = 0;
 
 	//prisoner2 strategy
-	ifstream ofile(path.append(st2));
-	if (ofile.is_open()) {
-		while (getline(ofile, line))
+	ifstream ofile2(path.append(st2));
+	if (ofile2.is_open()) {
+		while (getline(ofile2, line))
 		{
 			p2->setCode(line, l);
 			l++;
 		}
-		ofile.close();
+		ofile2.close();
 	}
 	else {
 		cout << "Unable to open file for prisoner2";

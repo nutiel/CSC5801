@@ -72,7 +72,7 @@ bool Prisoner::makeDecision(int iterations) {
 
 	int currLine;
 
-	for (int i = 0; i < code.size(); i++) {
+	for (int i = 0; i < (int)code.size(); i++) {
 		currLine = parseLine(i, iterations); // -1 -> Syntax error, 0 -> Silence, 1 -> betray, any other number -> jump to that line
 		switch (currLine) {
 		case -1:
@@ -101,6 +101,7 @@ int Prisoner::to_int(string num) {
 	for (std::string::iterator c = num.end(); c != num.begin(); --c) {
 		temp += (*c - 48) * j++;
 	}
+	return temp;
 }
 
 int Prisoner::parseLine(int n, int iterations) {
