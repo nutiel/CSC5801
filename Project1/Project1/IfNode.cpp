@@ -5,8 +5,9 @@
 #include "IfNode.h"
 #include "Expression.h"
 
-IfNode::IfNode(vector< string> input) :
-if_stmt(input) {
+IfNode::IfNode(vector< string> input, Prisoner* pris) :
+if_stmt(input),
+p(pris) {
 
 }
 
@@ -64,9 +65,10 @@ int IfNode::lheSyntaxCheck() {
 		i++;
 	}
 
-	lhe = new Expression(2, i, if_stmt);
+	lhe = new Expression(2, i-1, if_stmt, p);
+	lhe->runExpression();
 
-	if (lhe->getSyntaxCheck) {
+	if (lhe->getSyntaxCheck()) {
 		return opSyntaxCheck(i + 1);
 	}
 	else {
@@ -99,9 +101,10 @@ int IfNode::rheSyntaxCheck(int i) {
 		j++;
 	}
 
-	rhe = new Expression(i, j, if_stmt);
+	rhe = new Expression(i, j-1, if_stmt, p);
+	rhe->runExpression();
 
-	if (rhe->getSyntaxCheck) {
+	if (rhe->getSyntaxCheck()) {
 		return gotoSyntaxCheck(j + 1);
 	}
 	else {
@@ -114,7 +117,9 @@ int IfNode::gotoSyntaxCheck(int i) {
 	std::transform(if_stmt[i].begin(), if_stmt[i].end(), if_stmt[i].begin(), ::toupper);//transform to Uppercase
 
 	if (if_stmt[i] == "GOTO") {
-		goto_pstn = new Expression(i + 1, if_stmt.size() - 1, if_stmt);
+		goto_pstn = new Expression(i + 1, if_stmt.size() - 1, if_stmt, p);
+		goto_pstn->runExpression();
+
 		result = goto_pstn->getValue();
 		return 0;
 	}

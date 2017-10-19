@@ -8,6 +8,7 @@
 Prisoner::Prisoner() :
 	w(0), x(0),	y(0), z(0),
 	score(0), 
+	iterations(0),
 	last_outcome(' ') {
 
 }
@@ -36,8 +37,16 @@ int Prisoner::ALLOUTCOMES_Z() {
 	return z;
 }
 
+int Prisoner::ITERATIONS() {
+	return iterations;
+}
+
 int Prisoner::MYSCORE() {
 	return score;
+}
+
+void Prisoner::increaseIterations() {
+	iterations++;
 }
 
 void Prisoner::setCode(string line, int i) {
@@ -68,17 +77,16 @@ void Prisoner::setCode(string line, int i) {
 	}
 }
 
-bool Prisoner::makeDecision(int iterations) {
+bool Prisoner::makeDecision() {
 
 	int currLine;
 
 	for (int i = 0; i < (int)code.size(); i++) {
-		currLine = parseLine(i, iterations); // -1 -> Syntax error, 0 -> Silence, 1 -> betray, any other number -> jump to that line
+		currLine = parseLine(i); // -1 -> Syntax error, 0 -> Silence, 1 -> betray, any other number -> jump to that line
 		switch (currLine) {
 		case -1:
-			/**
-			 * //TO_DO// handle the error
-			 */
+			cout << "Strategy not structured correctly (line: " << i << " )\n";
+			return false;
 			break;
 		case 0:
 			return true;
@@ -87,8 +95,8 @@ bool Prisoner::makeDecision(int iterations) {
 			return false;
 			break;
 		default:
-			//Read the line no of each line until you find the jump line
-			return currLine;
+			cout << "Something went wrong in if resolution\n";
+			return false;
 			break;
 		}
 	}
@@ -104,10 +112,10 @@ int Prisoner::to_int(string num) {
 	return temp;
 }
 
-int Prisoner::parseLine(int n, int iterations) {
+int Prisoner::parseLine(int n) {
 
 	//check line number correctness
-	if (to_int(code[n][0]) <= 0 || to_int(code[n][0]) >= code.size()) {
+	if (to_int(code[n][0]) <= 0 || to_int(code[n][0]) >= (int)code.size()) {
 		cout << "Line number format incorrect. (line: " << n << " )";
 		return -1;
 	}
@@ -123,9 +131,9 @@ int Prisoner::parseLine(int n, int iterations) {
 		return rand() % 2; //Generates and returns either 1 or 0
 	}
 	else if (code[n][1] == "IF") {
-		IfNode* f = new IfNode(code[n]);
-		f->resolve(n+1);
-		return f->getResult();
+		IfNode* f = new IfNode(code[n], this);
+		f->resolve(n);
+		return parseLine(f->getResult());
 	}
 	else {
 		cout << "Syntax error. (line: " << n << " )";

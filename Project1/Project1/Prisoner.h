@@ -15,14 +15,16 @@ public:
 	int ALLOUTCOMES_X();
 	int ALLOUTCOMES_Y();
 	int ALLOUTCOMES_Z();
+	int ITERATIONS();
 	int MYSCORE();
+	void increaseIterations();
 	void setCode(string code, int i);
-	bool makeDecision(int iterations);
+	bool makeDecision();
 	void result(bool result1, bool result2);
-	int parseLine(int l, int iterations);
+	int parseLine(int l);
 	int to_int(string num);
 private:
-	int w, x, y, z, score;
+	int w, x, y, z, score, iterations;
 	vector< vector< string> > code;
 	//string code[lines];
 	char last_outcome; // a ' ' means this is the first iteration

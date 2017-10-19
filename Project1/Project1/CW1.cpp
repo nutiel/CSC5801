@@ -184,7 +184,7 @@ void goToStatement(int n) {
 
 bool checkIf(int n) {
 
-	for (int i = 0; i < statement[n]->size(); i++) {
+	for (int i = 0; i < (int)statement[n]->size(); i++) {
 		if (statement[n]->at(i) == 'I') {
 			if (statement[n]->at(i+1) == 'F') {
 				return true;

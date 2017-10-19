@@ -8,7 +8,6 @@
 Game* matchups;
 
 Tournament::Tournament() :
-	iterations(0),
 	num_Strategies(0) {
 
 }
@@ -32,13 +31,16 @@ void Tournament::runSimulation(int i, int j) {
 	readFiles(i, j, p1, p2);
 	for (int k = 0; k < 200; k++) {
 
-		iterations++;
+		p1->increaseIterations();
+		p2->increaseIterations();
 
-		p1_decision = p1->makeDecision(iterations);
-		p2_decision = p2->makeDecision(iterations);
+		p1_decision = p1->makeDecision();
+		p2_decision = p2->makeDecision();
 
 		p1->result(p1_decision, p2_decision);
 		p2->result(p2_decision, p1_decision);
+
+		/*Gather info for statistics*/
 	}
 	
 	delete p1;
