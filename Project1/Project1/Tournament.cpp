@@ -3,6 +3,9 @@
 #include "Tournament.h"
 #include "Game.h"
 #include "IfNode.h"
+#include "Expression.h"
+
+Game* matchups;
 
 Tournament::Tournament() :
 	iterations(0),
@@ -45,8 +48,8 @@ void Tournament::runSimulation(int i, int j) {
 void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 
 	
-	string st1 = matchups[j + i*num_Strategies].getStrategy1();
-	string st2 = matchups[j + i*num_Strategies].getStrategy2();
+	string st1 = matchups[j + i * num_Strategies].getStrategy1();
+	string st2 = matchups[j + i * num_Strategies].getStrategy2();
 	string path, line;
 	char c;
 	int k = 0, l = 0;
@@ -58,6 +61,8 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 		path += c;
 		k++;
 	}
+
+	//////---->>>Create New function for opening the file for each prisoner
 
 	//prisoner1 strategy
 	ifstream ofile(path.append(st1));

@@ -7,21 +7,24 @@ using namespace std;
 
 class IfNode {
 public:
-	IfNode();
+	IfNode(vector< string> input);
 	~IfNode();
-	bool ifSyntaxCheck(string kwrd);
-	bool opSyntaxCheck(string kwrd);
-	bool gotoSyntaxCheck(string kwrd);
-	bool lheSyntaxCheck();
-	bool rheSyntaxCheck();
+	int performComparison(int i);
+	int ifSyntaxCheck(int i);
+	int opSyntaxCheck(int i);
+	int gotoSyntaxCheck(int i);
+	int lheSyntaxCheck();
+	int rheSyntaxCheck();
+	void resolve(int i);
+	int getResult();
 private:
-	//if statement keywords
-	string if_kwrd;
-	string op_kwrd;
-	string goto_kwrd;
+
+	vector< string> if_stmt;
+	int result;
+	int operat; // 0 -> <, 1 -> >, 2 -> =
 
 	//expandable expressions
-	Expression<E> lhe;//left hand expression
-	Expression<E> rhe;//right hand expression
-	Expression<int> goto_pstn;//position to go to
+	Expression lhe;//left hand expression
+	Expression rhe;//right hand expression
+	Expression goto_pstn;//position to go to
 };

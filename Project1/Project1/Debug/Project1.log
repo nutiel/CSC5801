@@ -1,30 +1,60 @@
 ﻿  Tournament.cpp
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(22): error C2065: 'matchups': undeclared identifier
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(22): error C2228: left of '.getStrategy1' must have class/struct/union
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(23): error C2065: 'matchups': undeclared identifier
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(23): error C2228: left of '.getStrategy2' must have class/struct/union
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(31): error C2065: 'matchups': undeclared identifier
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(40): error C2065: 'matchups': undeclared identifier
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(40): error C2228: left of '.setStrategy' must have class/struct/union
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(45): error C2065: 'matchups': undeclared identifier
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(45): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C3646: 'lhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C3646: 'rhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C3646: 'goto_pstn': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(82): error C2374: 'ofile': redefinition; multiple initialization
+  c:\users\b7064124\projects\csc5801\project1\project1\tournament.cpp(66): note: see declaration of 'ofile'
   Prisoner.cpp
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C3646: 'lhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C3646: 'rhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C3646: 'goto_pstn': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\prisoner.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\b7064124\projects\csc5801\project1\project1\prisoner.cpp(109): warning C4018: '>=': signed/unsigned mismatch
+  IfNode.cpp
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C3646: 'lhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C3646: 'rhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C3646: 'goto_pstn': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(21): error C2065: 'lhe': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(21): error C2228: left of '.getValue' must have class/struct/union
+  c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(21): note: type is 'unknown-type'
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(21): error C2065: 'rhe': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(29): error C2065: 'lhe': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(29): error C2228: left of '.getValue' must have class/struct/union
+  c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(29): note: type is 'unknown-type'
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(29): error C2065: 'rhe': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(37): error C2065: 'lhe': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(37): error C2228: left of '.getValue' must have class/struct/union
+  c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(37): note: type is 'unknown-type'
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.cpp(37): error C2065: 'rhe': undeclared identifier
   Game.cpp
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C3646: 'lhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C3646: 'rhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C3646: 'goto_pstn': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Expression.cpp
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C3646: 'lhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C3646: 'rhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C3646: 'goto_pstn': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
   CW1.cpp
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2143: syntax error: missing ';' before '*'
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-c:\users\b7064124\projects\csc5801\project1\project1\tournament.h(17): error C2238: unexpected token(s) preceding ';'
-c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(185): warning C4018: '<': signed/unsigned mismatch
-c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(206): error C3867: 'std::basic_istream<char,std::char_traits<char>>::peek': non-standard syntax; use '&' to create a pointer to member
-c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(206): error C2446: '!=': no conversion from 'int' to 'int (__thiscall std::basic_istream<char,std::char_traits<char>>::* )(void)'
-  c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(206): note: There are no conversions from integral values to pointer-to-member values
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C3646: 'lhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C3646: 'rhe': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C3646: 'goto_pstn': unknown override specifier
+c:\users\b7064124\projects\csc5801\project1\project1\ifnode.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\b7064124\projects\csc5801\project1\project1\cw1.cpp(187): warning C4018: '<': signed/unsigned mismatch
   Generating Code...

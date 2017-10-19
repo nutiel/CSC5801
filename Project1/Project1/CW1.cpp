@@ -3,6 +3,7 @@
 #include "Tournament.h"
 #include "Game.h"
 #include "IfNode.h"
+#include "Expression.h"
 
 using namespace std;
 
@@ -264,10 +265,14 @@ int main() {
 			cout << "Done!" << endl;
 			break;
 		case 2:
+			cout << "How many strategies do you wish to test: ";
+			cin >> x;
+
 			tour->setNumofFiles(x);
 			cout << endl << "Running Tournament ... ";
 			tour->runTournament();
 			cout << "Done!" << endl;
+
 			cout << "Releasing Memory ... ";
 			delete tour;
 			cout << "Done!" << endl;

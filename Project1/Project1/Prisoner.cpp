@@ -3,12 +3,13 @@
 #include "Tournament.h"
 #include "Game.h"
 #include "IfNode.h"
+#include "Expression.h"
 
 Prisoner::Prisoner() :
 	w(0), x(0),	y(0), z(0),
 	score(0), 
 	last_outcome(' ') {
-	code.resize(lines, std::vector<string>(0, ""));
+
 }
 
 Prisoner::~Prisoner() {
@@ -44,6 +45,7 @@ void Prisoner::setCode(string line, int i) {
 	int j = 0;
 	bool flag = false;
 	string word;
+	vector<string> temp(0, "");
 
 	for (std::string::iterator c = line.begin(); c != line.end(); ++c) {
 		if (*c == ' ' && flag) {
@@ -56,11 +58,13 @@ void Prisoner::setCode(string line, int i) {
 			do {
 				word += *c;
 				c++;
-			} while (*c + 1 != ' ');
+			} while (c + 1 != line.end() || *c + 1 != ' ');
 
-			code[i][j].push_back(word);
+			temp.push_back(word); //temporary vector
 			flag = true;
 		}
+
+		code.push_back(temp);
 	}
 }
 
@@ -68,7 +72,7 @@ bool Prisoner::makeDecision(int iterations) {
 
 	int currLine;
 
-	for (int i = 0; i < lines; i++) {
+	for (int i = 0; i < code.size(); i++) {
 		currLine = parseLine(i, iterations); // -1 -> Syntax error, 0 -> Silence, 1 -> betray, any other number -> jump to that line
 		switch (currLine) {
 		case -1:
@@ -83,20 +87,49 @@ bool Prisoner::makeDecision(int iterations) {
 			return false;
 			break;
 		default:
-			if (currLine - 1 >= lines || currLine - 1 < 0) {
-				//show error message
-			} else if (currLine - 1 == i) {
-				//show error message
-			} else {
-				i = currLine - 1;
-			}
+			//Read the line no of each line until you find the jump line
+			return currLine;
 			break;
 		}
 	}
 }
 
+int Prisoner::to_int(string num) {
+
+	int temp = 0, j = 1;
+
+	for (std::string::iterator c = num.end(); c != num.begin(); --c) {
+		temp += (*c - 48) * j++;
+	}
+}
+
 int Prisoner::parseLine(int n, int iterations) {
 
+	//check line number correctness
+	if (to_int(code[n][0]) <= 0 || to_int(code[n][0]) >= code.size()) {
+		cout << "Line number format incorrect. (line: " << n << " )";
+		return -1;
+	}
+
+	std::transform(code[n][1].begin(), code[n][1].end(), code[n][1].begin(), ::toupper);
+	if (code[n][1] == "SILENCE") {
+		return 0;
+	}
+	else if (code[n][1] == "BETRAY") {
+		return 1;
+	}
+	else if (code[n][1] == "RANDOM") {
+		return rand() % 2; //Generates and returns either 1 or 0
+	}
+	else if (code[n][1] == "IF") {
+		IfNode* f = new IfNode(code[n]);
+		f->resolve(n+1);
+		return f->getResult();
+	}
+	else {
+		cout << "Syntax error. (line: " << n << " )";
+		return -1;
+	}
 }
 
 /*

@@ -1,6 +1,7 @@
 #pragma once
 
 #include <iostream>
+#include <algorithm>
 #include <vector>
 
 using namespace std;
@@ -19,9 +20,10 @@ public:
 	bool makeDecision(int iterations);
 	void result(bool result1, bool result2);
 	int parseLine(int l, int iterations);
+	int to_int(string num);
 private:
 	int w, x, y, z, score;
-	vector<vector< string> > code;
+	vector< vector< string> > code;
 	//string code[lines];
 	char last_outcome; // a ' ' means this is the first iteration
 };

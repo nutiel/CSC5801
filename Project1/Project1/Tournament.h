@@ -15,5 +15,4 @@ public:
 private:
 	int iterations, num_Strategies;
 	static const int MAX_ITERARIONS = 200;
-	Game* matchups;
 };

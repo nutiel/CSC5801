@@ -3,6 +3,7 @@
 #include "Tournament.h"
 #include "Game.h"
 #include "IfNode.h"
+#include "Expression.h"
 
 Game::Game() :
 strategy1(""),
