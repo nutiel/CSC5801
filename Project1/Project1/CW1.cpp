@@ -197,20 +197,9 @@ bool checkIf(int n) {
 void createFile(int n) {
 
 	string name;
-	string path;
-	char c;
-	int k = 0;
 
 	name = name + std::to_string(n);
 	name.append(".txt");
-	
-	cout << "\nEnter the path to the location of the files:\n";
-	cout << "./\t  -> defines the source folder\n./\"path\"/ -> defines a path within that folder\n> ";
-	while (cin.peek() != '\n') {
-		cin >> c;
-		path += c;
-		k++;
-	}
 
 	ifile.open("./files/" + name);
 	for (int i = lines-1; i >= 0; i--) {

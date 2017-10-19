@@ -52,20 +52,12 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 	
 	string st1 = matchups[j + i * num_Strategies].getStrategy1();
 	string st2 = matchups[j + i * num_Strategies].getStrategy2();
-	string path, line;
-	char c;
-	int k = 0, l = 0;
+	string line;
+	int l = 0;
 
-	cout << "\nEnter the path to the location of the files:\n";
-	cout << "./\t  -> defines the source folder\n./\"path\"/ -> defines a path within that folder\n> ";
-	while (cin.peek() != '\n') {
-		cin >> c;
-		path += c;
-		k++;
-	}
 
 	//prisoner1 strategy
-	ifstream ofile(path.append(st1));
+	ifstream ofile("./files/" + st1);
 	if (ofile.is_open()) {
 		while (getline(ofile, line))
 		{
@@ -81,7 +73,7 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 	l = 0;
 
 	//prisoner2 strategy
-	ifstream ofile2(path.append(st2));
+	ifstream ofile2("./files/" + st2);
 	if (ofile2.is_open()) {
 		while (getline(ofile2, line))
 		{
