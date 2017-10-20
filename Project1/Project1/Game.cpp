@@ -27,3 +27,16 @@ string Game::getStrategy1() {
 string Game::getStrategy2() {
 	return strategy2;
 }
+
+double Game::getScore1() {
+	return str1_average;
+}
+
+double Game::getScore2() {
+	return str2_average;
+}
+
+void Game::calculateAverage(Prisoner* p1, Prisoner* p2, int iterations) {
+	str1_average = (double)p1->MYSCORE() / (double)iterations;
+	str2_average = (double)p2->MYSCORE() / (double)iterations;
+}

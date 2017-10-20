@@ -43,7 +43,8 @@ void Tournament::runSimulation(int i, int j, Game g) {
 	}
 
 	printCurrentResults(p1, p2, g);
-	
+	g.calculateAverage(p1, p2, p1->ITERATIONS());
+
 	delete p1;
 	delete p2;
 }
@@ -103,6 +104,7 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 void Tournament::runTournament() {
 
 	matchups = new Game[num_Strategies*num_Strategies];
+	arr = new double[num_Strategies*num_Strategies];
 	string name1, name2;
 
 	for (int i = 0; i < num_Strategies; i++) {
@@ -115,8 +117,49 @@ void Tournament::runTournament() {
 			name2.append(".txt");
 			matchups[j + i*num_Strategies].setStrategy(name1, name2);
 			runSimulation(i, j, matchups[j + i*num_Strategies]);
+			saveStats(matchups[j + i*num_Strategies], i, j);
 		}
 	}
 
+	printStats();
+
+	delete[] arr;
 	delete[] matchups;
+}
+
+void Tournament::printStats() {
+
+	cout << "Strategy Average Scores\n\n";
+	for (int i = 0; i < num_Strategies; i++) {
+		cout << i + 1;
+		for (int j = 0; j < num_Strategies; j++) {
+			cout << " | " << arr[i*num_Strategies + j];
+		}
+		cout << endl;
+	}
+}
+
+void Tournament::saveStats(Game g, int str1, int str2) {
+
+	double temp;
+	double score1 = g.getScore1(), score2 = g.getScore2();
+
+	//for first strategy
+	for (int i = 0; i < num_Strategies; i++) {
+		if (arr[str1*num_Strategies + i] > score1) {
+			temp = arr[str1*num_Strategies + i];
+			arr[str1*num_Strategies + i] = score1;
+			score1 = temp;
+		}
+	}
+
+	//for second strategy
+	for (int i = 0; i < num_Strategies; i++) {
+		if (arr[str2*num_Strategies + i] > score2) {
+			temp = arr[str2*num_Strategies + i];
+			arr[str2*num_Strategies + i] = score2;
+			score2 = temp;
+		}
+	}
+
 }

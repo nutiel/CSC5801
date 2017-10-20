@@ -43,6 +43,7 @@ int IfNode::performComparison(int i) {
 		}
 		break;
 	}
+	return -1;
 }
 
 int IfNode::ifSyntaxCheck(int i) {
@@ -97,8 +98,11 @@ int IfNode::rheSyntaxCheck(int i) {
 
 	int j = i;
 
+	std::transform(if_stmt[j].begin(), if_stmt[j].end(), if_stmt[j].begin(), ::toupper);//transform to Uppercase
+
 	while (if_stmt[j] != "GOTO") {
 		j++;
+		std::transform(if_stmt[j].begin(), if_stmt[j].end(), if_stmt[j].begin(), ::toupper);//transform to Uppercase
 	}
 
 	rhe = new Expression(i, j-1, if_stmt, p);

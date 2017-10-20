@@ -134,7 +134,7 @@ int Prisoner::to_int(string num) {
 int Prisoner::parseLine(int n) {
 
 	//check line number correctness
-	if (to_int(code[n][0]) <= 0 || to_int(code[n][0]) >= (int)code.size()) {
+	if (to_int(code[n][0]) <= 0 || to_int(code[n][0]) > (int)code.size()) {
 		cout << "Line number format incorrect. (line: " << n << " )";
 		return -1;
 	}

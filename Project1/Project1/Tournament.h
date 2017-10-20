@@ -17,7 +17,10 @@ public:
 	void runSimulation(int i, int j, Game g);
 	void readFiles(int i, int j, Prisoner* p1, Prisoner* p2);
 	void printCurrentResults(Prisoner* p1, Prisoner* p2, Game g);
+	void saveStats(Game g, int str1, int str2);
+	void printStats();
 private:
 	int num_Strategies;
 	static const int MAX_ITERARIONS = 200;
+	double* arr;
 };
