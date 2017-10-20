@@ -227,7 +227,7 @@ void showMenu() {
 	cout << "1. To Generate a new set of strategies." << endl;
 	cout << "2. To run tournament with strategies in the \"files\" file." << endl;
 	cout << "0. To Exit" << endl;
-	cout << endl << ">";
+	cout << endl << "> ";
 }
 
 int main() {

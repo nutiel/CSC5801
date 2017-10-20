@@ -20,7 +20,7 @@ void Tournament::setNumofFiles(int n) {
 	num_Strategies = n;
 }
 
-void Tournament::runSimulation(int i, int j) {
+void Tournament::runSimulation(int i, int j, Game g) {
 
 	Prisoner* p1 = new Prisoner();
 	Prisoner* p2 = new Prisoner();
@@ -40,11 +40,22 @@ void Tournament::runSimulation(int i, int j) {
 		p1->result(p1_decision, p2_decision);
 		p2->result(p2_decision, p1_decision);
 
-		/*Gather info for statistics*/
 	}
+
+	printCurrentResults(p1, p2, g);
 	
 	delete p1;
 	delete p2;
+}
+
+void Tournament::printCurrentResults(Prisoner* p1, Prisoner* p2, Game g) {
+
+	cout << "\nResults for match between " << g.getStrategy1() << " and " << g.getStrategy2() << endl << endl;
+	cout << "p1 w = " << p1->ALLOUTCOMES_W() << ", x = " << p1->ALLOUTCOMES_X() << ", y = " << p1->ALLOUTCOMES_Y() << ", z = " << p1->ALLOUTCOMES_Z();
+	cout << ", score = " << p1->MYSCORE() << endl;
+	cout << "p2 w = " << p2->ALLOUTCOMES_W() << ", x = " << p2->ALLOUTCOMES_X() << ", y = " << p2->ALLOUTCOMES_Y() << ", z = " << p2->ALLOUTCOMES_Z();
+	cout << ", score = " << p2->MYSCORE() << endl;
+
 }
 
 void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
@@ -103,9 +114,9 @@ void Tournament::runTournament() {
 			name2 = name2 + std::to_string(j+1);
 			name2.append(".txt");
 			matchups[j + i*num_Strategies].setStrategy(name1, name2);
-			runSimulation(i, j);
+			runSimulation(i, j, matchups[j + i*num_Strategies]);
 		}
 	}
 
-	delete matchups;
+	delete[] matchups;
 }

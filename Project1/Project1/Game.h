@@ -14,4 +14,6 @@ public:
 private:
 	string strategy1;
 	string strategy2;
+
+
 };
