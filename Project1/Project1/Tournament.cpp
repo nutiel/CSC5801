@@ -67,7 +67,8 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 		ofile.close();
 	}
 	else {
-		cout << "Unable to open file for prisoner1";
+		cout << "Unable to open file for prisoner1\n";
+		exit(1);
 	}
 
 	l = 0;
@@ -83,7 +84,8 @@ void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
 		ofile2.close();
 	}
 	else {
-		cout << "Unable to open file for prisoner2";
+		cout << "Unable to open file for prisoner2\n";
+		exit(1);
 	}
 }
 
@@ -94,9 +96,11 @@ void Tournament::runTournament() {
 
 	for (int i = 0; i < num_Strategies; i++) {
 		for (int j = 0; j < num_Strategies; j++) {
-			name1 = name1 + std::to_string(i);
+			name1 = "";
+			name2 = "";
+			name1 = name1 + std::to_string(i+1);
 			name1.append(".txt");
-			name2 = name2 + std::to_string(j);
+			name2 = name2 + std::to_string(j+1);
 			name2.append(".txt");
 			matchups[j + i*num_Strategies].setStrategy(name1, name2);
 			runSimulation(i, j);

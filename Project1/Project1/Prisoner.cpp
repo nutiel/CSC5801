@@ -50,31 +50,30 @@ void Prisoner::increaseIterations() {
 }
 
 void Prisoner::setCode(string line, int i) {
-	
-	int j = 0;
-	bool flag = false;
+
 	string word;
 	vector<string> temp(0, "");
 
-	for (std::string::iterator c = line.begin(); c != line.end(); ++c) {
-		if (*c == ' ' && flag) {
-			j++;
-		}
-		else if (*c == ' ') {
-			// Do Nothing
+	for (std::string::iterator c = line.begin(); c != line.end(); c++) {
+		if (*c == ' ') {
+			c++;
 		}
 		else {
-			do {
+			while (*c != ' ') {
 				word += *c;
-				c++;
-			} while (c + 1 != line.end() || *c + 1 != ' ');
+				if (c + 1 != line.end()) {
+					c++;
+				}
+				else {
+					break;
+				}
+			}
 
 			temp.push_back(word); //temporary vector
-			flag = true;
+			word = "";
 		}
-
-		code.push_back(temp);
 	}
+	code.push_back(temp);
 }
 
 bool Prisoner::makeDecision() {
@@ -95,19 +94,39 @@ bool Prisoner::makeDecision() {
 			return false;
 			break;
 		default:
-			cout << "Something went wrong in if resolution\n";
-			return false;
+			for (int j = 0; j < (int)code.size(); j++) {
+				if (currLine == to_int(code[j][0])) {
+					i = j;
+				}
+				else {
+					i = (int)code.size() - 1;
+				}
+			}
 			break;
+		}
+	}
+}
+
+int Prisoner::powOfN(int n, int p) {
+
+	int temp = n;
+
+	if (p = 0) {
+		return 1;
+	}
+	else {
+		for (int i = 1; i <= p; i++) {
+			temp = temp * n;
 		}
 	}
 }
 
 int Prisoner::to_int(string num) {
 
-	int temp = 0, j = 1;
+	int temp = 0, j = num.size();
 
-	for (std::string::iterator c = num.end(); c != num.begin(); --c) {
-		temp += (*c - 48) * j++;
+	for (std::string::iterator c = num.begin(); c != num.end(); ++c) {
+		temp += (*c - 48) * powOfN(10, j);
 	}
 	return temp;
 }
@@ -121,6 +140,7 @@ int Prisoner::parseLine(int n) {
 	}
 
 	std::transform(code[n][1].begin(), code[n][1].end(), code[n][1].begin(), ::toupper);
+
 	if (code[n][1] == "SILENCE") {
 		return 0;
 	}
@@ -133,7 +153,13 @@ int Prisoner::parseLine(int n) {
 	else if (code[n][1] == "IF") {
 		IfNode* f = new IfNode(code[n], this);
 		f->resolve(n);
-		return parseLine(f->getResult());
+		if (f->getResult() < 0) {
+			return -1;
+		}
+		else {
+			return parseLine(f->getResult());
+		}
+		
 	}
 	else {
 		cout << "Syntax error. (line: " << n << " )";

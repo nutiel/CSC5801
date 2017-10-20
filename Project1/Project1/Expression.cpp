@@ -103,12 +103,26 @@ void Expression::findValue() {
 
 }
 
+int Expression::powOfN(int n, int p) {
+
+	int temp = n;
+
+	if (p = 0) {
+		return 1;
+	}
+	else {
+		for (int i = 1; i <= p; i++) {
+			temp = temp * n;
+		}
+	}
+}
+
 int Expression::to_int(string num) {
 
-	int temp = 0, j = 1;
+	int temp = 0, j = num.size();
 
-	for (std::string::iterator c = num.end(); c != num.begin(); --c) {
-		temp += (*c - 48) * j++;
+	for (std::string::iterator c = num.begin(); c != num.end(); ++c) {
+		temp += (*c - 48) * powOfN(10, j);
 	}
 	return temp;
 }

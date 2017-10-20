@@ -97,13 +97,13 @@ void addIfStatement(int n) {
 		statement[n]->append("ALLOUTCOMES_X ");
 		break;
 	case 3:
-		statement[n]->append("LASTOUTCOME_Y ");
+		statement[n]->append("ALLOUTCOMES_Y ");
 		break;
 	case 4:
-		statement[n]->append("LASTOUTCOME_W ");
+		statement[n]->append("ALLOUTCOMES_W ");
 		break;
 	case 5:
-		statement[n]->append("LASTOUTCOME_Z ");
+		statement[n]->append("ALLOUTCOMES_Z ");
 		break;
 	case 6:
 		statement[n]->append("MYSCORE ");
@@ -137,13 +137,13 @@ void addIfStatement(int n) {
 		statement[n]->append("ALLOUTCOMES_X ");
 		break;
 	case 3:
-		statement[n]->append("LASTOUTCOME_Y ");
+		statement[n]->append("ALLOUTCOMES_Y ");
 		break;
 	case 4:
-		statement[n]->append("LASTOUTCOME_W ");
+		statement[n]->append("ALLOUTCOMES_W ");
 		break;
 	case 5:
-		statement[n]->append("LASTOUTCOME_Z ");
+		statement[n]->append("ALLOUTCOMES_Z ");
 		break;
 	case 6:
 		statement[n]->append("MYSCORE ");

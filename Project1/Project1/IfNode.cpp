@@ -23,7 +23,7 @@ int IfNode::performComparison(int i) {
 			return result;
 		}
 		else {
-			return i;
+			return i + 1;
 		}
 		break;
 	case 1:
@@ -31,7 +31,7 @@ int IfNode::performComparison(int i) {
 			return result;
 		}
 		else {
-			return i;
+			return i + 1;
 		}
 		break;
 	case 2:
@@ -39,7 +39,7 @@ int IfNode::performComparison(int i) {
 			return result;
 		}
 		else {
-			return i;
+			return i + 1;
 		}
 		break;
 	}
@@ -69,7 +69,7 @@ int IfNode::lheSyntaxCheck() {
 	lhe->runExpression();
 
 	if (lhe->getSyntaxCheck()) {
-		return opSyntaxCheck(i + 1);
+		return opSyntaxCheck(i);
 	}
 	else {
 		return -1;
@@ -105,7 +105,7 @@ int IfNode::rheSyntaxCheck(int i) {
 	rhe->runExpression();
 
 	if (rhe->getSyntaxCheck()) {
-		return gotoSyntaxCheck(j + 1);
+		return gotoSyntaxCheck(j);
 	}
 	else {
 		return -1;

@@ -19,6 +19,7 @@ public:
 	int MYSCORE();
 	void increaseIterations();
 	void setCode(string code, int i);
+	int powOfN(int n, int p);
 	bool makeDecision();
 	void result(bool result1, bool result2);
 	int parseLine(int l);

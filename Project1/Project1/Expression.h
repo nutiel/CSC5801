@@ -16,6 +16,7 @@ public:
 	bool getSyntaxCheck();
 	void findValue();
 	int to_int(string num);
+	int powOfN(int n, int p);
 private:
 	vector< string> if_stmt;
 	bool syntaxOk;
