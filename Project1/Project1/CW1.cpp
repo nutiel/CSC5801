@@ -12,7 +12,7 @@ string* statement[lines];
 
 void writeLastLine(int n) {
 	int random_integer;
-	random_integer = rand() % 5 + 1; // generates random int nums from 1 to 4
+	random_integer = rand() % 5 + 1; // generates random int nums from 1 to 5
 	statement[n]->append(std::to_string(n+1)) + " ";
 
 	switch (random_integer) {
@@ -152,7 +152,7 @@ void addIfStatement(int n) {
 		statement[n]->append("ITERATIONS ");
 		break;
 	default:
-		random_integer = rand() % n + 1; // generates random int nums from 1 to number of iterations
+		random_integer = rand() % (n+1) + 1; // generates random int nums from 1 to number of iterations
 		statement[n]->append(std::to_string(n)).append(" ");
 		break;
 	}
@@ -233,7 +233,7 @@ void showMenu() {
 int main() {
 
 	int x, choice;
-	Tournament* tour = new Tournament();
+	Tournament* tour;
 
 	showMenu();
 	cin >> choice;
@@ -254,6 +254,7 @@ int main() {
 			cout << "Done!" << endl;
 			break;
 		case 2:
+			tour = new Tournament();
 			cout << "How many strategies do you wish to test: ";
 			cin >> x;
 
