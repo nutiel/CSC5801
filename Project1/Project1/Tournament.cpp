@@ -6,6 +6,7 @@
 #include "Expression.h"
 
 Game* matchups;
+ofstream ifile2;
 
 Tournament::Tournament() :
 	num_Strategies(0) {
@@ -50,12 +51,13 @@ void Tournament::runSimulation(int i, int j, Game* g) {
 }
 
 void Tournament::printCurrentResults(Prisoner* p1, Prisoner* p2, Game g) {
-
-	cout << "\nResults for match between " << g.getStrategy1() << " and " << g.getStrategy2() << endl << endl;
-	cout << "p1 w = " << p1->ALLOUTCOMES_W() << ", x = " << p1->ALLOUTCOMES_X() << ", y = " << p1->ALLOUTCOMES_Y() << ", z = " << p1->ALLOUTCOMES_Z();
-	cout << ", score = " << p1->MYSCORE() << endl;
-	cout << "p2 w = " << p2->ALLOUTCOMES_W() << ", x = " << p2->ALLOUTCOMES_X() << ", y = " << p2->ALLOUTCOMES_Y() << ", z = " << p2->ALLOUTCOMES_Z();
-	cout << ", score = " << p2->MYSCORE() << endl;
+	
+	cout << "\n" << g.getStrategy1() << " vs " << g.getStrategy2() << endl << endl;
+	ifile2 << "\nResults for match between " << g.getStrategy1() << " and " << g.getStrategy2() << endl << endl;
+	ifile2 << "p1 w = " << p1->ALLOUTCOMES_W() << ", x = " << p1->ALLOUTCOMES_X() << ", y = " << p1->ALLOUTCOMES_Y() << ", z = " << p1->ALLOUTCOMES_Z();
+	ifile2<< ", score = " << p1->MYSCORE() << endl;
+	ifile2<< "p2 w = " << p2->ALLOUTCOMES_W() << ", x = " << p2->ALLOUTCOMES_X() << ", y = " << p2->ALLOUTCOMES_Y() << ", z = " << p2->ALLOUTCOMES_Z();
+	ifile2<< ", score = " << p2->MYSCORE() << endl;
 
 }
 
@@ -107,6 +109,15 @@ void Tournament::runTournament() {
 	arr = new double[num_Strategies*num_Strategies];
 	string name1, name2;
 
+	string name;
+
+	name = "Results.txt";
+
+	if (remove(("./files/" + name).c_str()) == 0) {
+		cout << "File couldn't be removed\n";
+	}
+	ifile2.open("./files/" + name);
+
 	for (int i = 0; i < num_Strategies*num_Strategies; i++) {
 		arr[i] = -1;
 	}
@@ -127,23 +138,46 @@ void Tournament::runTournament() {
 
 	printStats();
 
+	ifile2.close();
 	delete[] arr;
 	delete[] matchups;
 }
 
 void Tournament::printStats() {
 
-	cout << "Strategy Average Scores\n\n";
+	string *average = new string[num_Strategies*2];
+	double avg = 0;
+
+	for (int i = 0; i < num_Strategies * 2; i++) {
+		average[i] = -1;
+	}
+
+	cout << "\nStrategy Average Scores\n\n";
 
 	cout << fixed << setprecision(2) << setfill('0');
 
 	for (int i = 0; i < num_Strategies; i++) {
+
+		average[i*2] = std::to_string(i + 1);
 		cout << std::setfill('0') << std::setw(2) << i + 1;
+
 		for (int j = 0; j < num_Strategies; j++) {
+			avg += arr[i*num_Strategies + j];
 			cout << " | " << arr[i*num_Strategies + j];
 		}
+		avg = avg / num_Strategies;
+		average[i * 2 + 1] = std::to_string(avg);
+		avg = 0;
 		cout << endl;
 	}
+
+	for (int i = 0; i < num_Strategies*2; i++) {
+		cout << endl << average[i] << " " << average[i+1] << endl;
+		i++;
+	}
+	cout << endl;
+
+	delete[] average;
 }
 
 void Tournament::saveStats(Game g, int str1, int str2) {

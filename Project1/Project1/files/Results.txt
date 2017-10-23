@@ -1,0 +1,2000 @@
+
+Results for match between 1.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 3.txt
+
+p1 w = 101, x = 99, y = 0, z = 0, score = 697
+p2 w = 101, x = 0, y = 99, z = 0, score = 202
+
+Results for match between 1.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 1.txt and 6.txt
+
+p1 w = 100, x = 100, y = 0, z = 0, score = 700
+p2 w = 100, x = 0, y = 100, z = 0, score = 200
+
+Results for match between 1.txt and 7.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+
+Results for match between 1.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 9.txt
+
+p1 w = 100, x = 100, y = 0, z = 0, score = 700
+p2 w = 100, x = 0, y = 100, z = 0, score = 200
+
+Results for match between 1.txt and 10.txt
+
+p1 w = 92, x = 108, y = 0, z = 0, score = 724
+p2 w = 92, x = 0, y = 108, z = 0, score = 184
+
+Results for match between 1.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 1.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 1.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 1.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 1.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 18.txt
+
+p1 w = 101, x = 99, y = 0, z = 0, score = 697
+p2 w = 101, x = 0, y = 99, z = 0, score = 202
+
+Results for match between 1.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 1.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 2.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 3.txt
+
+p1 w = 110, x = 90, y = 0, z = 0, score = 670
+p2 w = 110, x = 0, y = 90, z = 0, score = 220
+
+Results for match between 2.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 2.txt and 6.txt
+
+p1 w = 110, x = 90, y = 0, z = 0, score = 670
+p2 w = 110, x = 0, y = 90, z = 0, score = 220
+
+Results for match between 2.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 9.txt
+
+p1 w = 101, x = 99, y = 0, z = 0, score = 697
+p2 w = 101, x = 0, y = 99, z = 0, score = 202
+
+Results for match between 2.txt and 10.txt
+
+p1 w = 92, x = 108, y = 0, z = 0, score = 724
+p2 w = 92, x = 0, y = 108, z = 0, score = 184
+
+Results for match between 2.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 2.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 2.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 2.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 2.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 18.txt
+
+p1 w = 93, x = 107, y = 0, z = 0, score = 721
+p2 w = 93, x = 0, y = 107, z = 0, score = 186
+
+Results for match between 2.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 2.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 3.txt and 1.txt
+
+p1 w = 88, x = 0, y = 112, z = 0, score = 176
+p2 w = 88, x = 112, y = 0, z = 0, score = 736
+
+Results for match between 3.txt and 2.txt
+
+p1 w = 98, x = 0, y = 102, z = 0, score = 196
+p2 w = 98, x = 102, y = 0, z = 0, score = 706
+
+Results for match between 3.txt and 3.txt
+
+p1 w = 76, x = 88, y = 15, z = 21, score = 676
+p2 w = 76, x = 15, y = 88, z = 21, score = 311
+
+Results for match between 3.txt and 4.txt
+
+p1 w = 107, x = 0, y = 93, z = 0, score = 214
+p2 w = 107, x = 93, y = 0, z = 0, score = 679
+
+Results for match between 3.txt and 5.txt
+
+p1 w = 2, x = 196, y = 0, z = 2, score = 992
+p2 w = 2, x = 0, y = 196, z = 2, score = 12
+
+Results for match between 3.txt and 6.txt
+
+p1 w = 90, x = 110, y = 0, z = 0, score = 730
+p2 w = 90, x = 0, y = 110, z = 0, score = 180
+
+Results for match between 3.txt and 7.txt
+
+p1 w = 96, x = 0, y = 104, z = 0, score = 192
+p2 w = 96, x = 104, y = 0, z = 0, score = 712
+
+Results for match between 3.txt and 8.txt
+
+p1 w = 97, x = 0, y = 103, z = 0, score = 194
+p2 w = 97, x = 103, y = 0, z = 0, score = 709
+
+Results for match between 3.txt and 9.txt
+
+p1 w = 59, x = 48, y = 48, z = 45, score = 538
+p2 w = 59, x = 48, y = 48, z = 45, score = 538
+
+Results for match between 3.txt and 10.txt
+
+p1 w = 58, x = 53, y = 45, z = 44, score = 557
+p2 w = 58, x = 45, y = 53, z = 44, score = 517
+
+Results for match between 3.txt and 11.txt
+
+p1 w = 75, x = 122, y = 0, z = 3, score = 772
+p2 w = 75, x = 0, y = 122, z = 3, score = 162
+
+Results for match between 3.txt and 12.txt
+
+p1 w = 92, x = 0, y = 108, z = 0, score = 184
+p2 w = 92, x = 108, y = 0, z = 0, score = 724
+
+Results for match between 3.txt and 13.txt
+
+p1 w = 0, x = 198, y = 0, z = 2, score = 998
+p2 w = 0, x = 0, y = 198, z = 2, score = 8
+
+Results for match between 3.txt and 14.txt
+
+p1 w = 0, x = 197, y = 1, z = 2, score = 993
+p2 w = 0, x = 1, y = 197, z = 2, score = 13
+
+Results for match between 3.txt and 15.txt
+
+p1 w = 113, x = 0, y = 87, z = 0, score = 226
+p2 w = 113, x = 87, y = 0, z = 0, score = 661
+
+Results for match between 3.txt and 16.txt
+
+p1 w = 0, x = 199, y = 1, z = 0, score = 995
+p2 w = 0, x = 1, y = 199, z = 0, score = 5
+
+Results for match between 3.txt and 17.txt
+
+p1 w = 107, x = 0, y = 93, z = 0, score = 214
+p2 w = 107, x = 93, y = 0, z = 0, score = 679
+
+Results for match between 3.txt and 18.txt
+
+p1 w = 89, x = 102, y = 4, z = 5, score = 708
+p2 w = 89, x = 4, y = 102, z = 5, score = 218
+
+Results for match between 3.txt and 19.txt
+
+p1 w = 107, x = 0, y = 93, z = 0, score = 214
+p2 w = 107, x = 93, y = 0, z = 0, score = 679
+
+Results for match between 3.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 4.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 3.txt
+
+p1 w = 98, x = 102, y = 0, z = 0, score = 706
+p2 w = 98, x = 0, y = 102, z = 0, score = 196
+
+Results for match between 4.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 5.txt
+
+p1 w = 2, x = 198, y = 0, z = 0, score = 994
+p2 w = 2, x = 0, y = 198, z = 0, score = 4
+
+Results for match between 4.txt and 6.txt
+
+p1 w = 94, x = 106, y = 0, z = 0, score = 718
+p2 w = 94, x = 0, y = 106, z = 0, score = 188
+
+Results for match between 4.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 9.txt
+
+p1 w = 99, x = 101, y = 0, z = 0, score = 703
+p2 w = 99, x = 0, y = 101, z = 0, score = 198
+
+Results for match between 4.txt and 10.txt
+
+p1 w = 95, x = 105, y = 0, z = 0, score = 715
+p2 w = 95, x = 0, y = 105, z = 0, score = 190
+
+Results for match between 4.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 4.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 4.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 4.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 4.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 18.txt
+
+p1 w = 102, x = 98, y = 0, z = 0, score = 694
+p2 w = 102, x = 0, y = 98, z = 0, score = 204
+
+Results for match between 4.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 4.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 5.txt and 1.txt
+
+p1 w = 3, x = 0, y = 197, z = 0, score = 6
+p2 w = 3, x = 197, y = 0, z = 0, score = 991
+
+Results for match between 5.txt and 2.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 5.txt and 3.txt
+
+p1 w = 0, x = 1, y = 199, z = 0, score = 5
+p2 w = 0, x = 199, y = 1, z = 0, score = 995
+
+Results for match between 5.txt and 4.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 5.txt and 5.txt
+
+p1 w = 0, x = 102, y = 0, z = 98, score = 902
+p2 w = 0, x = 0, y = 102, z = 98, score = 392
+
+Results for match between 5.txt and 6.txt
+
+p1 w = 3, x = 3, y = 98, z = 96, score = 405
+p2 w = 3, x = 98, y = 3, z = 96, score = 880
+
+Results for match between 5.txt and 7.txt
+
+p1 w = 1, x = 1, y = 198, z = 0, score = 7
+p2 w = 1, x = 198, y = 1, z = 0, score = 992
+
+Results for match between 5.txt and 8.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 5.txt and 9.txt
+
+p1 w = 0, x = 0, y = 84, z = 116, score = 464
+p2 w = 0, x = 84, y = 0, z = 116, score = 884
+
+Results for match between 5.txt and 10.txt
+
+p1 w = 1, x = 1, y = 90, z = 108, score = 439
+p2 w = 1, x = 90, y = 1, z = 108, score = 884
+
+Results for match between 5.txt and 11.txt
+
+p1 w = 0, x = 104, y = 0, z = 96, score = 904
+p2 w = 0, x = 0, y = 104, z = 96, score = 384
+
+Results for match between 5.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 5.txt and 13.txt
+
+p1 w = 0, x = 93, y = 0, z = 107, score = 893
+p2 w = 0, x = 0, y = 93, z = 107, score = 428
+
+Results for match between 5.txt and 14.txt
+
+p1 w = 1, x = 0, y = 0, z = 199, score = 798
+p2 w = 1, x = 0, y = 0, z = 199, score = 798
+
+Results for match between 5.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 5.txt and 16.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 5.txt and 17.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 5.txt and 18.txt
+
+p1 w = 0, x = 0, y = 99, z = 101, score = 404
+p2 w = 0, x = 99, y = 0, z = 101, score = 899
+
+Results for match between 5.txt and 19.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 5.txt and 20.txt
+
+p1 w = 0, x = 108, y = 0, z = 92, score = 908
+p2 w = 0, x = 0, y = 108, z = 92, score = 368
+
+Results for match between 6.txt and 1.txt
+
+p1 w = 99, x = 0, y = 101, z = 0, score = 198
+p2 w = 99, x = 101, y = 0, z = 0, score = 703
+
+Results for match between 6.txt and 2.txt
+
+p1 w = 96, x = 0, y = 104, z = 0, score = 192
+p2 w = 96, x = 104, y = 0, z = 0, score = 712
+
+Results for match between 6.txt and 3.txt
+
+p1 w = 66, x = 39, y = 54, z = 41, score = 491
+p2 w = 66, x = 54, y = 39, z = 41, score = 566
+
+Results for match between 6.txt and 4.txt
+
+p1 w = 107, x = 0, y = 93, z = 0, score = 214
+p2 w = 107, x = 93, y = 0, z = 0, score = 679
+
+Results for match between 6.txt and 5.txt
+
+p1 w = 0, x = 93, y = 1, z = 106, score = 889
+p2 w = 0, x = 1, y = 93, z = 106, score = 429
+
+Results for match between 6.txt and 6.txt
+
+p1 w = 41, x = 34, y = 47, z = 78, score = 564
+p2 w = 41, x = 47, y = 34, z = 78, score = 629
+
+Results for match between 6.txt and 7.txt
+
+p1 w = 103, x = 0, y = 96, z = 1, score = 210
+p2 w = 103, x = 96, y = 0, z = 1, score = 690
+
+Results for match between 6.txt and 8.txt
+
+p1 w = 101, x = 0, y = 99, z = 0, score = 202
+p2 w = 101, x = 99, y = 0, z = 0, score = 697
+
+Results for match between 6.txt and 9.txt
+
+p1 w = 50, x = 55, y = 44, z = 51, score = 579
+p2 w = 50, x = 44, y = 55, z = 51, score = 524
+
+Results for match between 6.txt and 10.txt
+
+p1 w = 50, x = 45, y = 43, z = 62, score = 573
+p2 w = 50, x = 43, y = 45, z = 62, score = 563
+
+Results for match between 6.txt and 11.txt
+
+p1 w = 0, x = 101, y = 0, z = 99, score = 901
+p2 w = 0, x = 0, y = 101, z = 99, score = 396
+
+Results for match between 6.txt and 12.txt
+
+p1 w = 100, x = 0, y = 100, z = 0, score = 200
+p2 w = 100, x = 100, y = 0, z = 0, score = 700
+
+Results for match between 6.txt and 13.txt
+
+p1 w = 0, x = 85, y = 0, z = 115, score = 885
+p2 w = 0, x = 0, y = 85, z = 115, score = 460
+
+Results for match between 6.txt and 14.txt
+
+p1 w = 0, x = 93, y = 1, z = 106, score = 889
+p2 w = 0, x = 1, y = 93, z = 106, score = 429
+
+Results for match between 6.txt and 15.txt
+
+p1 w = 102, x = 0, y = 98, z = 0, score = 204
+p2 w = 102, x = 98, y = 0, z = 0, score = 694
+
+Results for match between 6.txt and 16.txt
+
+p1 w = 0, x = 94, y = 0, z = 106, score = 894
+p2 w = 0, x = 0, y = 94, z = 106, score = 424
+
+Results for match between 6.txt and 17.txt
+
+p1 w = 101, x = 0, y = 99, z = 0, score = 202
+p2 w = 101, x = 99, y = 0, z = 0, score = 697
+
+Results for match between 6.txt and 18.txt
+
+p1 w = 55, x = 44, y = 52, z = 49, score = 526
+p2 w = 55, x = 52, y = 44, z = 49, score = 566
+
+Results for match between 6.txt and 19.txt
+
+p1 w = 106, x = 0, y = 94, z = 0, score = 212
+p2 w = 106, x = 94, y = 0, z = 0, score = 682
+
+Results for match between 6.txt and 20.txt
+
+p1 w = 0, x = 78, y = 0, z = 122, score = 878
+p2 w = 0, x = 0, y = 78, z = 122, score = 488
+
+Results for match between 7.txt and 1.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+
+Results for match between 7.txt and 2.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+
+Results for match between 7.txt and 3.txt
+
+p1 w = 97, x = 103, y = 0, z = 0, score = 709
+p2 w = 97, x = 0, y = 103, z = 0, score = 194
+
+Results for match between 7.txt and 4.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+
+Results for match between 7.txt and 5.txt
+
+p1 w = 0, x = 199, y = 1, z = 0, score = 995
+p2 w = 0, x = 1, y = 199, z = 0, score = 5
+
+Results for match between 7.txt and 6.txt
+
+p1 w = 92, x = 108, y = 0, z = 0, score = 724
+p2 w = 92, x = 0, y = 108, z = 0, score = 184
+
+Results for match between 7.txt and 7.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+
+Results for match between 7.txt and 8.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+
+Results for match between 7.txt and 9.txt
+
+p1 w = 92, x = 108, y = 0, z = 0, score = 724
+p2 w = 92, x = 0, y = 108, z = 0, score = 184
+
+Results for match between 7.txt and 10.txt
+
+p1 w = 108, x = 91, y = 1, z = 0, score = 671
+p2 w = 108, x = 1, y = 91, z = 0, score = 221
+
+Results for match between 7.txt and 11.txt
+
+p1 w = 77, x = 122, y = 0, z = 1, score = 768
+p2 w = 77, x = 0, y = 122, z = 1, score = 158
+
+Results for match between 7.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 7.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 7.txt and 14.txt
+
+p1 w = 0, x = 199, y = 1, z = 0, score = 995
+p2 w = 0, x = 1, y = 199, z = 0, score = 5
+
+Results for match between 7.txt and 15.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+
+Results for match between 7.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 7.txt and 17.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+
+Results for match between 7.txt and 18.txt
+
+p1 w = 95, x = 105, y = 0, z = 0, score = 715
+p2 w = 95, x = 0, y = 105, z = 0, score = 190
+
+Results for match between 7.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 7.txt and 20.txt
+
+p1 w = 0, x = 199, y = 0, z = 1, score = 999
+p2 w = 0, x = 0, y = 199, z = 1, score = 4
+
+Results for match between 8.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 3.txt
+
+p1 w = 94, x = 106, y = 0, z = 0, score = 718
+p2 w = 94, x = 0, y = 106, z = 0, score = 188
+
+Results for match between 8.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 8.txt and 6.txt
+
+p1 w = 88, x = 112, y = 0, z = 0, score = 736
+p2 w = 88, x = 0, y = 112, z = 0, score = 176
+
+Results for match between 8.txt and 7.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+
+Results for match between 8.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 9.txt
+
+p1 w = 93, x = 107, y = 0, z = 0, score = 721
+p2 w = 93, x = 0, y = 107, z = 0, score = 186
+
+Results for match between 8.txt and 10.txt
+
+p1 w = 102, x = 98, y = 0, z = 0, score = 694
+p2 w = 102, x = 0, y = 98, z = 0, score = 204
+
+Results for match between 8.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 8.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 8.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 8.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 8.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 18.txt
+
+p1 w = 103, x = 97, y = 0, z = 0, score = 691
+p2 w = 103, x = 0, y = 97, z = 0, score = 206
+
+Results for match between 8.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 8.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 9.txt and 1.txt
+
+p1 w = 100, x = 0, y = 100, z = 0, score = 200
+p2 w = 100, x = 100, y = 0, z = 0, score = 700
+
+Results for match between 9.txt and 2.txt
+
+p1 w = 98, x = 0, y = 102, z = 0, score = 196
+p2 w = 98, x = 102, y = 0, z = 0, score = 706
+
+Results for match between 9.txt and 3.txt
+
+p1 w = 50, x = 59, y = 48, z = 43, score = 567
+p2 w = 50, x = 48, y = 59, z = 43, score = 512
+
+Results for match between 9.txt and 4.txt
+
+p1 w = 100, x = 0, y = 100, z = 0, score = 200
+p2 w = 100, x = 100, y = 0, z = 0, score = 700
+
+Results for match between 9.txt and 5.txt
+
+p1 w = 1, x = 107, y = 0, z = 92, score = 905
+p2 w = 1, x = 0, y = 107, z = 92, score = 370
+
+Results for match between 9.txt and 6.txt
+
+p1 w = 50, x = 51, y = 52, z = 47, score = 543
+p2 w = 50, x = 52, y = 51, z = 47, score = 548
+
+Results for match between 9.txt and 7.txt
+
+p1 w = 93, x = 0, y = 107, z = 0, score = 186
+p2 w = 93, x = 107, y = 0, z = 0, score = 721
+
+Results for match between 9.txt and 8.txt
+
+p1 w = 103, x = 0, y = 97, z = 0, score = 206
+p2 w = 103, x = 97, y = 0, z = 0, score = 691
+
+Results for match between 9.txt and 9.txt
+
+p1 w = 43, x = 55, y = 48, z = 54, score = 577
+p2 w = 43, x = 48, y = 55, z = 54, score = 542
+
+Results for match between 9.txt and 10.txt
+
+p1 w = 54, x = 50, y = 43, z = 53, score = 570
+p2 w = 54, x = 43, y = 50, z = 53, score = 535
+
+Results for match between 9.txt and 11.txt
+
+p1 w = 0, x = 103, y = 0, z = 97, score = 903
+p2 w = 0, x = 0, y = 103, z = 97, score = 388
+
+Results for match between 9.txt and 12.txt
+
+p1 w = 114, x = 0, y = 86, z = 0, score = 228
+p2 w = 114, x = 86, y = 0, z = 0, score = 658
+
+Results for match between 9.txt and 13.txt
+
+p1 w = 0, x = 88, y = 0, z = 112, score = 888
+p2 w = 0, x = 0, y = 88, z = 112, score = 448
+
+Results for match between 9.txt and 14.txt
+
+p1 w = 0, x = 90, y = 1, z = 109, score = 886
+p2 w = 0, x = 1, y = 90, z = 109, score = 441
+
+Results for match between 9.txt and 15.txt
+
+p1 w = 93, x = 0, y = 107, z = 0, score = 186
+p2 w = 93, x = 107, y = 0, z = 0, score = 721
+
+Results for match between 9.txt and 16.txt
+
+p1 w = 0, x = 94, y = 1, z = 105, score = 890
+p2 w = 0, x = 1, y = 94, z = 105, score = 425
+
+Results for match between 9.txt and 17.txt
+
+p1 w = 105, x = 0, y = 95, z = 0, score = 210
+p2 w = 105, x = 95, y = 0, z = 0, score = 685
+
+Results for match between 9.txt and 18.txt
+
+p1 w = 44, x = 42, y = 55, z = 59, score = 534
+p2 w = 44, x = 55, y = 42, z = 59, score = 599
+
+Results for match between 9.txt and 19.txt
+
+p1 w = 100, x = 0, y = 100, z = 0, score = 200
+p2 w = 100, x = 100, y = 0, z = 0, score = 700
+
+Results for match between 9.txt and 20.txt
+
+p1 w = 0, x = 112, y = 0, z = 88, score = 912
+p2 w = 0, x = 0, y = 112, z = 88, score = 352
+
+Results for match between 10.txt and 1.txt
+
+p1 w = 105, x = 0, y = 95, z = 0, score = 210
+p2 w = 105, x = 95, y = 0, z = 0, score = 685
+
+Results for match between 10.txt and 2.txt
+
+p1 w = 110, x = 0, y = 90, z = 0, score = 220
+p2 w = 110, x = 90, y = 0, z = 0, score = 670
+
+Results for match between 10.txt and 3.txt
+
+p1 w = 89, x = 1, y = 110, z = 0, score = 183
+p2 w = 89, x = 110, y = 1, z = 0, score = 728
+
+Results for match between 10.txt and 4.txt
+
+p1 w = 96, x = 0, y = 104, z = 0, score = 192
+p2 w = 96, x = 104, y = 0, z = 0, score = 712
+
+Results for match between 10.txt and 5.txt
+
+p1 w = 0, x = 101, y = 0, z = 99, score = 901
+p2 w = 0, x = 0, y = 101, z = 99, score = 396
+
+Results for match between 10.txt and 6.txt
+
+p1 w = 45, x = 50, y = 48, z = 57, score = 568
+p2 w = 45, x = 48, y = 50, z = 57, score = 558
+
+Results for match between 10.txt and 7.txt
+
+p1 w = 87, x = 0, y = 112, z = 1, score = 178
+p2 w = 87, x = 112, y = 0, z = 1, score = 738
+
+Results for match between 10.txt and 8.txt
+
+p1 w = 99, x = 0, y = 101, z = 0, score = 198
+p2 w = 99, x = 101, y = 0, z = 0, score = 703
+
+Results for match between 10.txt and 9.txt
+
+p1 w = 42, x = 50, y = 53, z = 55, score = 554
+p2 w = 42, x = 53, y = 50, z = 55, score = 569
+
+Results for match between 10.txt and 10.txt
+
+p1 w = 59, x = 34, y = 53, z = 54, score = 504
+p2 w = 59, x = 53, y = 34, z = 54, score = 599
+
+Results for match between 10.txt and 11.txt
+
+p1 w = 0, x = 91, y = 0, z = 109, score = 891
+p2 w = 0, x = 0, y = 91, z = 109, score = 436
+
+Results for match between 10.txt and 12.txt
+
+p1 w = 115, x = 0, y = 85, z = 0, score = 230
+p2 w = 115, x = 85, y = 0, z = 0, score = 655
+
+Results for match between 10.txt and 13.txt
+
+p1 w = 0, x = 92, y = 0, z = 108, score = 892
+p2 w = 0, x = 0, y = 92, z = 108, score = 432
+
+Results for match between 10.txt and 14.txt
+
+p1 w = 1, x = 91, y = 0, z = 108, score = 889
+p2 w = 1, x = 0, y = 91, z = 108, score = 434
+
+Results for match between 10.txt and 15.txt
+
+p1 w = 108, x = 0, y = 92, z = 0, score = 216
+p2 w = 108, x = 92, y = 0, z = 0, score = 676
+
+Results for match between 10.txt and 16.txt
+
+p1 w = 1, x = 97, y = 0, z = 102, score = 895
+p2 w = 1, x = 0, y = 97, z = 102, score = 410
+
+Results for match between 10.txt and 17.txt
+
+p1 w = 93, x = 0, y = 107, z = 0, score = 186
+p2 w = 93, x = 107, y = 0, z = 0, score = 721
+
+Results for match between 10.txt and 18.txt
+
+p1 w = 56, x = 54, y = 44, z = 46, score = 566
+p2 w = 56, x = 44, y = 54, z = 46, score = 516
+
+Results for match between 10.txt and 19.txt
+
+p1 w = 101, x = 0, y = 99, z = 0, score = 202
+p2 w = 101, x = 99, y = 0, z = 0, score = 697
+
+Results for match between 10.txt and 20.txt
+
+p1 w = 0, x = 86, y = 0, z = 114, score = 886
+p2 w = 0, x = 0, y = 86, z = 114, score = 456
+
+Results for match between 11.txt and 1.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 2.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 3.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 4.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 5.txt
+
+p1 w = 0, x = 0, y = 95, z = 105, score = 420
+p2 w = 0, x = 95, y = 0, z = 105, score = 895
+
+Results for match between 11.txt and 6.txt
+
+p1 w = 0, x = 0, y = 89, z = 111, score = 444
+p2 w = 0, x = 89, y = 0, z = 111, score = 889
+
+Results for match between 11.txt and 7.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 8.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 9.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+
+Results for match between 11.txt and 10.txt
+
+p1 w = 0, x = 0, y = 108, z = 92, score = 368
+p2 w = 0, x = 108, y = 0, z = 92, score = 908
+
+Results for match between 11.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 11.txt and 12.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 11.txt and 14.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 11.txt and 15.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 16.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 11.txt and 17.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 18.txt
+
+p1 w = 0, x = 0, y = 97, z = 103, score = 412
+p2 w = 0, x = 97, y = 0, z = 103, score = 897
+
+Results for match between 11.txt and 19.txt
+
+p1 w = 78, x = 0, y = 122, z = 0, score = 156
+p2 w = 78, x = 122, y = 0, z = 0, score = 766
+
+Results for match between 11.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 12.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 3.txt
+
+p1 w = 92, x = 108, y = 0, z = 0, score = 724
+p2 w = 92, x = 0, y = 108, z = 0, score = 184
+
+Results for match between 12.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 12.txt and 6.txt
+
+p1 w = 97, x = 103, y = 0, z = 0, score = 709
+p2 w = 97, x = 0, y = 103, z = 0, score = 194
+
+Results for match between 12.txt and 7.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+
+Results for match between 12.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 9.txt
+
+p1 w = 99, x = 101, y = 0, z = 0, score = 703
+p2 w = 99, x = 0, y = 101, z = 0, score = 198
+
+Results for match between 12.txt and 10.txt
+
+p1 w = 95, x = 105, y = 0, z = 0, score = 715
+p2 w = 95, x = 0, y = 105, z = 0, score = 190
+
+Results for match between 12.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 12.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 12.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 12.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 12.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 18.txt
+
+p1 w = 106, x = 94, y = 0, z = 0, score = 682
+p2 w = 106, x = 0, y = 94, z = 0, score = 212
+
+Results for match between 12.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 12.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 13.txt and 1.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 2.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 3.txt
+
+p1 w = 0, x = 0, y = 198, z = 2, score = 8
+p2 w = 0, x = 198, y = 0, z = 2, score = 998
+
+Results for match between 13.txt and 4.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 5.txt
+
+p1 w = 0, x = 0, y = 103, z = 97, score = 388
+p2 w = 0, x = 103, y = 0, z = 97, score = 903
+
+Results for match between 13.txt and 6.txt
+
+p1 w = 0, x = 0, y = 87, z = 113, score = 452
+p2 w = 0, x = 87, y = 0, z = 113, score = 887
+
+Results for match between 13.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 8.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 9.txt
+
+p1 w = 0, x = 0, y = 109, z = 91, score = 364
+p2 w = 0, x = 109, y = 0, z = 91, score = 909
+
+Results for match between 13.txt and 10.txt
+
+p1 w = 0, x = 0, y = 107, z = 93, score = 372
+p2 w = 0, x = 107, y = 0, z = 93, score = 907
+
+Results for match between 13.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 13.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 13.txt and 14.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 13.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 13.txt and 17.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 18.txt
+
+p1 w = 0, x = 0, y = 97, z = 103, score = 412
+p2 w = 0, x = 97, y = 0, z = 103, score = 897
+
+Results for match between 13.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 13.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 14.txt and 1.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 2.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 3.txt
+
+p1 w = 1, x = 0, y = 198, z = 1, score = 6
+p2 w = 1, x = 198, y = 0, z = 1, score = 996
+
+Results for match between 14.txt and 4.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 5.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+
+Results for match between 14.txt and 6.txt
+
+p1 w = 0, x = 1, y = 101, z = 98, score = 397
+p2 w = 0, x = 101, y = 1, z = 98, score = 897
+
+Results for match between 14.txt and 7.txt
+
+p1 w = 0, x = 1, y = 199, z = 0, score = 5
+p2 w = 0, x = 199, y = 1, z = 0, score = 995
+
+Results for match between 14.txt and 8.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 9.txt
+
+p1 w = 0, x = 1, y = 94, z = 105, score = 425
+p2 w = 0, x = 94, y = 1, z = 105, score = 890
+
+Results for match between 14.txt and 10.txt
+
+p1 w = 1, x = 0, y = 88, z = 111, score = 446
+p2 w = 1, x = 88, y = 0, z = 111, score = 886
+
+Results for match between 14.txt and 11.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+
+Results for match between 14.txt and 12.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 13.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+
+Results for match between 14.txt and 14.txt
+
+p1 w = 1, x = 0, y = 0, z = 199, score = 798
+p2 w = 1, x = 0, y = 0, z = 199, score = 798
+
+Results for match between 14.txt and 15.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 16.txt
+
+p1 w = 0, x = 1, y = 1, z = 198, score = 797
+p2 w = 0, x = 1, y = 1, z = 198, score = 797
+
+Results for match between 14.txt and 17.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 18.txt
+
+p1 w = 0, x = 1, y = 88, z = 111, score = 449
+p2 w = 0, x = 88, y = 1, z = 111, score = 884
+
+Results for match between 14.txt and 19.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 14.txt and 20.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+
+Results for match between 15.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 3.txt
+
+p1 w = 119, x = 81, y = 0, z = 0, score = 643
+p2 w = 119, x = 0, y = 81, z = 0, score = 238
+
+Results for match between 15.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 5.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 15.txt and 6.txt
+
+p1 w = 95, x = 105, y = 0, z = 0, score = 715
+p2 w = 95, x = 0, y = 105, z = 0, score = 190
+
+Results for match between 15.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 9.txt
+
+p1 w = 110, x = 90, y = 0, z = 0, score = 670
+p2 w = 110, x = 0, y = 90, z = 0, score = 220
+
+Results for match between 15.txt and 10.txt
+
+p1 w = 108, x = 92, y = 0, z = 0, score = 676
+p2 w = 108, x = 0, y = 92, z = 0, score = 216
+
+Results for match between 15.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 15.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 15.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 15.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 15.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 18.txt
+
+p1 w = 90, x = 110, y = 0, z = 0, score = 730
+p2 w = 90, x = 0, y = 110, z = 0, score = 180
+
+Results for match between 15.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 15.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 16.txt and 1.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 2.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 3.txt
+
+p1 w = 0, x = 1, y = 191, z = 8, score = 37
+p2 w = 0, x = 191, y = 1, z = 8, score = 987
+
+Results for match between 16.txt and 4.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 5.txt
+
+p1 w = 1, x = 0, y = 0, z = 199, score = 798
+p2 w = 1, x = 0, y = 0, z = 199, score = 798
+
+Results for match between 16.txt and 6.txt
+
+p1 w = 0, x = 1, y = 115, z = 84, score = 341
+p2 w = 0, x = 115, y = 1, z = 84, score = 911
+
+Results for match between 16.txt and 7.txt
+
+p1 w = 0, x = 1, y = 199, z = 0, score = 5
+p2 w = 0, x = 199, y = 1, z = 0, score = 995
+
+Results for match between 16.txt and 8.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 9.txt
+
+p1 w = 0, x = 1, y = 106, z = 93, score = 377
+p2 w = 0, x = 106, y = 1, z = 93, score = 902
+
+Results for match between 16.txt and 10.txt
+
+p1 w = 1, x = 0, y = 99, z = 100, score = 402
+p2 w = 1, x = 99, y = 0, z = 100, score = 897
+
+Results for match between 16.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 16.txt and 12.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 16.txt and 14.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 16.txt and 15.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 16.txt
+
+p1 w = 0, x = 1, y = 1, z = 198, score = 797
+p2 w = 0, x = 1, y = 1, z = 198, score = 797
+
+Results for match between 16.txt and 17.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 18.txt
+
+p1 w = 1, x = 0, y = 103, z = 96, score = 386
+p2 w = 1, x = 103, y = 0, z = 96, score = 901
+
+Results for match between 16.txt and 19.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+
+Results for match between 16.txt and 20.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+
+Results for match between 17.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 3.txt
+
+p1 w = 89, x = 111, y = 0, z = 0, score = 733
+p2 w = 89, x = 0, y = 111, z = 0, score = 178
+
+Results for match between 17.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 5.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 17.txt and 6.txt
+
+p1 w = 108, x = 92, y = 0, z = 0, score = 676
+p2 w = 108, x = 0, y = 92, z = 0, score = 216
+
+Results for match between 17.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 9.txt
+
+p1 w = 106, x = 94, y = 0, z = 0, score = 682
+p2 w = 106, x = 0, y = 94, z = 0, score = 212
+
+Results for match between 17.txt and 10.txt
+
+p1 w = 101, x = 99, y = 0, z = 0, score = 697
+p2 w = 101, x = 0, y = 99, z = 0, score = 202
+
+Results for match between 17.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 17.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 17.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 17.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 17.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 18.txt
+
+p1 w = 103, x = 97, y = 0, z = 0, score = 691
+p2 w = 103, x = 0, y = 97, z = 0, score = 206
+
+Results for match between 17.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 17.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 18.txt and 1.txt
+
+p1 w = 96, x = 0, y = 104, z = 0, score = 192
+p2 w = 96, x = 104, y = 0, z = 0, score = 712
+
+Results for match between 18.txt and 2.txt
+
+p1 w = 95, x = 0, y = 105, z = 0, score = 190
+p2 w = 95, x = 105, y = 0, z = 0, score = 715
+
+Results for match between 18.txt and 3.txt
+
+p1 w = 78, x = 28, y = 70, z = 24, score = 392
+p2 w = 78, x = 70, y = 28, z = 24, score = 602
+
+Results for match between 18.txt and 4.txt
+
+p1 w = 97, x = 0, y = 103, z = 0, score = 194
+p2 w = 97, x = 103, y = 0, z = 0, score = 709
+
+Results for match between 18.txt and 5.txt
+
+p1 w = 0, x = 107, y = 0, z = 93, score = 907
+p2 w = 0, x = 0, y = 107, z = 93, score = 372
+
+Results for match between 18.txt and 6.txt
+
+p1 w = 49, x = 44, y = 49, z = 58, score = 550
+p2 w = 49, x = 49, y = 44, z = 58, score = 575
+
+Results for match between 18.txt and 7.txt
+
+p1 w = 108, x = 1, y = 91, z = 0, score = 221
+p2 w = 108, x = 91, y = 1, z = 0, score = 671
+
+Results for match between 18.txt and 8.txt
+
+p1 w = 91, x = 0, y = 109, z = 0, score = 182
+p2 w = 91, x = 109, y = 0, z = 0, score = 727
+
+Results for match between 18.txt and 9.txt
+
+p1 w = 55, x = 46, y = 48, z = 51, score = 544
+p2 w = 55, x = 48, y = 46, z = 51, score = 554
+
+Results for match between 18.txt and 10.txt
+
+p1 w = 39, x = 52, y = 55, z = 54, score = 554
+p2 w = 39, x = 55, y = 52, z = 54, score = 569
+
+Results for match between 18.txt and 11.txt
+
+p1 w = 0, x = 96, y = 0, z = 104, score = 896
+p2 w = 0, x = 0, y = 96, z = 104, score = 416
+
+Results for match between 18.txt and 12.txt
+
+p1 w = 98, x = 0, y = 102, z = 0, score = 196
+p2 w = 98, x = 102, y = 0, z = 0, score = 706
+
+Results for match between 18.txt and 13.txt
+
+p1 w = 0, x = 104, y = 0, z = 96, score = 904
+p2 w = 0, x = 0, y = 104, z = 96, score = 384
+
+Results for match between 18.txt and 14.txt
+
+p1 w = 0, x = 102, y = 1, z = 97, score = 898
+p2 w = 0, x = 1, y = 102, z = 97, score = 393
+
+Results for match between 18.txt and 15.txt
+
+p1 w = 98, x = 0, y = 102, z = 0, score = 196
+p2 w = 98, x = 102, y = 0, z = 0, score = 706
+
+Results for match between 18.txt and 16.txt
+
+p1 w = 0, x = 101, y = 1, z = 98, score = 897
+p2 w = 0, x = 1, y = 101, z = 98, score = 397
+
+Results for match between 18.txt and 17.txt
+
+p1 w = 89, x = 0, y = 111, z = 0, score = 178
+p2 w = 89, x = 111, y = 0, z = 0, score = 733
+
+Results for match between 18.txt and 18.txt
+
+p1 w = 54, x = 62, y = 40, z = 44, score = 594
+p2 w = 54, x = 40, y = 62, z = 44, score = 484
+
+Results for match between 18.txt and 19.txt
+
+p1 w = 97, x = 0, y = 103, z = 0, score = 194
+p2 w = 97, x = 103, y = 0, z = 0, score = 709
+
+Results for match between 18.txt and 20.txt
+
+p1 w = 0, x = 108, y = 0, z = 92, score = 908
+p2 w = 0, x = 0, y = 108, z = 92, score = 368
+
+Results for match between 19.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 2.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 3.txt
+
+p1 w = 94, x = 106, y = 0, z = 0, score = 718
+p2 w = 94, x = 0, y = 106, z = 0, score = 188
+
+Results for match between 19.txt and 4.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 5.txt
+
+p1 w = 5, x = 195, y = 0, z = 0, score = 985
+p2 w = 5, x = 0, y = 195, z = 0, score = 10
+
+Results for match between 19.txt and 6.txt
+
+p1 w = 102, x = 98, y = 0, z = 0, score = 694
+p2 w = 102, x = 0, y = 98, z = 0, score = 204
+
+Results for match between 19.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 8.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 9.txt
+
+p1 w = 103, x = 97, y = 0, z = 0, score = 691
+p2 w = 103, x = 0, y = 97, z = 0, score = 206
+
+Results for match between 19.txt and 10.txt
+
+p1 w = 89, x = 111, y = 0, z = 0, score = 733
+p2 w = 89, x = 0, y = 111, z = 0, score = 178
+
+Results for match between 19.txt and 11.txt
+
+p1 w = 78, x = 122, y = 0, z = 0, score = 766
+p2 w = 78, x = 0, y = 122, z = 0, score = 156
+
+Results for match between 19.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 19.txt and 14.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 19.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 16.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+
+Results for match between 19.txt and 17.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 18.txt
+
+p1 w = 96, x = 104, y = 0, z = 0, score = 712
+p2 w = 96, x = 0, y = 104, z = 0, score = 192
+
+Results for match between 19.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+
+Results for match between 19.txt and 20.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+
+Results for match between 20.txt and 1.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 2.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 3.txt
+
+p1 w = 0, x = 0, y = 197, z = 3, score = 12
+p2 w = 0, x = 197, y = 0, z = 3, score = 997
+
+Results for match between 20.txt and 4.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 5.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+
+Results for match between 20.txt and 6.txt
+
+p1 w = 0, x = 0, y = 84, z = 116, score = 464
+p2 w = 0, x = 84, y = 0, z = 116, score = 884
+
+Results for match between 20.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 8.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 9.txt
+
+p1 w = 0, x = 0, y = 94, z = 106, score = 424
+p2 w = 0, x = 94, y = 0, z = 106, score = 894
+
+Results for match between 20.txt and 10.txt
+
+p1 w = 0, x = 0, y = 83, z = 117, score = 468
+p2 w = 0, x = 83, y = 0, z = 117, score = 883
+
+Results for match between 20.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 20.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+
+Results for match between 20.txt and 14.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 20.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 16.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+
+Results for match between 20.txt and 17.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 18.txt
+
+p1 w = 0, x = 0, y = 89, z = 111, score = 444
+p2 w = 0, x = 89, y = 0, z = 111, score = 889
+
+Results for match between 20.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+
+Results for match between 20.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800

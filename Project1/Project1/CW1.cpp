@@ -201,6 +201,10 @@ void createFile(int n) {
 	name = name + std::to_string(n);
 	name.append(".txt");
 
+	if (remove(("./files/" + name).c_str()) == 0) {
+		cout << "File couldn't be removed\n";
+	}
+
 	ifile.open("./files/" + name);
 	for (int i = lines-1; i >= 0; i--) {
 		statement[i] = new string;
