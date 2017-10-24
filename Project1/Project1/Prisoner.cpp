@@ -17,7 +17,7 @@ Prisoner::~Prisoner() {
 
 }
 
-char Prisoner::LASTOUTCOME() {
+int Prisoner::LASTOUTCOME() {
 	return last_outcome;
 }
 
@@ -179,19 +179,19 @@ void Prisoner::result(bool result1, bool result2) {
 	if(result1 && result2) {
 		w++;
 		score += 2;
-		this->last_outcome = 'w';
+		this->last_outcome = -1;
 	}else if (result1 && !result2) {
 		x++;
 		score += 5;
-		this->last_outcome = 'x';
+		this->last_outcome = -2;
 	}else if (!result1 && result2) {
 		y++;
 		score += 0;
-		this->last_outcome = 'y';
+		this->last_outcome = -3;
 	}
 	else {
 		z++;
 		score += 4;
-		this->last_outcome = 'z';
+		this->last_outcome = -4;
 	}
 }

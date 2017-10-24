@@ -1,3 +1,14 @@
-﻿  Source.cpp
-  Project2.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\Project2.exe
-  Project2.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\Project2.pdb (Partial PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CW2.cpp
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(237): error C2065: 'Tournament': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(237): error C2065: 'tour': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(258): error C2065: 'tour': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(258): error C2061: syntax error: identifier 'Tournament'
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(262): error C2065: 'tour': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(262): error C2227: left of '->setNumofFiles' must point to class/struct/union/generic type
+  c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(262): note: type is 'unknown-type'
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(264): error C2065: 'tour': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(264): error C2227: left of '->runTournament' must point to class/struct/union/generic type
+  c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(264): note: type is 'unknown-type'
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(268): error C2065: 'tour': undeclared identifier
+c:\users\b7064124\projects\csc5801\project1\project2\cw2.cpp(268): error C2541: 'delete': cannot delete objects that are not pointers

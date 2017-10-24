@@ -58,7 +58,15 @@ void Tournament::printCurrentResults(Prisoner* p1, Prisoner* p2, Game g) {
 	ifile2<< ", score = " << p1->MYSCORE() << endl;
 	ifile2<< "p2 w = " << p2->ALLOUTCOMES_W() << ", x = " << p2->ALLOUTCOMES_X() << ", y = " << p2->ALLOUTCOMES_Y() << ", z = " << p2->ALLOUTCOMES_Z();
 	ifile2<< ", score = " << p2->MYSCORE() << endl;
-
+	if (p1->MYSCORE() > p2->MYSCORE()) {
+		ifile2 << "Player 2 won" << endl;
+	}
+	else if (p1->MYSCORE() < p2->MYSCORE()) {
+		ifile2 << "Player 1 won" << endl;
+	}
+	else {
+		ifile2 << "Draw" << endl;
+	}
 }
 
 void Tournament::readFiles(int i, int j, Prisoner* p1, Prisoner* p2) {
@@ -113,7 +121,7 @@ void Tournament::runTournament() {
 
 	name = "Results.txt";
 
-	if (remove(("./files/" + name).c_str()) == 0) {
+	if (remove(("./files/" + name).c_str()) != 0) {
 		cout << "File couldn't be removed\n";
 	}
 	ifile2.open("./files/" + name);

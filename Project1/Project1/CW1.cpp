@@ -194,7 +194,7 @@ bool checkIf(int n) {
 	return false;
 }
 
-void createFile(int n) {
+void createFile(int n) throw (invalid_argument) {
 
 	string name;
 
@@ -206,6 +206,11 @@ void createFile(int n) {
 	}
 
 	ifile.open("./files/" + name);
+
+	if (ifile.fail()) {
+		throw invalid_argument("File couldn't be opened (" + name + ".txt)");
+	}
+
 	for (int i = lines-1; i >= 0; i--) {
 		statement[i] = new string;
 		if (i == 0) {
@@ -253,7 +258,13 @@ int main() {
 
 			cout << endl << "Creating Strategies ... ";
 			for (int i = 1; i <= x; i++) {
-				createFile(i);
+				try {
+					createFile(i);
+				}
+				catch (const invalid_argument& iae) {
+					cout << "Invalid argument: " << iae.what() << endl;
+					exit(1);
+				}
 			}
 			cout << "Done!" << endl;
 			break;

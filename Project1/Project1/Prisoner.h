@@ -10,7 +10,7 @@ class Prisoner {
 public:
 	Prisoner();
 	~Prisoner();
-	char LASTOUTCOME();
+	int LASTOUTCOME();
 	int ALLOUTCOMES_W();
 	int ALLOUTCOMES_X();
 	int ALLOUTCOMES_Y();
@@ -28,5 +28,5 @@ private:
 	int w, x, y, z, score, iterations;
 	vector< vector< string> > code;
 	//string code[lines];
-	char last_outcome; // a ' ' means this is the first iteration
+	int last_outcome; // a ' ' means this is the first iteration
 };
