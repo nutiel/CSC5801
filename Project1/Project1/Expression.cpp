@@ -29,11 +29,14 @@ bool Expression::getSyntaxCheck() {
 
 void Expression::runExpression() {
 
+	//if (end-begin)%2 != 0 that means that there is an operator missing
 	if ((end-begin)%2 == 0) {
 		if ((end - begin) == 0) {
+			//the expression only has one argument
 			findValue();
 		}
 		else {
+			//Break the expression down to smaller pieces
 			if (if_stmt[begin + 1] != "+" && if_stmt[begin + 1] != "-") {
 				value = -5;
 			}
@@ -107,7 +110,7 @@ int Expression::powOfN(int n, int p) {
 
 	int temp = n;
 
-	if (p = 0) {
+	if (p == 0) {
 		return 1;
 	}
 	else {
@@ -115,11 +118,12 @@ int Expression::powOfN(int n, int p) {
 			temp = temp * n;
 		}
 	}
+	return temp;
 }
 
 int Expression::to_int(string num) {
 
-	int temp = 0, j = num.size();
+	int temp = 0, j = num.size()-1;
 
 	for (std::string::iterator c = num.begin(); c != num.end(); ++c) {
 		temp += (*c - 48) * powOfN(10, j);

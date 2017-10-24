@@ -11,11 +11,17 @@ class IfNode {
 public:
 	IfNode(vector< string> input, Prisoner* pris);
 	~IfNode();
+	//If everything is ok this performs the comparison of the if statement and returns the result
 	int performComparison(int i);
+	//Checks the syntax of the if statement
 	int ifSyntaxCheck(int i);
+	//Checks the syntax of the operator
 	int opSyntaxCheck(int i);
+	//Checks the syntax of the goto part
 	int gotoSyntaxCheck(int i);
+	//Check the syntax of the left hand expression
 	int lheSyntaxCheck();
+	//Check the syntax of the right hand expression
 	int rheSyntaxCheck(int i);
 	void resolve(int i);
 	int getResult();

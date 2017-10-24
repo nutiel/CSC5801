@@ -16,9 +16,9 @@ public:
 	double getScore2();
 	void calculateAverage(Prisoner* p1, Prisoner* p2, int iterations);
 private:
-	string strategy1;
-	string strategy2;
+	string strategy1; //The first strategy competing in the game
+	string strategy2; //The second strategy competing in the game
 
-	double str1_average;
-	double str2_average;
+	double str1_average; //The average score of strategy 1 after 200 iterations
+	double str2_average; //The average score of strategy 2 after 200 iterations
 };

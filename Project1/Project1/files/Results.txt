@@ -1,500 +1,167 @@
 
 Results for match between 1.txt and 1.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 198, x = 0, y = 1, z = 1, score = 400
+p2 w = 198, x = 1, y = 0, z = 1, score = 405
+Player 1 won
 
 Results for match between 1.txt and 2.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
 
 Results for match between 1.txt and 3.txt
 
-p1 w = 99, x = 101, y = 0, z = 0, score = 703
-p2 w = 99, x = 0, y = 101, z = 0, score = 198
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
 
 Results for match between 1.txt and 4.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 88, x = 88, y = 15, z = 9, score = 652
+p2 w = 88, x = 15, y = 88, z = 9, score = 287
+Player 2 won
 
 Results for match between 1.txt and 5.txt
 
-p1 w = 99, x = 101, y = 0, z = 0, score = 703
-p2 w = 99, x = 0, y = 101, z = 0, score = 198
-
-Results for match between 1.txt and 6.txt
-
-p1 w = 92, x = 108, y = 0, z = 0, score = 724
-p2 w = 92, x = 0, y = 108, z = 0, score = 184
-
-Results for match between 1.txt and 7.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 1.txt and 8.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 1.txt and 9.txt
-
-p1 w = 103, x = 97, y = 0, z = 0, score = 691
-p2 w = 103, x = 0, y = 97, z = 0, score = 206
-
-Results for match between 1.txt and 10.txt
-
-p1 w = 111, x = 89, y = 0, z = 0, score = 667
-p2 w = 111, x = 0, y = 89, z = 0, score = 222
+p1 w = 0, x = 98, y = 0, z = 102, score = 898
+p2 w = 0, x = 0, y = 98, z = 102, score = 408
+Player 2 won
 
 Results for match between 2.txt and 1.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
 
 Results for match between 2.txt and 2.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 1, x = 0, y = 0, z = 199, score = 798
+p2 w = 1, x = 0, y = 0, z = 199, score = 798
+Draw
 
 Results for match between 2.txt and 3.txt
 
-p1 w = 110, x = 90, y = 0, z = 0, score = 670
-p2 w = 110, x = 0, y = 90, z = 0, score = 220
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
 
 Results for match between 2.txt and 4.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 1, x = 0, y = 96, z = 103, score = 414
+p2 w = 1, x = 96, y = 0, z = 103, score = 894
+Player 1 won
 
 Results for match between 2.txt and 5.txt
 
-p1 w = 99, x = 101, y = 0, z = 0, score = 703
-p2 w = 99, x = 0, y = 101, z = 0, score = 198
-
-Results for match between 2.txt and 6.txt
-
-p1 w = 92, x = 108, y = 0, z = 0, score = 724
-p2 w = 92, x = 0, y = 108, z = 0, score = 184
-
-Results for match between 2.txt and 7.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 2.txt and 8.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 2.txt and 9.txt
-
-p1 w = 94, x = 106, y = 0, z = 0, score = 718
-p2 w = 94, x = 0, y = 106, z = 0, score = 188
-
-Results for match between 2.txt and 10.txt
-
-p1 w = 0, x = 200, y = 0, z = 0, score = 1000
-p2 w = 0, x = 0, y = 200, z = 0, score = 0
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
 
 Results for match between 3.txt and 1.txt
 
-p1 w = 88, x = 0, y = 112, z = 0, score = 176
-p2 w = 88, x = 112, y = 0, z = 0, score = 736
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
 
 Results for match between 3.txt and 2.txt
 
-p1 w = 98, x = 0, y = 102, z = 0, score = 196
-p2 w = 98, x = 102, y = 0, z = 0, score = 706
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
 
 Results for match between 3.txt and 3.txt
 
-p1 w = 79, x = 86, y = 15, z = 20, score = 668
-p2 w = 79, x = 15, y = 86, z = 20, score = 313
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
 
 Results for match between 3.txt and 4.txt
 
-p1 w = 105, x = 0, y = 95, z = 0, score = 210
-p2 w = 105, x = 95, y = 0, z = 0, score = 685
+p1 w = 96, x = 104, y = 0, z = 0, score = 712
+p2 w = 96, x = 0, y = 104, z = 0, score = 192
+Player 2 won
 
 Results for match between 3.txt and 5.txt
 
-p1 w = 90, x = 104, y = 3, z = 3, score = 712
-p2 w = 90, x = 3, y = 104, z = 3, score = 207
-
-Results for match between 3.txt and 6.txt
-
-p1 w = 92, x = 102, y = 3, z = 3, score = 706
-p2 w = 92, x = 3, y = 102, z = 3, score = 211
-
-Results for match between 3.txt and 7.txt
-
-p1 w = 94, x = 0, y = 106, z = 0, score = 188
-p2 w = 94, x = 106, y = 0, z = 0, score = 718
-
-Results for match between 3.txt and 8.txt
-
-p1 w = 102, x = 0, y = 98, z = 0, score = 204
-p2 w = 102, x = 98, y = 0, z = 0, score = 694
-
-Results for match between 3.txt and 9.txt
-
-p1 w = 67, x = 58, y = 40, z = 35, score = 564
-p2 w = 67, x = 40, y = 58, z = 35, score = 474
-
-Results for match between 3.txt and 10.txt
-
-p1 w = 2, x = 191, y = 1, z = 6, score = 983
-p2 w = 2, x = 1, y = 191, z = 6, score = 33
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
 
 Results for match between 4.txt and 1.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 102, x = 1, y = 94, z = 3, score = 221
+p2 w = 102, x = 94, y = 1, z = 3, score = 686
+Player 1 won
 
 Results for match between 4.txt and 2.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 0, x = 111, y = 1, z = 88, score = 907
+p2 w = 0, x = 1, y = 111, z = 88, score = 357
+Player 2 won
 
 Results for match between 4.txt and 3.txt
 
-p1 w = 98, x = 102, y = 0, z = 0, score = 706
-p2 w = 98, x = 0, y = 102, z = 0, score = 196
+p1 w = 104, x = 0, y = 96, z = 0, score = 208
+p2 w = 104, x = 96, y = 0, z = 0, score = 688
+Player 1 won
 
 Results for match between 4.txt and 4.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
+p1 w = 48, x = 47, y = 53, z = 52, score = 539
+p2 w = 48, x = 53, y = 47, z = 52, score = 569
+Player 1 won
 
 Results for match between 4.txt and 5.txt
 
-p1 w = 95, x = 105, y = 0, z = 0, score = 715
-p2 w = 95, x = 0, y = 105, z = 0, score = 190
-
-Results for match between 4.txt and 6.txt
-
-p1 w = 112, x = 88, y = 0, z = 0, score = 664
-p2 w = 112, x = 0, y = 88, z = 0, score = 224
-
-Results for match between 4.txt and 7.txt
-
-p1 w = 199, x = 1, y = 0, z = 0, score = 403
-p2 w = 199, x = 0, y = 1, z = 0, score = 398
-
-Results for match between 4.txt and 8.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 4.txt and 9.txt
-
-p1 w = 109, x = 91, y = 0, z = 0, score = 673
-p2 w = 109, x = 0, y = 91, z = 0, score = 218
-
-Results for match between 4.txt and 10.txt
-
-p1 w = 91, x = 109, y = 0, z = 0, score = 727
-p2 w = 91, x = 0, y = 109, z = 0, score = 182
+p1 w = 0, x = 90, y = 0, z = 110, score = 890
+p2 w = 0, x = 0, y = 90, z = 110, score = 440
+Player 2 won
 
 Results for match between 5.txt and 1.txt
 
-p1 w = 107, x = 0, y = 93, z = 0, score = 214
-p2 w = 107, x = 93, y = 0, z = 0, score = 679
+p1 w = 0, x = 0, y = 91, z = 109, score = 436
+p2 w = 0, x = 91, y = 0, z = 109, score = 891
+Player 1 won
 
 Results for match between 5.txt and 2.txt
 
-p1 w = 101, x = 0, y = 99, z = 0, score = 202
-p2 w = 101, x = 99, y = 0, z = 0, score = 697
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
 
 Results for match between 5.txt and 3.txt
 
-p1 w = 64, x = 28, y = 70, z = 38, score = 420
-p2 w = 64, x = 70, y = 28, z = 38, score = 630
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
 
 Results for match between 5.txt and 4.txt
 
-p1 w = 103, x = 0, y = 97, z = 0, score = 206
-p2 w = 103, x = 97, y = 0, z = 0, score = 691
+p1 w = 0, x = 0, y = 91, z = 109, score = 436
+p2 w = 0, x = 91, y = 0, z = 109, score = 891
+Player 1 won
 
 Results for match between 5.txt and 5.txt
 
-p1 w = 45, x = 62, y = 47, z = 46, score = 584
-p2 w = 45, x = 47, y = 62, z = 46, score = 509
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
 
-Results for match between 5.txt and 6.txt
+Strategy Average Scores
 
-p1 w = 50, x = 45, y = 50, z = 55, score = 545
-p2 w = 50, x = 50, y = 45, z = 55, score = 570
+01 | 4.99 | 4.99 | 4.49 | 4.46 | 3.43
+02 | 4.00 | 4.00 | 3.99 | 3.99 | 2.07
+03 | 5.00 | 5.00 | 4.99 | 4.99 | 3.56
+04 | 4.54 | 4.47 | 4.46 | 4.45 | 2.85
+05 | 4.00 | 4.00 | 3.98 | 3.98 | 2.20
 
-Results for match between 5.txt and 7.txt
+Strategy Rankings
 
-p1 w = 97, x = 0, y = 102, z = 1, score = 198
-p2 w = 97, x = 102, y = 0, z = 1, score = 708
+02.txt -> 3.61
+05.txt -> 3.63
+04.txt -> 4.15
+01.txt -> 4.47
+03.txt -> 4.71
 
-Results for match between 5.txt and 8.txt
-
-p1 w = 87, x = 0, y = 113, z = 0, score = 174
-p2 w = 87, x = 113, y = 0, z = 0, score = 739
-
-Results for match between 5.txt and 9.txt
-
-p1 w = 48, x = 56, y = 47, z = 49, score = 572
-p2 w = 48, x = 47, y = 56, z = 49, score = 527
-
-Results for match between 5.txt and 10.txt
-
-p1 w = 1, x = 102, y = 1, z = 96, score = 896
-p2 w = 1, x = 1, y = 102, z = 96, score = 391
-
-Results for match between 6.txt and 1.txt
-
-p1 w = 106, x = 0, y = 94, z = 0, score = 212
-p2 w = 106, x = 94, y = 0, z = 0, score = 682
-
-Results for match between 6.txt and 2.txt
-
-p1 w = 100, x = 0, y = 100, z = 0, score = 200
-p2 w = 100, x = 100, y = 0, z = 0, score = 700
-
-Results for match between 6.txt and 3.txt
-
-p1 w = 86, x = 2, y = 109, z = 3, score = 194
-p2 w = 86, x = 109, y = 2, z = 3, score = 729
-
-Results for match between 6.txt and 4.txt
-
-p1 w = 105, x = 0, y = 95, z = 0, score = 210
-p2 w = 105, x = 95, y = 0, z = 0, score = 685
-
-Results for match between 6.txt and 5.txt
-
-p1 w = 47, x = 52, y = 56, z = 45, score = 534
-p2 w = 47, x = 56, y = 52, z = 45, score = 554
-
-Results for match between 6.txt and 6.txt
-
-p1 w = 44, x = 62, y = 44, z = 50, score = 598
-p2 w = 44, x = 44, y = 62, z = 50, score = 508
-
-Results for match between 6.txt and 7.txt
-
-p1 w = 103, x = 0, y = 96, z = 1, score = 210
-p2 w = 103, x = 96, y = 0, z = 1, score = 690
-
-Results for match between 6.txt and 8.txt
-
-p1 w = 102, x = 0, y = 98, z = 0, score = 204
-p2 w = 102, x = 98, y = 0, z = 0, score = 694
-
-Results for match between 6.txt and 9.txt
-
-p1 w = 50, x = 53, y = 44, z = 53, score = 577
-p2 w = 50, x = 44, y = 53, z = 53, score = 532
-
-Results for match between 6.txt and 10.txt
-
-p1 w = 4, x = 88, y = 4, z = 104, score = 864
-p2 w = 4, x = 4, y = 88, z = 104, score = 444
-
-Results for match between 7.txt and 1.txt
-
-p1 w = 199, x = 0, y = 1, z = 0, score = 398
-p2 w = 199, x = 1, y = 0, z = 0, score = 403
-
-Results for match between 7.txt and 2.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 7.txt and 3.txt
-
-p1 w = 97, x = 103, y = 0, z = 0, score = 709
-p2 w = 97, x = 0, y = 103, z = 0, score = 194
-
-Results for match between 7.txt and 4.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 7.txt and 5.txt
-
-p1 w = 115, x = 84, y = 0, z = 1, score = 654
-p2 w = 115, x = 0, y = 84, z = 1, score = 234
-
-Results for match between 7.txt and 6.txt
-
-p1 w = 99, x = 100, y = 0, z = 1, score = 702
-p2 w = 99, x = 0, y = 100, z = 1, score = 202
-
-Results for match between 7.txt and 7.txt
-
-p1 w = 199, x = 1, y = 0, z = 0, score = 403
-p2 w = 199, x = 0, y = 1, z = 0, score = 398
-
-Results for match between 7.txt and 8.txt
-
-p1 w = 199, x = 0, y = 1, z = 0, score = 398
-p2 w = 199, x = 1, y = 0, z = 0, score = 403
-
-Results for match between 7.txt and 9.txt
-
-p1 w = 97, x = 102, y = 0, z = 1, score = 708
-p2 w = 97, x = 0, y = 102, z = 1, score = 198
-
-Results for match between 7.txt and 10.txt
-
-p1 w = 100, x = 99, y = 0, z = 1, score = 699
-p2 w = 100, x = 0, y = 99, z = 1, score = 204
-
-Results for match between 8.txt and 1.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 8.txt and 2.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 8.txt and 3.txt
-
-p1 w = 105, x = 95, y = 0, z = 0, score = 685
-p2 w = 105, x = 0, y = 95, z = 0, score = 210
-
-Results for match between 8.txt and 4.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 8.txt and 5.txt
-
-p1 w = 108, x = 92, y = 0, z = 0, score = 676
-p2 w = 108, x = 0, y = 92, z = 0, score = 216
-
-Results for match between 8.txt and 6.txt
-
-p1 w = 101, x = 99, y = 0, z = 0, score = 697
-p2 w = 101, x = 0, y = 99, z = 0, score = 202
-
-Results for match between 8.txt and 7.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 8.txt and 8.txt
-
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-
-Results for match between 8.txt and 9.txt
-
-p1 w = 98, x = 102, y = 0, z = 0, score = 706
-p2 w = 98, x = 0, y = 102, z = 0, score = 196
-
-Results for match between 8.txt and 10.txt
-
-p1 w = 0, x = 200, y = 0, z = 0, score = 1000
-p2 w = 0, x = 0, y = 200, z = 0, score = 0
-
-Results for match between 9.txt and 1.txt
-
-p1 w = 112, x = 0, y = 88, z = 0, score = 224
-p2 w = 112, x = 88, y = 0, z = 0, score = 664
-
-Results for match between 9.txt and 2.txt
-
-p1 w = 97, x = 0, y = 103, z = 0, score = 194
-p2 w = 97, x = 103, y = 0, z = 0, score = 709
-
-Results for match between 9.txt and 3.txt
-
-p1 w = 67, x = 28, y = 79, z = 26, score = 378
-p2 w = 67, x = 79, y = 28, z = 26, score = 633
-
-Results for match between 9.txt and 4.txt
-
-p1 w = 97, x = 0, y = 103, z = 0, score = 194
-p2 w = 97, x = 103, y = 0, z = 0, score = 709
-
-Results for match between 9.txt and 5.txt
-
-p1 w = 44, x = 49, y = 59, z = 48, score = 525
-p2 w = 44, x = 59, y = 49, z = 48, score = 575
-
-Results for match between 9.txt and 6.txt
-
-p1 w = 42, x = 52, y = 52, z = 54, score = 560
-p2 w = 42, x = 52, y = 52, z = 54, score = 560
-
-Results for match between 9.txt and 7.txt
-
-p1 w = 90, x = 0, y = 110, z = 0, score = 180
-p2 w = 90, x = 110, y = 0, z = 0, score = 730
-
-Results for match between 9.txt and 8.txt
-
-p1 w = 94, x = 0, y = 106, z = 0, score = 188
-p2 w = 94, x = 106, y = 0, z = 0, score = 718
-
-Results for match between 9.txt and 9.txt
-
-p1 w = 48, x = 49, y = 59, z = 44, score = 517
-p2 w = 48, x = 59, y = 49, z = 44, score = 567
-
-Results for match between 9.txt and 10.txt
-
-p1 w = 0, x = 104, y = 0, z = 96, score = 904
-p2 w = 0, x = 0, y = 104, z = 96, score = 384
-
-Results for match between 10.txt and 1.txt
-
-p1 w = 0, x = 0, y = 200, z = 0, score = 0
-p2 w = 0, x = 200, y = 0, z = 0, score = 1000
-
-Results for match between 10.txt and 2.txt
-
-p1 w = 94, x = 0, y = 106, z = 0, score = 188
-p2 w = 94, x = 106, y = 0, z = 0, score = 718
-
-Results for match between 10.txt and 3.txt
-
-p1 w = 1, x = 0, y = 198, z = 1, score = 6
-p2 w = 1, x = 198, y = 0, z = 1, score = 996
-
-Results for match between 10.txt and 4.txt
-
-p1 w = 0, x = 0, y = 200, z = 0, score = 0
-p2 w = 0, x = 200, y = 0, z = 0, score = 1000
-
-Results for match between 10.txt and 5.txt
-
-p1 w = 44, x = 57, y = 54, z = 45, score = 553
-p2 w = 44, x = 54, y = 57, z = 45, score = 538
-
-Results for match between 10.txt and 6.txt
-
-p1 w = 2, x = 1, y = 107, z = 90, score = 369
-p2 w = 2, x = 107, y = 1, z = 90, score = 899
-
-Results for match between 10.txt and 7.txt
-
-p1 w = 106, x = 1, y = 93, z = 0, score = 217
-p2 w = 106, x = 93, y = 1, z = 0, score = 677
-
-Results for match between 10.txt and 8.txt
-
-p1 w = 103, x = 0, y = 97, z = 0, score = 206
-p2 w = 103, x = 97, y = 0, z = 0, score = 691
-
-Results for match between 10.txt and 9.txt
-
-p1 w = 3, x = 3, y = 92, z = 102, score = 429
-p2 w = 3, x = 92, y = 3, z = 102, score = 874
-
-Results for match between 10.txt and 10.txt
-
-p1 w = 0, x = 0, y = 98, z = 102, score = 408
-p2 w = 0, x = 98, y = 0, z = 102, score = 898

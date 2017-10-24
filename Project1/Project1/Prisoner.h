@@ -27,6 +27,5 @@ public:
 private:
 	int w, x, y, z, score, iterations;
 	vector< vector< string> > code;
-	//string code[lines];
-	int last_outcome; // a ' ' means this is the first iteration
+	int last_outcome; // a 0 means this is the first iteration, -1->W, -2->X, -3->Y, -4->Z
 };

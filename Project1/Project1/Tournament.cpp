@@ -30,6 +30,7 @@ void Tournament::runSimulation(int i, int j, Game* g) {
 	bool p1_decision, p2_decision;
 
 	readFiles(i, j, p1, p2);
+
 	for (int k = 0; k < 200; k++) {
 
 		p1->increaseIterations();
@@ -42,6 +43,8 @@ void Tournament::runSimulation(int i, int j, Game* g) {
 		p2->result(p2_decision, p1_decision);
 
 	}
+
+	ifile2 << "Detailed Game Results" << endl;
 
 	printCurrentResults(p1, p2, *g);
 	g->calculateAverage(p1, p2, p1->ITERATIONS());
@@ -153,39 +156,62 @@ void Tournament::runTournament() {
 
 void Tournament::printStats() {
 
-	string *average = new string[num_Strategies*2];
+	string *avname = new string[num_Strategies];
+	double *avnum = new double[num_Strategies];
 	double avg = 0;
 
-	for (int i = 0; i < num_Strategies * 2; i++) {
-		average[i] = -1;
-	}
-
-	cout << "\nStrategy Average Scores\n\n";
-
-	cout << fixed << setprecision(2) << setfill('0');
+	ifile2 << "\nStrategy Average Scores\n\n";
+	
+	ifile2 << fixed << setprecision(2) << setfill('0');
 
 	for (int i = 0; i < num_Strategies; i++) {
 
-		average[i*2] = std::to_string(i + 1);
-		cout << std::setfill('0') << std::setw(2) << i + 1;
+		avname[i] = std::to_string(i + 1);
+		ifile2 << std::setfill('0') << std::setw(2) << i + 1;
 
 		for (int j = 0; j < num_Strategies; j++) {
 			avg += arr[i*num_Strategies + j];
-			cout << " | " << arr[i*num_Strategies + j];
+			ifile2 << " | " << arr[i*num_Strategies + j];
 		}
 		avg = avg / num_Strategies;
-		average[i * 2 + 1] = std::to_string(avg);
+		avnum[i] = avg;
 		avg = 0;
-		cout << endl;
+		ifile2 << endl;
 	}
 
-	for (int i = 0; i < num_Strategies*2; i++) {
-		cout << endl << average[i] << " " << average[i+1] << endl;
-		i++;
-	}
-	cout << endl;
+	sortAverageArr(avname, avnum);
 
-	delete[] average;
+	ifile2 << endl << "Strategy Rankings" << endl << endl;
+
+	//Cumulative average for each strategy
+	for (int i = 0; i < num_Strategies; i++) {
+		ifile2 << std::setfill('0') << std::setw(2) << avname[i] << ".txt -> " << avnum[i] << endl;
+	}
+	ifile2 << endl;
+
+	delete[] avname;
+	delete[] avnum;
+}
+
+void Tournament::sortAverageArr(string *avname, double *avnum) {
+	string tname;
+	double tav;
+	bool done = false;
+
+	while (!done) {
+		done = true;
+		for (int i = 0; i < num_Strategies - 1; i++) {
+			if (avnum[i] > avnum[i+1]) {
+				tname = avname[i];
+				tav = avnum[i];
+				avname[i] = avname[i + 1];
+				avnum[i] = avnum[i + 1];
+				avname[i + 1] = tname;
+				avnum[i + 1] = tav;
+				done = false;
+			}
+		}
+	}
 }
 
 void Tournament::saveStats(Game g, int str1, int str2) {

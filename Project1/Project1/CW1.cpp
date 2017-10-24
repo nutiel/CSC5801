@@ -11,6 +11,9 @@ ofstream ifile;
 string* statement[lines];
 
 void writeLastLine(int n) {
+
+	//The last 2 lines can only be a return keyword
+
 	int random_integer;
 	random_integer = rand() % 5 + 1; // generates random int nums from 1 to 5
 	statement[n]->append(std::to_string(n+1)) + " ";
@@ -33,6 +36,8 @@ void writeLastLine(int n) {
 }
 
 void writeStrategy(int n) {
+
+	//The if statement should have a higher chance of appearing in the program
 
 	int random_integer;
 	random_integer = rand() % 13 + 1; // generates random int nums from 1 to 13
@@ -60,6 +65,8 @@ void writeStrategy(int n) {
 }
 
 void writeFirstLine(int n) {
+
+	//The first line can be a return keyword but the chance of it should be small
 
 	int random_integer;
 	random_integer = rand() % 20 + 1; // generates random int nums from 1 to 20
@@ -197,7 +204,7 @@ void addIfStatement(int n) {
 
 void goToStatement(int n) {
 
-	bool flag1 = false, flag2 = true;
+	bool flag1 = false;
 
 	for (int i = n+1; i < lines; i++) {
 		if (!checkIf(i)) {
@@ -206,12 +213,11 @@ void goToStatement(int n) {
 		if (flag1) {
 			//random_integer = rand() % (n + 1) + 1; // for arbitary number
 			statement[n]->append(std::to_string(i+2));
-			flag2 = false;
 			break;
 		}
 	}
-	if (flag1 && flag2) {
-		statement[n]->append(std::to_string(n));
+	if (!flag1) {
+		statement[n]->append(std::to_string(lines));
 	}
 }
 
@@ -268,8 +274,81 @@ void showMenu() {
 	cout << "Press the appropriate number to select action." << endl;
 	cout << "1. To Generate a new set of strategies." << endl;
 	cout << "2. To run tournament with strategies in the \"files\" file." << endl;
+	cout << "3. For Detailed Results of each game" << endl;
+	cout << "4. For average score of Each strategy" << endl;
+	cout << "5. For Strategy Rankings" << endl;
 	cout << "0. To Exit" << endl;
 	cout << endl << "> ";
+}
+
+void showDetailedRes() {
+
+	string line;
+	bool flag = true;
+
+	ifstream ofile("./files/Results.txt");
+	if (ofile.is_open()) {
+		while (getline(ofile, line)){
+			if (line == "Strategy Average Scores") {
+				flag = false;
+			}
+			if (flag) {
+				cout << line << endl;
+			}
+		}
+		ofile.close();
+	}
+	else {
+		cout << "Unable to open Results file\n";
+		exit(1);
+	}
+}
+
+void showStrAvg() {
+	string line;
+	bool flag = false;
+
+	ifstream ofile("./files/Results.txt");
+	if (ofile.is_open()) {
+		while (getline(ofile, line)) {
+			if (line == "Strategy Average Scores") {
+				flag = true;
+			}
+			if (line == "Strategy Rankings") {
+				flag = false;
+			}
+			if (flag) {
+				cout << line << endl;
+			}
+		}
+		ofile.close();
+	}
+	else {
+		cout << "Unable to open Results file\n";
+		exit(1);
+	}
+}
+
+void showStrRanks() {
+	string line;
+	bool flag = false;
+
+	ifstream ofile("./files/Results.txt");
+	if (ofile.is_open()) {
+		while (getline(ofile, line)) {
+			if (line == "Strategy Rankings") {
+				flag = true;
+			}
+			if (flag) {
+				cout << line << endl;
+			}
+		}
+		ofile.close();
+	}
+	else {
+		cout << "Unable to open Results file\n";
+		exit(1);
+	}
 }
 
 int main() {
@@ -314,6 +393,15 @@ int main() {
 			cout << "Releasing Memory ... ";
 			delete tour;
 			cout << "Done!" << endl;
+			break;
+		case 3:
+			showDetailedRes();
+			break;
+		case 4:
+			showStrAvg();
+			break;
+		case 5:
+			showStrRanks();
 			break;
 		default:
 			cout << "Invalid input." << endl << "Try again." << endl;

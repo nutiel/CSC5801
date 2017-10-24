@@ -21,13 +21,17 @@
   <ItemGroup>
     <ClCompile Include="CW2.cpp" />
     <ClCompile Include="Expression.cpp" />
+    <ClCompile Include="Gang.cpp" />
     <ClCompile Include="IfNode.cpp" />
+    <ClCompile Include="Leader.cpp" />
     <ClCompile Include="Prisoner.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CW2.h" />
     <ClInclude Include="Expression.h" />
+    <ClInclude Include="Gang.h" />
     <ClInclude Include="IfNode.h" />
+    <ClInclude Include="Leader.h" />
     <ClInclude Include="Prisoner.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

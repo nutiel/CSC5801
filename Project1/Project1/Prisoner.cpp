@@ -9,7 +9,7 @@ Prisoner::Prisoner() :
 	w(0), x(0),	y(0), z(0),
 	score(0), 
 	iterations(0),
-	last_outcome(' ') {
+	last_outcome(0) {
 
 }
 
@@ -94,11 +94,13 @@ bool Prisoner::makeDecision() {
 			return false;
 			break;
 		default:
+			//Searches for the line number which is equal to the goto number of the if statement
 			for (int j = 0; j < (int)code.size(); j++) {
 				if (currLine == to_int(code[j][0])) {
 					i = j;
 				}
 				else {
+					//if not found the execution moves to the last line of the strategy
 					i = (int)code.size() - 1;
 				}
 			}
@@ -111,7 +113,7 @@ int Prisoner::powOfN(int n, int p) {
 
 	int temp = n;
 
-	if (p = 0) {
+	if (p == 0) {
 		return 1;
 	}
 	else {
@@ -119,11 +121,12 @@ int Prisoner::powOfN(int n, int p) {
 			temp = temp * n;
 		}
 	}
+	return temp;
 }
 
 int Prisoner::to_int(string num) {
 
-	int temp = 0, j = num.size();
+	int temp = 0, j = num.size()-1;
 
 	for (std::string::iterator c = num.begin(); c != num.end(); ++c) {
 		temp += (*c - 48) * powOfN(10, j);
