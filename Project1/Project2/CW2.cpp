@@ -80,76 +80,127 @@ void writeFirstLine(int n) {
 void addIfStatement(int n) {
 
 	int random_integer;
-	random_integer = rand() % 7 + 1; // generates random int nums from 1 to 7
+	bool flag = true;
+	random_integer = rand() % 10 + 1; // generates random int nums from 1 to 10
 
 	statement[n]->append(" IF ");
 
 	switch (random_integer) {
 	case 1:
 		statement[n]->append("LASTOUTCOME ");
+		flag = true;
 		break;
 	case 2:
 		statement[n]->append("ALLOUTCOMES_X ");
+		flag = false;
 		break;
 	case 3:
 		statement[n]->append("ALLOUTCOMES_Y ");
+		flag = false;
 		break;
 	case 4:
 		statement[n]->append("ALLOUTCOMES_W ");
+		flag = false;
 		break;
 	case 5:
 		statement[n]->append("ALLOUTCOMES_Z ");
+		flag = false;
 		break;
 	case 6:
 		statement[n]->append("MYSCORE ");
+		flag = false;
 		break;
 	case 7:
 		statement[n]->append("ITERATIONS ");
+		flag = false;
+		break;
+	case 8:
+		statement[n]->append("ALLOUTCOMES_A ");
+		flag = true;
+		break;
+	case 9:
+		statement[n]->append("ALLOUTCOMES_B ");
+		flag = true;
+		break;
+	case 10:
+		statement[n]->append("ALLOUTCOMES_B ");
+		flag = true;
 		break;
 	}
 
-	random_integer = rand() % 3 + 1; // generates random int nums from 1 to 3
-
-	switch (random_integer) {
-	case 1:
-		statement[n]->append("< ");
-		break;
-	case 2:
-		statement[n]->append("> ");
-		break;
-	case 3:
+	if (flag) {
 		statement[n]->append("= ");
-		break;
+	}
+	else {
+		random_integer = rand() % 3 + 1; // generates random int nums from 1 to 3
+
+		switch (random_integer) {
+		case 1:
+			statement[n]->append("< ");
+			break;
+		case 2:
+			statement[n]->append("> ");
+			break;
+		case 3:
+			statement[n]->append("= ");
+			break;
+		}
 	}
 
-	random_integer = rand() % 8 + 1; // generates random int nums from 1 to 8
+	if (flag) {
+		random_integer = rand() % 4 + 1; // generates random int nums from 1 to 4
 
-	switch (random_integer) {
-	case 1:
-		statement[n]->append("LASTOUTCOME ");
-		break;
-	case 2:
-		statement[n]->append("ALLOUTCOMES_X ");
-		break;
-	case 3:
-		statement[n]->append("ALLOUTCOMES_Y ");
-		break;
-	case 4:
-		statement[n]->append("ALLOUTCOMES_W ");
-		break;
-	case 5:
-		statement[n]->append("ALLOUTCOMES_Z ");
-		break;
-	case 6:
-		statement[n]->append("MYSCORE ");
-		break;
-	case 7:
-		statement[n]->append("ITERATIONS ");
-		break;
-	default:
-		random_integer = rand() % (n + 1) + 1; // generates random int nums from 1 to number of iterations
-		statement[n]->append(std::to_string(n)).append(" ");
-		break;
+		switch (random_integer) {
+		case 1:
+			statement[n]->append("LASTOUTCOME ");
+			break;
+		case 2:
+			statement[n]->append("A ");
+			break;
+		case 3:
+			statement[n]->append("B ");
+			break;
+		case 4:
+			statement[n]->append("C ");
+			break;
+		}
+	}
+	else {
+		random_integer = rand() % 7 + 1; // generates random int nums from 1 to 10
+
+		switch (random_integer) {
+		case 1:
+			statement[n]->append("ALLOUTCOMES_X ");
+			break;
+		case 2:
+			statement[n]->append("ALLOUTCOMES_Y ");
+			break;
+		case 3:
+			statement[n]->append("ALLOUTCOMES_W ");
+			break;
+		case 4:
+			statement[n]->append("ALLOUTCOMES_Z ");
+			break;
+		case 5:
+			statement[n]->append("MYSCORE ");
+			break;
+		case 6:
+			statement[n]->append("ITERATIONS ");
+			break;
+		case 7:
+			statement[n]->append("ALLOUTCOMES_A ");
+			break;
+		case 8:
+			statement[n]->append("ALLOUTCOMES_B ");
+			break;
+		case 9:
+			statement[n]->append("ALLOUTCOMES_C ");
+			break;
+		default:
+			random_integer = rand() % (n + 1) + 1; // generates random int nums from 1 to number of iterations
+			statement[n]->append(std::to_string(n)).append(" ");
+			break;
+		}
 	}
 
 	statement[n]->append("GOTO ");
@@ -239,7 +290,7 @@ void showMenu() {
 int main() {
 
 	int x, choice;
-	Tournament* tour;
+	//Tournament* tour;
 
 	showMenu();
 	cin >> choice;
@@ -266,17 +317,17 @@ int main() {
 			cout << "Done!" << endl;
 			break;
 		case 2:
-			tour = new Tournament();
+			//tour = new Tournament();
 			cout << "How many strategies do you wish to test: ";
 			cin >> x;
 
-			tour->setNumofFiles(x);
+			//tour->setNumofFiles(x);
 			cout << endl << "Running Tournament ... ";
-			tour->runTournament();
+			//tour->runTournament();
 			cout << "Done!" << endl;
 
 			cout << "Releasing Memory ... ";
-			delete tour;
+			//delete tour;
 			cout << "Done!" << endl;
 			break;
 		default:

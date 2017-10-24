@@ -85,6 +85,7 @@ void writeFirstLine(int n) {
 void addIfStatement(int n) {
 
 	int random_integer;
+	bool flag = true;
 	random_integer = rand() % 7 + 1; // generates random int nums from 1 to 7
 
 	statement[n]->append(" IF ");
@@ -92,69 +93,101 @@ void addIfStatement(int n) {
 	switch (random_integer) {
 	case 1:
 		statement[n]->append("LASTOUTCOME ");
+		flag = true;
 		break;
 	case 2:
 		statement[n]->append("ALLOUTCOMES_X ");
+		flag = false;
 		break;
 	case 3:
 		statement[n]->append("ALLOUTCOMES_Y ");
+		flag = false;
 		break;
 	case 4:
 		statement[n]->append("ALLOUTCOMES_W ");
+		flag = false;
 		break;
 	case 5:
 		statement[n]->append("ALLOUTCOMES_Z ");
+		flag = false;
 		break;
 	case 6:
 		statement[n]->append("MYSCORE ");
+		flag = false;
 		break;
 	case 7:
 		statement[n]->append("ITERATIONS ");
+		flag = false;
 		break;
 	}
 
-	random_integer = rand() % 3 + 1; // generates random int nums from 1 to 3
-
-	switch (random_integer) {
-	case 1:
-		statement[n]->append("< ");
-		break;
-	case 2:
-		statement[n]->append("> ");
-		break;
-	case 3:
+	if (flag) {
 		statement[n]->append("= ");
-		break;
+	}
+	else {
+		random_integer = rand() % 3 + 1; // generates random int nums from 1 to 3
+
+		switch (random_integer) {
+		case 1:
+			statement[n]->append("< ");
+			break;
+		case 2:
+			statement[n]->append("> ");
+			break;
+		case 3:
+			statement[n]->append("= ");
+			break;
+		}
 	}
 
-	random_integer = rand() % 8 + 1; // generates random int nums from 1 to 8
+	if (flag) {
+		random_integer = rand() % 5 + 1; // generates random int nums from 1 to 5
 
-	switch (random_integer) {
-	case 1:
-		statement[n]->append("LASTOUTCOME ");
-		break;
-	case 2:
-		statement[n]->append("ALLOUTCOMES_X ");
-		break;
-	case 3:
-		statement[n]->append("ALLOUTCOMES_Y ");
-		break;
-	case 4:
-		statement[n]->append("ALLOUTCOMES_W ");
-		break;
-	case 5:
-		statement[n]->append("ALLOUTCOMES_Z ");
-		break;
-	case 6:
-		statement[n]->append("MYSCORE ");
-		break;
-	case 7:
-		statement[n]->append("ITERATIONS ");
-		break;
-	default:
-		random_integer = rand() % (n+1) + 1; // generates random int nums from 1 to number of iterations
-		statement[n]->append(std::to_string(n)).append(" ");
-		break;
+		switch (random_integer) {
+		case 1:
+			statement[n]->append("LASTOUTCOME ");
+			break;
+		case 2:
+			statement[n]->append("X ");
+			break;
+		case 3:
+			statement[n]->append("Y ");
+			break;
+		case 4:
+			statement[n]->append("W ");
+			break;
+		case 5:
+			statement[n]->append("Z ");
+			break;
+		}
+	}
+	else {
+		random_integer = rand() % 7 + 1; // generates random int nums from 1 to 7
+
+		switch (random_integer) {
+		case 1:
+			statement[n]->append("ALLOUTCOMES_X ");
+			break;
+		case 2:
+			statement[n]->append("ALLOUTCOMES_Y ");
+			break;
+		case 3:
+			statement[n]->append("ALLOUTCOMES_W ");
+			break;
+		case 4:
+			statement[n]->append("ALLOUTCOMES_Z ");
+			break;
+		case 5:
+			statement[n]->append("MYSCORE ");
+			break;
+		case 6:
+			statement[n]->append("ITERATIONS ");
+			break;
+		default:
+			random_integer = rand() % (n + 1) + 1; // generates random int nums from 1 to number of iterations
+			statement[n]->append(std::to_string(n)).append(" ");
+			break;
+		}
 	}
 
 	statement[n]->append("GOTO ");
@@ -202,7 +235,7 @@ void createFile(int n) throw (invalid_argument) {
 	name.append(".txt");
 
 	if (remove(("./files/" + name).c_str()) == 0) {
-		cout << "File couldn't be removed\n";
+		//cout << "\nFile couldn't be removed";
 	}
 
 	ifile.open("./files/" + name);
@@ -266,7 +299,7 @@ int main() {
 					exit(1);
 				}
 			}
-			cout << "Done!" << endl;
+			cout << "\nDone!" << endl;
 			break;
 		case 2:
 			tour = new Tournament();
