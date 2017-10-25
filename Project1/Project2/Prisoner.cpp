@@ -3,60 +3,12 @@
 #include "IfNode.h"
 #include "Expression.h"
 
-Prisoner::Prisoner() :
-	w(0), x(0), y(0), z(0),
-	score(0),
-	iterations(0),
-	last_outcome(' ') {
+Prisoner::Prisoner() {
 
 }
 
 Prisoner::~Prisoner() {
 
-}
-
-int Prisoner::LASTOUTCOME() {
-	return last_outcome;
-}
-
-int Prisoner::ALLOUTCOMES_W() {
-	return w;
-}
-
-int Prisoner::ALLOUTCOMES_X() {
-	return x;
-}
-
-int Prisoner::ALLOUTCOMES_Y() {
-	return y;
-}
-
-int Prisoner::ALLOUTCOMES_Z() {
-	return z;
-}
-
-int Prisoner::ALLOUTCOMES_A() {
-	return a;
-}
-
-int Prisoner::ALLOUTCOMES_B() {
-	return b;
-}
-
-int Prisoner::ALLOUTCOMES_C() {
-	return c;
-}
-
-int Prisoner::ITERATIONS() {
-	return iterations;
-}
-
-int Prisoner::MYSCORE() {
-	return score;
-}
-
-void Prisoner::increaseIterations() {
-	iterations++;
 }
 
 void Prisoner::setCode(string line, int i) {
@@ -174,37 +126,6 @@ int Prisoner::parseLine(int n) {
 	else {
 		cout << "Syntax error. (line: " << n << " )";
 		return -1;
-	}
-}
-
-/*
-*
-* bool result1 - prisoners own decision
-* bool result2 - other prisoners decision
-*
-* true = silence, false = betray
-*
-*/
-void Prisoner::result(bool result1, bool result2) {
-	if (result1 && result2) {
-		w++;
-		score += 2;
-		this->last_outcome = -1;
-	}
-	else if (result1 && !result2) {
-		x++;
-		score += 5;
-		this->last_outcome = -2;
-	}
-	else if (!result1 && result2) {
-		y++;
-		score += 0;
-		this->last_outcome = -3;
-	}
-	else {
-		z++;
-		score += 4;
-		this->last_outcome = -4;
 	}
 }
 
