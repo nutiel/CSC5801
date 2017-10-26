@@ -4,7 +4,8 @@
 #include <algorithm>
 #include <vector>
 #include "Thread.h"
-#include "Gang.h"
+
+class Gang;
 
 using namespace std;
 

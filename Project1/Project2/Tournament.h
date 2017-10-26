@@ -27,7 +27,7 @@ public:
 	void printStats();
 	//Sorts the contents of the average array
 	void sortAverageArr(string *average, double *avnum);
-
+	//Calls the set prisoner code function for each prisoner
 	void setPrisonerCode(int i, string str, Gang* g);
 private:
 	int num_Strategies;

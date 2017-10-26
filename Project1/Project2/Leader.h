@@ -5,6 +5,9 @@
 #include <vector>
 #include "Prisoner.h"
 
+
+class Gang;
+
 using namespace std;
 
 class Leader : public Prisoner {

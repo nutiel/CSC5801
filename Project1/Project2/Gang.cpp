@@ -3,9 +3,9 @@
 #include "Game.h"
 #include "Gang.h"
 #include "IfNode.h"
-#include "Leader.h"
 #include "Thread.h"
 #include "Tournament.h"
+#include "Prisoner.h"
 
 Gang::Gang() :
 	w(0), x(0), y(0), z(0),
@@ -76,13 +76,13 @@ void Gang::increaseIterations() {
 	iterations++;
 }
 
-int Gang::makeDecision() {
+void Gang::makeDecision() {
 
 	Prisoner* p;
+
 	/*->run the make decision code for the prisoners with threads
 	* ->save the number of votes for silence and betray
 	**/
-
 	for (int i = 0; i < 5; i++) {
 		p = getPrisoner(i);
 		if (i+1 != spy) {
@@ -94,15 +94,18 @@ int Gang::makeDecision() {
 	for (int i = 0; i < 5; i++) {
 		p = getPrisoner(i);
 		if (i + 1 != spy) {
-			//starts the decision making process of the prisoner
+			//ends the decision making process of the prisoner
 			p->join();
 		}
 	}
 
-	p = getPrisoner(spy);
+	//the spy is left in the end to make a decision
+	if (has_spy) {
+		p = getPrisoner(spy);
 
-	p->start();
-	p->join();
+		p->start();
+		p->join();
+	}
 }
 
 /*

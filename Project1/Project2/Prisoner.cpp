@@ -8,6 +8,7 @@
 #include "Thread.h"
 #include "Tournament.h"
 
+
 Prisoner::Prisoner(Gang* gname) :
 g(gname) {
 

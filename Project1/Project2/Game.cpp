@@ -10,7 +10,17 @@
 
 Game::Game() :
 	strategy1(""),
-	strategy2("") {
+	strategy2(""),
+	strategy3(""),
+	strategy4(""),
+	strategy5(""),
+	strategy6(""),
+	strategy7(""),
+	strategy8(""),
+	strategy9(""),
+	strategy10(""),
+	str1_average(0),
+	str2_average(0) {
 
 }
 
@@ -94,7 +104,6 @@ string Game::getStrategy(int i) {
 		break;
 	}
 }
-
 
 double Game::getScore1() {
 	return str1_average;

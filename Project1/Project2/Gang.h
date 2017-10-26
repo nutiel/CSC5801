@@ -2,9 +2,10 @@
 
 #include <iostream>
 #include "Leader.h"
-#include "Prisoner.h"
 
 using namespace std;
+
+class Prisoner;
 
 class Gang {
 public:
@@ -21,9 +22,12 @@ public:
 	int ITERATIONS();
 	int MYSCORE();
 	void increaseIterations();
+	//takes care of the variable updates for the game to continue
 	void result(Gang* g);
+	//chooses a prisoner at random and sets him as a spy
 	bool addSpy(int percent);
-	int makeDecision();
+	//uses the strategies given to the prisoners to make a decision
+	void makeDecision();
 	bool getHasSpy();
 	int getSpy();
 	int getSilenceNo();
