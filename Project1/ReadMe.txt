@@ -1,0 +1,6 @@
+-> A "files" folder in the source file is needed for the programs to work
+-> The name of each strategy must be consecutive numbers starting from 1 (e.g. 1.txt, 2.txt, 3.txt ...)
+-> Project 1 is fully finished and functional
+-> Project 2 runs a tournament with spies and leader choice
+-> Project 2 only provides valid information for option 3 int the menu (Detailed results)
+-> Program only tested from visual studio IDE
