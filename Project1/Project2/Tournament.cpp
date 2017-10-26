@@ -66,6 +66,8 @@ void Tournament::runTournament() {
 				name2 = name2 + std::to_string(random);
 				name2.append(".txt");
 				matchups[j + i*num_Strategies].setStrategy(name1, name2, k);
+				name1 = "";
+				name2 = "";
 			}
 			runSimulation(i, j, &matchups[j + i*num_Strategies], spy_percent);
 			saveStats(matchups[j + i*num_Strategies], i, j);
@@ -100,6 +102,9 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 
 	for (int k = 0; k < 200; k++) {
 
+		g1->resetSpy();
+		g2->resetSpy();
+
 		//Add Spy
 		random_integer = rand() % spy_percent + 1;
 		g1->addSpy(random_integer);
@@ -123,14 +128,14 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 			leaders_choice2 = g2->getLeader()->changeChoice(g2->getLeader()->chooseSpy());
 		}
 
-		if (leaders_choice1 == g1->getSpy() && leaders_choice2 == g2->getSpy()) {
+		if (g1->getHasSpy() && leaders_choice1 == g1->getSpy() && g2->getHasSpy() && leaders_choice2 == g2->getSpy()) {
 			g1->setFoundSpy();
 			g2->setFoundSpy();
 		}
-		else if (leaders_choice1 == g1->getSpy()) {
+		else if (g1->getHasSpy() && leaders_choice1 == g1->getSpy()) {
 			g1->setFoundSpy();
 		}
-		else {
+		else if (g2->getHasSpy() && leaders_choice2 == g2->getSpy()){
 			g2->setFoundSpy();
 		}
 

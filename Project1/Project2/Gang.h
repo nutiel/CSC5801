@@ -26,6 +26,8 @@ public:
 	void result(Gang* g);
 	//chooses a prisoner at random and sets him as a spy
 	bool addSpy(int percent);
+	//resets the spy variable
+	void resetSpy();
 	//uses the strategies given to the prisoners to make a decision
 	void makeDecision();
 	bool getHasSpy();

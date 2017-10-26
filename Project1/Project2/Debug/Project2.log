@@ -1,4 +1,18 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tournament.cpp
+c:\users\b7064124\projects\csc5801\project1\project2\tournament.cpp(99): warning C4101: 'g1_decision': unreferenced local variable
+c:\users\b7064124\projects\csc5801\project1\project2\tournament.cpp(99): warning C4101: 'g2_decision': unreferenced local variable
+  Gang.cpp
+c:\users\b7064124\projects\csc5801\project1\project2\gang.cpp(72): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\users\b7064124\projects\csc5801\project1\project2\gang.cpp(303): warning C4715: 'Gang::getPrisoner': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  Thread.cpp
+  Prisoner.cpp
   Leader.cpp
-c:\users\b7064124\projects\csc5801\project1\project2\leader.cpp(18): error C4716: 'Leader::chooseSpy': must return a value
-c:\users\b7064124\projects\csc5801\project1\project2\leader.cpp(22): error C4716: 'Leader::changeChoice': must return a value
+  IfNode.cpp
+  Game.cpp
+  Expression.cpp
+  CW2.cpp
+  Project2.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\CW2.exe
+  Project2.vcxproj -> C:\Users\B7064124\Projects\CSC5801\Project1\Debug\CW2.pdb (Partial PDB)

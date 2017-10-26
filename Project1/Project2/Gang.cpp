@@ -265,6 +265,11 @@ bool Gang::addSpy(int percent) {
 	return true;
 }
 
+void Gang::resetSpy() {
+	has_spy = false;
+	this->getPrisoner(spy)->setSpy();
+}
+
 bool Gang::getHasSpy() {
 	return has_spy;
 }

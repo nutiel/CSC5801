@@ -1,0 +1,930 @@
+Detailed Game Results
+
+Results for match between 2.txt, 5.txt, 5.txt, 4.txt, 3.txt, 3.txt, 1.txt, 5.txt, 4.txt, 5.txt and 2.txt, 5.txt, 5.txt, 4.txt, 3.txt, 3.txt, 1.txt, 5.txt, 4.txt, 5.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 27, b = 170, c = 2, score = 410
+Votes for Silence = 418Votes for Betray = 419
+g2 w = 1, x = 0, y = 0, z = 0, a = 170, b = 27, c = 2, score = 512
+Votes for Silence = 398Votes for Betray = 602
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 1.txt, 4.txt, 2.txt, 5.txt, 5.txt, 1.txt, 5.txt, 1.txt, 4.txt and 3.txt, 1.txt, 4.txt, 2.txt, 5.txt, 5.txt, 1.txt, 5.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 8, b = 189, c = 3, score = 402
+Votes for Silence = 410Votes for Betray = 413
+g2 w = 0, x = 0, y = 0, z = 0, a = 189, b = 8, c = 3, score = 502
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 2.txt, 3.txt, 4.txt, 3.txt, 5.txt, 1.txt, 4.txt, 5.txt, 3.txt and 5.txt, 2.txt, 3.txt, 4.txt, 3.txt, 5.txt, 1.txt, 4.txt, 5.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 599
+Votes for Silence = 403Votes for Betray = 430
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 499Votes for Betray = 501
+Gang 2 won
+Detailed Game Results
+
+Results for match between 2.txt, 1.txt, 2.txt, 4.txt, 5.txt, 3.txt, 3.txt, 4.txt, 1.txt, 4.txt and 2.txt, 1.txt, 2.txt, 4.txt, 5.txt, 3.txt, 3.txt, 4.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 14, b = 186, c = 0, score = 410
+Votes for Silence = 409Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 186, b = 14, c = 0, score = 507
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 5.txt, 4.txt, 5.txt, 4.txt, 1.txt, 2.txt, 3.txt, 2.txt, 5.txt and 3.txt, 5.txt, 4.txt, 5.txt, 4.txt, 1.txt, 2.txt, 3.txt, 2.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 7, b = 191, c = 2, score = 416
+Votes for Silence = 394Votes for Betray = 422
+g2 w = 0, x = 0, y = 0, z = 0, a = 191, b = 7, c = 2, score = 502
+Votes for Silence = 400Votes for Betray = 600
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 5.txt, 4.txt, 5.txt, 4.txt, 5.txt, 5.txt, 1.txt, 5.txt and 4.txt, 3.txt, 5.txt, 4.txt, 5.txt, 4.txt, 5.txt, 5.txt, 1.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 164, c = 36, score = 410
+Votes for Silence = 317Votes for Betray = 500
+g2 w = 0, x = 0, y = 0, z = 0, a = 164, b = 0, c = 36, score = 482
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 1.txt, 4.txt, 3.txt, 3.txt, 3.txt, 2.txt, 1.txt, 1.txt, 5.txt and 3.txt, 1.txt, 4.txt, 3.txt, 3.txt, 3.txt, 2.txt, 1.txt, 1.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 454
+Votes for Silence = 435Votes for Betray = 404
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 5.txt, 2.txt, 4.txt, 4.txt, 1.txt, 2.txt, 3.txt, 2.txt and 4.txt, 4.txt, 5.txt, 2.txt, 4.txt, 4.txt, 1.txt, 2.txt, 3.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 420
+Votes for Silence = 172Votes for Betray = 647
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 1.txt, 4.txt, 1.txt, 2.txt, 3.txt, 5.txt, 2.txt, 3.txt, 3.txt and 4.txt, 1.txt, 4.txt, 1.txt, 2.txt, 3.txt, 5.txt, 2.txt, 3.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 82, b = 116, c = 2, score = 413
+Votes for Silence = 420Votes for Betray = 419
+g2 w = 0, x = 0, y = 0, z = 0, a = 116, b = 82, c = 2, score = 540
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 5.txt, 1.txt, 2.txt, 5.txt, 4.txt, 2.txt, 3.txt, 1.txt, 4.txt and 2.txt, 5.txt, 1.txt, 2.txt, 5.txt, 4.txt, 2.txt, 3.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 38, b = 161, c = 1, score = 442
+Votes for Silence = 411Votes for Betray = 411
+g2 w = 0, x = 0, y = 0, z = 0, a = 161, b = 38, c = 1, score = 518
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 1.txt, 3.txt, 4.txt, 3.txt, 3.txt, 5.txt, 5.txt, 5.txt, 1.txt and 1.txt, 1.txt, 3.txt, 4.txt, 3.txt, 3.txt, 5.txt, 5.txt, 5.txt, 1.txt
+
+g1 w = 0, x = 0, y = 1, z = 0, a = 0, b = 199, c = 0, score = 427
+Votes for Silence = 422Votes for Betray = 393
+g2 w = 0, x = 1, y = 0, z = 0, a = 199, b = 0, c = 0, score = 502
+Votes for Silence = 399Votes for Betray = 601
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 5.txt, 1.txt, 1.txt, 1.txt, 3.txt, 2.txt, 1.txt, 5.txt and 4.txt, 4.txt, 5.txt, 1.txt, 1.txt, 1.txt, 3.txt, 2.txt, 1.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 10, b = 189, c = 1, score = 442
+Votes for Silence = 408Votes for Betray = 407
+g2 w = 0, x = 0, y = 0, z = 0, a = 189, b = 10, c = 1, score = 504
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 4.txt, 4.txt, 2.txt, 2.txt, 4.txt, 5.txt, 5.txt, 4.txt, 4.txt and 5.txt, 4.txt, 4.txt, 2.txt, 2.txt, 4.txt, 5.txt, 5.txt, 4.txt, 4.txt
+
+g1 w = 2, x = 0, y = 0, z = 0, a = 0, b = 185, c = 13, score = 440
+Votes for Silence = 410Votes for Betray = 410
+g2 w = 2, x = 0, y = 0, z = 0, a = 185, b = 0, c = 13, score = 492
+Votes for Silence = 100Votes for Betray = 900
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 4.txt, 1.txt, 4.txt, 1.txt, 1.txt, 4.txt, 2.txt, 1.txt, 3.txt and 2.txt, 4.txt, 1.txt, 4.txt, 1.txt, 1.txt, 4.txt, 2.txt, 1.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 11, b = 188, c = 1, score = 404
+Votes for Silence = 409Votes for Betray = 416
+g2 w = 0, x = 0, y = 0, z = 0, a = 188, b = 11, c = 1, score = 505
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 5.txt, 4.txt, 5.txt, 2.txt, 1.txt, 3.txt, 2.txt, 4.txt, 1.txt and 4.txt, 5.txt, 4.txt, 5.txt, 2.txt, 1.txt, 3.txt, 2.txt, 4.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 136, b = 64, c = 0, score = 460
+Votes for Silence = 338Votes for Betray = 488
+g2 w = 0, x = 0, y = 0, z = 0, a = 64, b = 136, c = 0, score = 568
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 1.txt, 2.txt, 4.txt, 2.txt, 2.txt, 1.txt, 4.txt, 4.txt and 5.txt, 5.txt, 1.txt, 2.txt, 4.txt, 2.txt, 2.txt, 1.txt, 4.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 197, c = 3, score = 439
+Votes for Silence = 408Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 197, b = 0, c = 3, score = 498
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 2.txt, 4.txt, 4.txt, 2.txt, 3.txt, 5.txt, 3.txt, 4.txt, 2.txt and 5.txt, 2.txt, 4.txt, 4.txt, 2.txt, 3.txt, 5.txt, 3.txt, 4.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 25, b = 174, c = 1, score = 404
+Votes for Silence = 411Votes for Betray = 412
+g2 w = 0, x = 0, y = 0, z = 0, a = 174, b = 25, c = 1, score = 512
+Votes for Silence = 400Votes for Betray = 600
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 1.txt, 5.txt, 2.txt, 5.txt, 1.txt, 2.txt, 2.txt, 1.txt, 1.txt and 5.txt, 1.txt, 5.txt, 2.txt, 5.txt, 1.txt, 2.txt, 2.txt, 1.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 5, b = 193, c = 2, score = 532
+Votes for Silence = 402Votes for Betray = 411
+g2 w = 0, x = 0, y = 0, z = 0, a = 193, b = 5, c = 2, score = 501
+Votes for Silence = 501Votes for Betray = 499
+Gang 2 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 3.txt, 1.txt, 1.txt, 4.txt, 1.txt, 3.txt, 1.txt, 2.txt and 5.txt, 5.txt, 3.txt, 1.txt, 1.txt, 4.txt, 1.txt, 3.txt, 1.txt, 2.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 111, b = 57, c = 31, score = 484
+Votes for Silence = 419Votes for Betray = 419
+g2 w = 1, x = 0, y = 0, z = 0, a = 57, b = 111, c = 31, score = 539
+Votes for Silence = 598Votes for Betray = 402
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 4.txt, 1.txt, 1.txt, 3.txt, 4.txt, 5.txt, 4.txt, 3.txt, 3.txt and 1.txt, 4.txt, 1.txt, 1.txt, 3.txt, 4.txt, 5.txt, 4.txt, 3.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 1, b = 199, c = 0, score = 508
+Votes for Silence = 481Votes for Betray = 347
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 1, c = 0, score = 500
+Votes for Silence = 500Votes for Betray = 500
+Gang 2 won
+Detailed Game Results
+
+Results for match between 1.txt, 5.txt, 3.txt, 1.txt, 1.txt, 4.txt, 3.txt, 3.txt, 1.txt, 4.txt and 1.txt, 5.txt, 3.txt, 1.txt, 1.txt, 4.txt, 3.txt, 3.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 177, b = 19, c = 4, score = 404
+Votes for Silence = 410Votes for Betray = 408
+g2 w = 0, x = 0, y = 0, z = 0, a = 19, b = 177, c = 4, score = 586
+Votes for Silence = 599Votes for Betray = 401
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 3.txt, 5.txt, 2.txt, 3.txt, 4.txt, 2.txt, 5.txt, 5.txt and 5.txt, 5.txt, 3.txt, 5.txt, 2.txt, 3.txt, 4.txt, 2.txt, 5.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 400
+Votes for Silence = 411Votes for Betray = 412
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 200Votes for Betray = 800
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 4.txt, 2.txt, 2.txt, 2.txt, 4.txt, 4.txt, 4.txt, 4.txt, 1.txt and 2.txt, 4.txt, 2.txt, 2.txt, 2.txt, 4.txt, 4.txt, 4.txt, 4.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 82, b = 115, c = 3, score = 451
+Votes for Silence = 253Votes for Betray = 573
+g2 w = 0, x = 0, y = 0, z = 0, a = 115, b = 82, c = 3, score = 539
+Votes for Silence = 298Votes for Betray = 702
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 2.txt, 2.txt, 3.txt, 2.txt, 1.txt, 2.txt, 1.txt, 5.txt, 5.txt and 1.txt, 2.txt, 2.txt, 3.txt, 2.txt, 1.txt, 2.txt, 1.txt, 5.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 550
+Votes for Silence = 421Votes for Betray = 420
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 399Votes for Betray = 601
+Gang 2 won
+Detailed Game Results
+
+Results for match between 2.txt, 3.txt, 3.txt, 1.txt, 4.txt, 5.txt, 1.txt, 3.txt, 2.txt, 2.txt and 2.txt, 3.txt, 3.txt, 1.txt, 4.txt, 5.txt, 1.txt, 3.txt, 2.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 569
+Votes for Silence = 411Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 499Votes for Betray = 501
+Gang 2 won
+Detailed Game Results
+
+Results for match between 2.txt, 1.txt, 2.txt, 4.txt, 5.txt, 5.txt, 3.txt, 5.txt, 4.txt, 4.txt and 2.txt, 1.txt, 2.txt, 4.txt, 5.txt, 5.txt, 3.txt, 5.txt, 4.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 37, b = 161, c = 2, score = 579
+Votes for Silence = 352Votes for Betray = 494
+g2 w = 0, x = 0, y = 0, z = 0, a = 161, b = 37, c = 2, score = 517
+Votes for Silence = 300Votes for Betray = 700
+Gang 2 won
+Detailed Game Results
+
+Results for match between 2.txt, 4.txt, 5.txt, 3.txt, 3.txt, 1.txt, 1.txt, 5.txt, 2.txt, 1.txt and 2.txt, 4.txt, 5.txt, 3.txt, 3.txt, 1.txt, 1.txt, 5.txt, 2.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 441
+Votes for Silence = 409Votes for Betray = 408
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 3.txt, 4.txt, 2.txt, 1.txt, 4.txt, 2.txt, 4.txt, 2.txt, 4.txt and 5.txt, 3.txt, 4.txt, 2.txt, 1.txt, 4.txt, 2.txt, 4.txt, 2.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 420
+Votes for Silence = 414Votes for Betray = 413
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 100Votes for Betray = 900
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 5.txt, 4.txt, 5.txt, 4.txt, 3.txt, 3.txt, 4.txt, 4.txt, 3.txt and 2.txt, 5.txt, 4.txt, 5.txt, 4.txt, 3.txt, 3.txt, 4.txt, 4.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 62, b = 137, c = 1, score = 400
+Votes for Silence = 371Votes for Betray = 437
+g2 w = 0, x = 0, y = 0, z = 0, a = 137, b = 62, c = 1, score = 530
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 2.txt, 2.txt, 4.txt, 3.txt, 5.txt, 1.txt, 3.txt, 5.txt, 5.txt and 2.txt, 2.txt, 2.txt, 4.txt, 3.txt, 5.txt, 1.txt, 3.txt, 5.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 120, b = 77, c = 3, score = 430
+Votes for Silence = 417Votes for Betray = 417
+g2 w = 0, x = 0, y = 0, z = 0, a = 77, b = 120, c = 3, score = 558
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 5.txt, 5.txt, 3.txt, 2.txt, 5.txt, 3.txt, 4.txt, 1.txt and 3.txt, 4.txt, 5.txt, 5.txt, 3.txt, 2.txt, 5.txt, 3.txt, 4.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 62, b = 135, c = 3, score = 462
+Votes for Silence = 419Votes for Betray = 420
+g2 w = 0, x = 0, y = 0, z = 0, a = 135, b = 62, c = 3, score = 529
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 2.txt, 4.txt, 5.txt, 1.txt, 4.txt, 1.txt, 5.txt, 4.txt, 1.txt and 4.txt, 2.txt, 4.txt, 5.txt, 1.txt, 4.txt, 1.txt, 5.txt, 4.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 183, b = 15, c = 2, score = 413
+Votes for Silence = 319Votes for Betray = 489
+g2 w = 0, x = 0, y = 0, z = 0, a = 15, b = 183, c = 2, score = 590
+Votes for Silence = 496Votes for Betray = 504
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 3.txt, 4.txt, 1.txt, 1.txt, 3.txt, 2.txt, 5.txt, 3.txt, 3.txt and 2.txt, 3.txt, 4.txt, 1.txt, 1.txt, 3.txt, 2.txt, 5.txt, 3.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 2, b = 198, c = 0, score = 402
+Votes for Silence = 411Votes for Betray = 407
+g2 w = 0, x = 0, y = 0, z = 0, a = 198, b = 2, c = 0, score = 501
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 5.txt, 3.txt, 2.txt, 3.txt, 4.txt, 3.txt, 4.txt, 1.txt, 4.txt and 3.txt, 5.txt, 3.txt, 2.txt, 3.txt, 4.txt, 3.txt, 4.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 409Votes for Betray = 408
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 499Votes for Betray = 501
+Gang 2 won
+Detailed Game Results
+
+Results for match between 5.txt, 1.txt, 2.txt, 3.txt, 2.txt, 5.txt, 5.txt, 5.txt, 3.txt, 3.txt and 5.txt, 1.txt, 2.txt, 3.txt, 2.txt, 5.txt, 5.txt, 5.txt, 3.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 4, b = 195, c = 1, score = 492
+Votes for Silence = 411Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 195, b = 4, c = 1, score = 501
+Votes for Silence = 500Votes for Betray = 500
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 5.txt, 4.txt, 1.txt, 1.txt, 1.txt, 2.txt, 1.txt, 1.txt and 4.txt, 4.txt, 5.txt, 4.txt, 1.txt, 1.txt, 1.txt, 2.txt, 1.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 421
+Votes for Silence = 402Votes for Betray = 410
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 599
+Votes for Silence = 695Votes for Betray = 305
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 5.txt, 3.txt, 3.txt, 4.txt, 4.txt, 3.txt, 5.txt, 2.txt, 5.txt and 2.txt, 5.txt, 3.txt, 3.txt, 4.txt, 4.txt, 3.txt, 5.txt, 2.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 517
+Votes for Silence = 420Votes for Betray = 418
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 300Votes for Betray = 700
+Gang 2 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 3.txt, 4.txt, 2.txt, 2.txt, 3.txt, 3.txt, 1.txt, 4.txt and 4.txt, 3.txt, 3.txt, 4.txt, 2.txt, 2.txt, 3.txt, 3.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 416
+Votes for Silence = 422Votes for Betray = 422
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 599
+Votes for Silence = 599Votes for Betray = 401
+	Gang 1 had a spy and found him
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 2.txt, 2.txt, 3.txt, 5.txt, 5.txt, 3.txt, 3.txt, 1.txt, 1.txt and 5.txt, 2.txt, 2.txt, 3.txt, 5.txt, 5.txt, 3.txt, 3.txt, 1.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 413Votes for Betray = 413
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 797Votes for Betray = 203
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 4.txt, 3.txt, 1.txt, 4.txt, 5.txt, 5.txt, 5.txt, 5.txt, 1.txt and 2.txt, 4.txt, 3.txt, 1.txt, 4.txt, 5.txt, 5.txt, 5.txt, 5.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 404
+Votes for Silence = 406Votes for Betray = 407
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 3.txt, 4.txt, 1.txt, 3.txt, 1.txt, 3.txt, 1.txt, 2.txt, 3.txt and 3.txt, 3.txt, 4.txt, 1.txt, 3.txt, 1.txt, 3.txt, 1.txt, 2.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 1, a = 193, b = 0, c = 6, score = 492
+Votes for Silence = 429Votes for Betray = 390
+g2 w = 0, x = 0, y = 0, z = 1, a = 0, b = 193, c = 6, score = 595
+Votes for Silence = 698Votes for Betray = 302
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 2.txt, 4.txt, 5.txt, 2.txt, 2.txt, 1.txt, 4.txt, 5.txt, 3.txt and 2.txt, 2.txt, 4.txt, 5.txt, 2.txt, 2.txt, 1.txt, 4.txt, 5.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 422
+Votes for Silence = 254Votes for Betray = 560
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 3.txt, 2.txt, 5.txt, 3.txt, 3.txt, 5.txt, 4.txt, 1.txt and 4.txt, 3.txt, 3.txt, 2.txt, 5.txt, 3.txt, 3.txt, 5.txt, 4.txt, 1.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 5, b = 187, c = 7, score = 589
+Votes for Silence = 411Votes for Betray = 414
+g2 w = 1, x = 0, y = 0, z = 0, a = 187, b = 5, c = 7, score = 498
+Votes for Silence = 501Votes for Betray = 499
+Gang 2 won
+Detailed Game Results
+
+Results for match between 3.txt, 3.txt, 4.txt, 2.txt, 1.txt, 1.txt, 3.txt, 4.txt, 5.txt, 4.txt and 3.txt, 3.txt, 4.txt, 2.txt, 1.txt, 1.txt, 3.txt, 4.txt, 5.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 418
+Votes for Silence = 417Votes for Betray = 415
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 400Votes for Betray = 600
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 5.txt, 3.txt, 3.txt, 1.txt, 1.txt, 4.txt, 1.txt, 3.txt and 4.txt, 4.txt, 5.txt, 3.txt, 3.txt, 1.txt, 1.txt, 4.txt, 1.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 199, b = 1, c = 0, score = 440
+Votes for Silence = 408Votes for Betray = 408
+g2 w = 0, x = 0, y = 0, z = 0, a = 1, b = 199, c = 0, score = 599
+Votes for Silence = 696Votes for Betray = 304
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 1.txt, 5.txt, 5.txt, 2.txt, 3.txt, 4.txt, 4.txt, 1.txt, 4.txt and 3.txt, 1.txt, 5.txt, 5.txt, 2.txt, 3.txt, 4.txt, 4.txt, 1.txt, 4.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 1, b = 192, c = 6, score = 420
+Votes for Silence = 411Votes for Betray = 410
+g2 w = 1, x = 0, y = 0, z = 0, a = 192, b = 1, c = 6, score = 497
+Votes for Silence = 399Votes for Betray = 601
+	Gang 1 had a spy and found him
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 2.txt, 4.txt, 1.txt, 5.txt, 2.txt, 4.txt, 5.txt, 2.txt and 5.txt, 5.txt, 2.txt, 4.txt, 1.txt, 5.txt, 2.txt, 4.txt, 5.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 477
+Votes for Silence = 414Votes for Betray = 415
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 100Votes for Betray = 900
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 1.txt, 4.txt, 5.txt, 2.txt, 3.txt, 4.txt, 4.txt, 5.txt, 3.txt and 5.txt, 1.txt, 4.txt, 5.txt, 2.txt, 3.txt, 4.txt, 4.txt, 5.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 14, b = 185, c = 1, score = 405
+Votes for Silence = 379Votes for Betray = 445
+g2 w = 0, x = 0, y = 0, z = 0, a = 185, b = 14, c = 1, score = 506
+Votes for Silence = 400Votes for Betray = 600
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 2.txt, 5.txt, 1.txt, 5.txt, 4.txt, 5.txt, 2.txt, 4.txt, 1.txt and 3.txt, 2.txt, 5.txt, 1.txt, 5.txt, 4.txt, 5.txt, 2.txt, 4.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 417
+Votes for Silence = 416Votes for Betray = 415
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 4.txt, 5.txt, 3.txt, 1.txt, 5.txt, 2.txt, 3.txt, 4.txt and 4.txt, 4.txt, 4.txt, 5.txt, 3.txt, 1.txt, 5.txt, 2.txt, 3.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 25, b = 174, c = 1, score = 410
+Votes for Silence = 411Votes for Betray = 423
+g2 w = 0, x = 0, y = 0, z = 0, a = 174, b = 25, c = 1, score = 512
+Votes for Silence = 399Votes for Betray = 601
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 3.txt, 3.txt, 3.txt, 4.txt, 4.txt, 1.txt, 1.txt, 2.txt, 4.txt and 3.txt, 3.txt, 3.txt, 3.txt, 4.txt, 4.txt, 1.txt, 1.txt, 2.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 439
+Votes for Silence = 499Votes for Betray = 352
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 5.txt, 5.txt, 4.txt, 2.txt, 1.txt, 2.txt, 2.txt, 5.txt, 4.txt and 3.txt, 5.txt, 5.txt, 4.txt, 2.txt, 1.txt, 2.txt, 2.txt, 5.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 196, c = 4, score = 471
+Votes for Silence = 407Votes for Betray = 406
+g2 w = 0, x = 0, y = 0, z = 0, a = 196, b = 0, c = 4, score = 498
+Votes for Silence = 200Votes for Betray = 800
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 1.txt, 2.txt, 4.txt, 1.txt, 3.txt, 2.txt, 1.txt, 5.txt, 5.txt and 2.txt, 1.txt, 2.txt, 4.txt, 1.txt, 3.txt, 2.txt, 1.txt, 5.txt, 5.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 0, b = 199, c = 0, score = 433
+Votes for Silence = 402Votes for Betray = 406
+g2 w = 1, x = 0, y = 0, z = 0, a = 199, b = 0, c = 0, score = 499
+Votes for Silence = 399Votes for Betray = 601
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 5.txt, 2.txt, 4.txt, 5.txt, 2.txt, 1.txt, 1.txt, 5.txt, 2.txt and 4.txt, 5.txt, 2.txt, 4.txt, 5.txt, 2.txt, 1.txt, 1.txt, 5.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 31, b = 167, c = 2, score = 486
+Votes for Silence = 385Votes for Betray = 434
+g2 w = 0, x = 0, y = 0, z = 0, a = 167, b = 31, c = 2, score = 514
+Votes for Silence = 496Votes for Betray = 504
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 4.txt, 1.txt, 2.txt, 1.txt, 5.txt, 2.txt, 2.txt, 3.txt, 2.txt and 5.txt, 4.txt, 1.txt, 2.txt, 1.txt, 5.txt, 2.txt, 2.txt, 3.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 1, b = 198, c = 1, score = 598
+Votes for Silence = 408Votes for Betray = 407
+g2 w = 0, x = 0, y = 0, z = 0, a = 198, b = 1, c = 1, score = 500
+Votes for Silence = 300Votes for Betray = 700
+Gang 2 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 2.txt, 2.txt, 2.txt, 3.txt, 3.txt, 4.txt, 5.txt, 3.txt and 4.txt, 3.txt, 2.txt, 2.txt, 2.txt, 3.txt, 3.txt, 4.txt, 5.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 43, b = 157, c = 0, score = 555
+Votes for Silence = 409Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 157, b = 43, c = 0, score = 521
+Votes for Silence = 501Votes for Betray = 499
+Gang 2 won
+Detailed Game Results
+
+Results for match between 2.txt, 1.txt, 4.txt, 2.txt, 5.txt, 4.txt, 4.txt, 1.txt, 5.txt, 2.txt and 2.txt, 1.txt, 4.txt, 2.txt, 5.txt, 4.txt, 4.txt, 1.txt, 5.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 197, c = 3, score = 420
+Votes for Silence = 406Votes for Betray = 407
+g2 w = 0, x = 0, y = 0, z = 0, a = 197, b = 0, c = 3, score = 498
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 2.txt, 2.txt, 5.txt, 2.txt, 5.txt, 4.txt, 5.txt, 4.txt and 3.txt, 4.txt, 2.txt, 2.txt, 5.txt, 2.txt, 5.txt, 4.txt, 5.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 404
+Votes for Silence = 410Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 100Votes for Betray = 900
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 3.txt, 1.txt, 4.txt, 3.txt, 2.txt, 5.txt, 5.txt, 1.txt, 3.txt and 2.txt, 3.txt, 1.txt, 4.txt, 3.txt, 2.txt, 5.txt, 5.txt, 1.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 474
+Votes for Silence = 428Votes for Betray = 417
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 499Votes for Betray = 501
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 4.txt, 5.txt, 3.txt, 2.txt, 5.txt, 2.txt, 3.txt, 3.txt, 2.txt and 1.txt, 4.txt, 5.txt, 3.txt, 2.txt, 5.txt, 2.txt, 3.txt, 3.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 77, b = 121, c = 2, score = 434
+Votes for Silence = 401Votes for Betray = 422
+g2 w = 0, x = 0, y = 0, z = 0, a = 121, b = 77, c = 2, score = 537
+Votes for Silence = 500Votes for Betray = 500
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 4.txt, 3.txt, 1.txt, 1.txt, 4.txt, 1.txt, 1.txt, 4.txt, 5.txt and 2.txt, 4.txt, 3.txt, 1.txt, 1.txt, 4.txt, 1.txt, 1.txt, 4.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 501
+Votes for Silence = 409Votes for Betray = 411
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 498Votes for Betray = 502
+Gang 2 won
+Detailed Game Results
+
+Results for match between 5.txt, 4.txt, 2.txt, 3.txt, 2.txt, 1.txt, 3.txt, 1.txt, 1.txt, 3.txt and 5.txt, 4.txt, 2.txt, 3.txt, 2.txt, 1.txt, 3.txt, 1.txt, 1.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 491
+Votes for Silence = 393Votes for Betray = 435
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 897Votes for Betray = 103
+	Gang 1 had a spy and found him
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 1.txt, 1.txt, 2.txt, 2.txt, 5.txt, 5.txt, 4.txt, 1.txt and 4.txt, 3.txt, 1.txt, 1.txt, 2.txt, 2.txt, 5.txt, 5.txt, 4.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 480
+Votes for Silence = 407Votes for Betray = 406
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 5.txt, 2.txt, 5.txt, 5.txt, 5.txt, 1.txt, 3.txt, 3.txt, 1.txt and 2.txt, 5.txt, 2.txt, 5.txt, 5.txt, 5.txt, 1.txt, 3.txt, 3.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 440
+Votes for Silence = 362Votes for Betray = 457
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 797Votes for Betray = 203
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 3.txt, 1.txt, 1.txt, 4.txt, 4.txt, 2.txt, 1.txt, 5.txt, 1.txt and 5.txt, 3.txt, 1.txt, 1.txt, 4.txt, 4.txt, 2.txt, 1.txt, 5.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 514
+Votes for Silence = 414Votes for Betray = 411
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 498Votes for Betray = 502
+Gang 2 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 4.txt, 4.txt, 5.txt, 5.txt, 2.txt, 2.txt, 3.txt, 2.txt and 4.txt, 3.txt, 4.txt, 4.txt, 5.txt, 5.txt, 2.txt, 2.txt, 3.txt, 2.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 1, b = 175, c = 23, score = 427
+Votes for Silence = 419Votes for Betray = 418
+g2 w = 1, x = 0, y = 0, z = 0, a = 175, b = 1, c = 23, score = 488
+Votes for Silence = 300Votes for Betray = 700
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 2.txt, 5.txt, 1.txt, 3.txt, 1.txt, 1.txt, 3.txt, 5.txt, 1.txt and 1.txt, 2.txt, 5.txt, 1.txt, 3.txt, 1.txt, 1.txt, 3.txt, 5.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 413
+Votes for Silence = 409Votes for Betray = 409
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 599
+Votes for Silence = 696Votes for Betray = 304
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 5.txt, 3.txt, 2.txt, 4.txt, 4.txt, 1.txt, 3.txt, 3.txt, 2.txt and 1.txt, 5.txt, 3.txt, 2.txt, 4.txt, 4.txt, 1.txt, 3.txt, 3.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 412
+Votes for Silence = 394Votes for Betray = 445
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 599Votes for Betray = 401
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 4.txt, 1.txt, 4.txt, 1.txt, 1.txt, 2.txt, 2.txt, 1.txt, 4.txt and 1.txt, 4.txt, 1.txt, 4.txt, 1.txt, 1.txt, 2.txt, 2.txt, 1.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 408
+Votes for Silence = 424Votes for Betray = 396
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 399Votes for Betray = 601
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 5.txt, 1.txt, 5.txt, 5.txt, 4.txt, 5.txt, 3.txt, 2.txt, 4.txt and 3.txt, 5.txt, 1.txt, 5.txt, 5.txt, 4.txt, 5.txt, 3.txt, 2.txt, 4.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 1, b = 197, c = 1, score = 417
+Votes for Silence = 388Votes for Betray = 437
+g2 w = 1, x = 0, y = 0, z = 0, a = 197, b = 1, c = 1, score = 499
+Votes for Silence = 300Votes for Betray = 700
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 1.txt, 3.txt, 3.txt, 5.txt, 5.txt, 2.txt, 1.txt, 3.txt, 1.txt and 5.txt, 1.txt, 3.txt, 3.txt, 5.txt, 5.txt, 2.txt, 1.txt, 3.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 191, b = 2, c = 7, score = 402
+Votes for Silence = 408Votes for Betray = 407
+g2 w = 0, x = 0, y = 0, z = 0, a = 2, b = 191, c = 7, score = 592
+Votes for Silence = 598Votes for Betray = 402
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 4.txt, 5.txt, 5.txt, 1.txt, 1.txt, 3.txt, 3.txt, 1.txt, 3.txt and 5.txt, 4.txt, 5.txt, 5.txt, 1.txt, 1.txt, 3.txt, 3.txt, 1.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 405
+Votes for Silence = 398Votes for Betray = 425
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 899Votes for Betray = 101
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 3.txt, 3.txt, 1.txt, 2.txt, 3.txt, 5.txt, 2.txt, 2.txt, 1.txt and 5.txt, 3.txt, 3.txt, 1.txt, 2.txt, 3.txt, 5.txt, 2.txt, 2.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 445
+Votes for Silence = 414Votes for Betray = 414
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 399Votes for Betray = 601
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 1.txt, 5.txt, 1.txt, 2.txt, 1.txt, 1.txt, 2.txt, 5.txt and 3.txt, 4.txt, 1.txt, 5.txt, 1.txt, 2.txt, 1.txt, 1.txt, 2.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 421
+Votes for Silence = 413Votes for Betray = 413
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 1.txt, 1.txt, 2.txt, 5.txt, 1.txt, 3.txt, 3.txt, 4.txt and 4.txt, 3.txt, 1.txt, 1.txt, 2.txt, 5.txt, 1.txt, 3.txt, 3.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 150, b = 0, c = 50, score = 418
+Votes for Silence = 431Votes for Betray = 432
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 150, c = 50, score = 550
+Votes for Silence = 599Votes for Betray = 401
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 1.txt, 2.txt, 2.txt, 3.txt, 3.txt, 2.txt, 4.txt, 1.txt, 4.txt and 2.txt, 1.txt, 2.txt, 2.txt, 3.txt, 3.txt, 2.txt, 4.txt, 1.txt, 4.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 0, b = 198, c = 1, score = 400
+Votes for Silence = 408Votes for Betray = 407
+g2 w = 1, x = 0, y = 0, z = 0, a = 198, b = 0, c = 1, score = 499
+Votes for Silence = 399Votes for Betray = 601
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 4.txt, 1.txt, 4.txt, 1.txt, 4.txt, 2.txt, 4.txt, 5.txt and 3.txt, 4.txt, 4.txt, 1.txt, 4.txt, 1.txt, 4.txt, 2.txt, 4.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 563
+Votes for Silence = 415Votes for Betray = 415
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 200Votes for Betray = 800
+Gang 2 won
+Detailed Game Results
+
+Results for match between 4.txt, 1.txt, 2.txt, 1.txt, 4.txt, 5.txt, 2.txt, 5.txt, 3.txt, 1.txt and 4.txt, 1.txt, 2.txt, 1.txt, 4.txt, 5.txt, 2.txt, 5.txt, 3.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 12, b = 187, c = 1, score = 417
+Votes for Silence = 417Votes for Betray = 416
+g2 w = 0, x = 0, y = 0, z = 0, a = 187, b = 12, c = 1, score = 505
+Votes for Silence = 499Votes for Betray = 501
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 1.txt, 5.txt, 4.txt, 5.txt, 2.txt, 2.txt, 5.txt, 2.txt, 2.txt and 5.txt, 1.txt, 5.txt, 4.txt, 5.txt, 2.txt, 2.txt, 5.txt, 2.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 418
+Votes for Silence = 417Votes for Betray = 417
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 100Votes for Betray = 900
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 3.txt, 5.txt, 5.txt, 3.txt, 4.txt, 2.txt, 1.txt, 3.txt, 4.txt and 5.txt, 3.txt, 5.txt, 5.txt, 3.txt, 4.txt, 2.txt, 1.txt, 3.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 5, b = 190, c = 5, score = 427
+Votes for Silence = 415Votes for Betray = 413
+g2 w = 0, x = 0, y = 0, z = 0, a = 190, b = 5, c = 5, score = 500
+Votes for Silence = 499Votes for Betray = 501
+Gang 1 won
+Detailed Game Results
+
+Results for match between 2.txt, 5.txt, 5.txt, 1.txt, 4.txt, 4.txt, 4.txt, 4.txt, 4.txt, 5.txt and 2.txt, 5.txt, 5.txt, 1.txt, 4.txt, 4.txt, 4.txt, 4.txt, 4.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 420
+Votes for Silence = 405Votes for Betray = 427
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 100Votes for Betray = 900
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 3.txt, 1.txt, 5.txt, 2.txt, 5.txt, 3.txt, 5.txt, 5.txt and 3.txt, 4.txt, 3.txt, 1.txt, 5.txt, 2.txt, 5.txt, 3.txt, 5.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 599
+Votes for Silence = 417Votes for Betray = 417
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 300Votes for Betray = 700
+Gang 2 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 5.txt, 1.txt, 5.txt, 4.txt, 5.txt, 1.txt, 4.txt, 2.txt and 4.txt, 4.txt, 5.txt, 1.txt, 5.txt, 4.txt, 5.txt, 1.txt, 4.txt, 2.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 1, b = 173, c = 25, score = 432
+Votes for Silence = 319Votes for Betray = 520
+g2 w = 1, x = 0, y = 0, z = 0, a = 173, b = 1, c = 25, score = 487
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 3.txt, 4.txt, 1.txt, 1.txt, 4.txt, 1.txt, 3.txt, 5.txt, 2.txt and 5.txt, 3.txt, 4.txt, 1.txt, 1.txt, 4.txt, 1.txt, 3.txt, 5.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 437
+Votes for Silence = 412Votes for Betray = 410
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 499Votes for Betray = 501
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 4.txt, 5.txt, 4.txt, 3.txt, 4.txt, 1.txt, 2.txt, 2.txt, 3.txt and 4.txt, 4.txt, 5.txt, 4.txt, 3.txt, 4.txt, 1.txt, 2.txt, 2.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 146, b = 53, c = 1, score = 432
+Votes for Silence = 415Votes for Betray = 461
+g2 w = 0, x = 0, y = 0, z = 0, a = 53, b = 146, c = 1, score = 572
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 3.txt, 4.txt, 5.txt, 3.txt, 1.txt, 2.txt, 3.txt, 5.txt, 5.txt and 4.txt, 3.txt, 4.txt, 5.txt, 3.txt, 1.txt, 2.txt, 3.txt, 5.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 409
+Votes for Silence = 412Votes for Betray = 412
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 400Votes for Betray = 600
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 4.txt, 3.txt, 1.txt, 4.txt, 5.txt, 3.txt, 5.txt, 4.txt and 3.txt, 4.txt, 4.txt, 3.txt, 1.txt, 4.txt, 5.txt, 3.txt, 5.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 460
+Votes for Silence = 418Votes for Betray = 419
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 300Votes for Betray = 700
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 2.txt, 3.txt, 5.txt, 4.txt, 4.txt, 3.txt, 5.txt, 3.txt, 1.txt and 5.txt, 2.txt, 3.txt, 5.txt, 4.txt, 4.txt, 3.txt, 5.txt, 3.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 464
+Votes for Silence = 391Votes for Betray = 492
+g2 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 599Votes for Betray = 401
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 2.txt, 2.txt, 2.txt, 3.txt, 4.txt, 3.txt, 2.txt, 5.txt, 5.txt and 4.txt, 2.txt, 2.txt, 2.txt, 3.txt, 4.txt, 3.txt, 2.txt, 5.txt, 5.txt
+
+g1 w = 1, x = 0, y = 0, z = 0, a = 0, b = 156, c = 43, score = 400
+Votes for Silence = 380Votes for Betray = 474
+g2 w = 1, x = 0, y = 0, z = 0, a = 156, b = 0, c = 43, score = 478
+Votes for Silence = 300Votes for Betray = 700
+Gang 1 won
+Detailed Game Results
+
+Results for match between 4.txt, 5.txt, 2.txt, 5.txt, 4.txt, 4.txt, 5.txt, 3.txt, 3.txt, 5.txt and 4.txt, 5.txt, 2.txt, 5.txt, 4.txt, 4.txt, 5.txt, 3.txt, 3.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 175, b = 25, c = 0, score = 449
+Votes for Silence = 360Votes for Betray = 479
+g2 w = 0, x = 0, y = 0, z = 0, a = 25, b = 175, c = 0, score = 587
+Votes for Silence = 500Votes for Betray = 500
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 4.txt, 3.txt, 2.txt, 5.txt, 5.txt, 1.txt, 3.txt, 4.txt and 5.txt, 5.txt, 4.txt, 3.txt, 2.txt, 5.txt, 5.txt, 1.txt, 3.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 49, b = 149, c = 2, score = 424
+Votes for Silence = 360Votes for Betray = 476
+g2 w = 0, x = 0, y = 0, z = 0, a = 149, b = 49, c = 2, score = 523
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 3.txt, 3.txt, 3.txt, 4.txt, 2.txt, 2.txt, 4.txt, 5.txt, 5.txt and 3.txt, 3.txt, 3.txt, 3.txt, 4.txt, 2.txt, 2.txt, 4.txt, 5.txt, 5.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 600
+Votes for Silence = 469Votes for Betray = 378
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 100Votes for Betray = 900
+Gang 2 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 1.txt, 3.txt, 5.txt, 5.txt, 4.txt, 5.txt, 5.txt, 1.txt and 5.txt, 5.txt, 1.txt, 3.txt, 5.txt, 5.txt, 4.txt, 5.txt, 5.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 432
+Votes for Silence = 413Votes for Betray = 414
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 299Votes for Betray = 701
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 1.txt, 5.txt, 1.txt, 5.txt, 1.txt, 1.txt, 3.txt, 4.txt, 4.txt and 3.txt, 1.txt, 5.txt, 1.txt, 5.txt, 1.txt, 1.txt, 3.txt, 4.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 4, b = 181, c = 15, score = 583
+Votes for Silence = 415Votes for Betray = 413
+g2 w = 0, x = 0, y = 0, z = 0, a = 181, b = 4, c = 15, score = 494
+Votes for Silence = 501Votes for Betray = 499
+Gang 2 won
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 2.txt, 2.txt, 4.txt, 1.txt, 3.txt, 1.txt, 5.txt, 4.txt and 5.txt, 5.txt, 2.txt, 2.txt, 4.txt, 1.txt, 3.txt, 1.txt, 5.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 164, b = 36, c = 0, score = 415
+Votes for Silence = 393Votes for Betray = 432
+g2 w = 0, x = 0, y = 0, z = 0, a = 36, b = 164, c = 0, score = 582
+Votes for Silence = 501Votes for Betray = 499
+Gang 1 won
+Detailed Game Results
+
+Results for match between 3.txt, 4.txt, 2.txt, 5.txt, 5.txt, 3.txt, 5.txt, 1.txt, 5.txt, 2.txt and 3.txt, 4.txt, 2.txt, 5.txt, 5.txt, 3.txt, 5.txt, 1.txt, 5.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 38, b = 160, c = 2, score = 409
+Votes for Silence = 381Votes for Betray = 450
+g2 w = 0, x = 0, y = 0, z = 0, a = 160, b = 38, c = 2, score = 518
+Votes for Silence = 398Votes for Betray = 602
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 5.txt, 3.txt, 3.txt, 3.txt, 4.txt, 1.txt, 2.txt, 3.txt, 4.txt and 1.txt, 5.txt, 3.txt, 3.txt, 3.txt, 4.txt, 1.txt, 2.txt, 3.txt, 4.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 402
+Votes for Silence = 406Votes for Betray = 406
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 499Votes for Betray = 501
+Gang 1 won
+Detailed Game Results
+
+Results for match between 5.txt, 4.txt, 1.txt, 4.txt, 2.txt, 5.txt, 5.txt, 4.txt, 3.txt, 1.txt and 5.txt, 4.txt, 1.txt, 4.txt, 2.txt, 5.txt, 5.txt, 4.txt, 3.txt, 1.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 109, b = 90, c = 1, score = 407
+Votes for Silence = 413Votes for Betray = 412
+g2 w = 0, x = 0, y = 0, z = 0, a = 90, b = 109, c = 1, score = 554
+Votes for Silence = 498Votes for Betray = 502
+Gang 1 won
+Detailed Game Results
+
+Results for match between 1.txt, 5.txt, 2.txt, 2.txt, 2.txt, 2.txt, 5.txt, 5.txt, 5.txt, 2.txt and 1.txt, 5.txt, 2.txt, 2.txt, 2.txt, 2.txt, 5.txt, 5.txt, 5.txt, 2.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 199, c = 1, score = 499
+Votes for Silence = 385Votes for Betray = 467
+g2 w = 0, x = 0, y = 0, z = 0, a = 199, b = 0, c = 1, score = 499
+Votes for Silence = 100Votes for Betray = 900
+Draw
+Detailed Game Results
+
+Results for match between 5.txt, 5.txt, 3.txt, 3.txt, 1.txt, 2.txt, 2.txt, 4.txt, 2.txt, 3.txt and 5.txt, 5.txt, 3.txt, 3.txt, 1.txt, 2.txt, 2.txt, 4.txt, 2.txt, 3.txt
+
+g1 w = 0, x = 0, y = 0, z = 0, a = 0, b = 200, c = 0, score = 471
+Votes for Silence = 412Votes for Betray = 411
+g2 w = 0, x = 0, y = 0, z = 0, a = 200, b = 0, c = 0, score = 500
+Votes for Silence = 300Votes for Betray = 700
+Gang 1 won
+
+Strategy Average Scores
+
+01 | 3.00 | 2.98 | 2.96 | 2.93 | 2.65 | 2.62 | 2.56 | 2.51 | 2.50 | 2.50
+02 | 3.00 | 3.00 | 3.00 | 2.95 | 2.66 | 2.54 | 2.52 | 2.51 | 2.50 | 2.50
+03 | 2.90 | 2.85 | 2.75 | 2.69 | 2.50 | 2.50 | 2.50 | 2.50 | 2.50 | 2.50
+04 | 3.00 | 3.00 | 2.58 | 2.57 | 2.54 | 2.52 | 2.50 | 2.50 | 2.50 | 2.50
+05 | 3.00 | 2.94 | 2.91 | 2.86 | 2.84 | 2.75 | 2.51 | 2.50 | 2.50 | 2.50
+06 | 3.00 | 2.99 | 2.77 | 2.60 | 2.59 | 2.58 | 2.50 | 2.50 | 2.49 | 2.48
+07 | 3.00 | 2.57 | 2.56 | 2.50 | 2.50 | 2.50 | 2.50 | 2.50 | 2.50 | 2.50
+08 | 3.00 | 3.00 | 3.00 | 3.00 | 2.81 | 2.77 | 2.53 | 2.52 | 2.50 | 2.50
+09 | 3.00 | 3.00 | 2.70 | 2.69 | 2.65 | 2.50 | 2.50 | 2.50 | 2.50 | 2.50
+10 | 3.00 | 2.94 | 2.92 | 2.79 | 2.69 | 2.59 | 2.56 | 2.50 | 2.50 | 2.50
+
+Strategy Rankings
+
+07.txt -> 2.56
+03.txt -> 2.62
+04.txt -> 2.62
+06.txt -> 2.65
+09.txt -> 2.65
+10.txt -> 2.70
+02.txt -> 2.72
+01.txt -> 2.72
+05.txt -> 2.73
+08.txt -> 2.76
+
