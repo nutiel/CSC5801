@@ -1,3 +1,13 @@
+/**
+CSC5801
+Game.cpp
+Purpose: Is responsible for a single game of 200 iterations
+between 2 prisoners
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"

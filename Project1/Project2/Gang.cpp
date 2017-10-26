@@ -1,3 +1,13 @@
+/**
+CSC5801
+Gang.cpp
+Purpose: Represents a gang of 5 prisoners and handles the 
+variables of 200 iterations
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"
@@ -14,6 +24,7 @@ Gang::Gang() :
 	last_outcome(' '),
 	has_spy(false),
 	found_spy(false),
+	spies_found(0), total_spies(0),
 	silence_no(0),
 	betray_no(0) {
 
@@ -68,7 +79,7 @@ int Gang::ITERATIONS() {
 	return iterations;
 }
 
-int Gang::MYSCORE() {
+double Gang::MYSCORE() {
 	return score;
 }
 
@@ -239,6 +250,7 @@ bool Gang::addSpy(int percent) {
 	}
 
 	has_spy = true;
+	total_spies++;
 
 	random_integer = rand() % 5 + 1;
 
@@ -266,8 +278,13 @@ bool Gang::addSpy(int percent) {
 }
 
 void Gang::resetSpy() {
-	has_spy = false;
-	this->getPrisoner(spy)->setSpy();
+	if (has_spy) {
+		has_spy = false;
+		this->getPrisoner(spy)->setSpy();
+	}
+	found_spy = false;
+	silence_no = 0;
+	betray_no = 0;
 }
 
 bool Gang::getHasSpy() {
@@ -300,6 +317,7 @@ Prisoner* Gang::getPrisoner(int i) {
 		return p5;
 		break;
 	}
+	return nullptr;
 }
 
 Leader* Gang::getLeader() {
@@ -320,8 +338,17 @@ int Gang::getSpy() {
 
 void Gang::setFoundSpy() {
 	found_spy = true;
+	spies_found++;
 }
 
 bool Gang::getFoundSpy() {
 	return found_spy;
+}
+
+int Gang::getTotalSpies() {
+	return total_spies;
+}
+
+int Gang::getSpiesFound() {
+	return spies_found;
 }

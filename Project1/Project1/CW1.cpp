@@ -1,3 +1,13 @@
+/**
+CSC5801
+CW2.cpp
+Purpose: Contains main function and handles strategy
+creation and UI
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"

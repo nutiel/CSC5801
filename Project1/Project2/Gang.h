@@ -1,3 +1,13 @@
+/**
+CSC5801
+Gang.h
+Purpose: Represents a gang of 5 prisoners and handles the
+variables of 200 iterations
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>
@@ -20,7 +30,7 @@ public:
 	int ALLOUTCOMES_B();
 	int ALLOUTCOMES_C();
 	int ITERATIONS();
-	int MYSCORE();
+	double MYSCORE();
 	void increaseIterations();
 	//takes care of the variable updates for the game to continue
 	void result(Gang* g);
@@ -40,8 +50,11 @@ public:
 	void chooseSilence();
 	void setFoundSpy();
 	bool getFoundSpy();
+	int getTotalSpies();
+	int getSpiesFound();
 private:
 	int silence_no, betray_no;
+	int spies_found, total_spies;
 	int w, x, y, z, a, b, c, iterations;
 	double score;
 	bool found_spy;

@@ -1,3 +1,13 @@
+/**
+CSC5801
+Expression.cpp
+Purpose: Handles the resolution of simple and complex
+expressions in if statements and returns their result
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"
@@ -22,7 +32,7 @@ Expression::~Expression() {
 
 }
 
-int Expression::getValue() {
+double Expression::getValue() {
 	return value;
 }
 
@@ -117,9 +127,9 @@ void Expression::findValue() {
 
 int Expression::powOfN(int n, int p) {
 
-	int temp = n;
+	int temp = 1;
 
-	if (p = 0) {
+	if (p == 0) {
 		return 1;
 	}
 	else {
@@ -127,14 +137,16 @@ int Expression::powOfN(int n, int p) {
 			temp = temp * n;
 		}
 	}
+	return temp;
 }
 
 int Expression::to_int(string num) {
 
-	int temp = 0, j = num.size();
+	int temp = 0, j = num.size() - 1;
 
 	for (std::string::iterator c = num.begin(); c != num.end(); ++c) {
 		temp += (*c - 48) * powOfN(10, j);
+		j--;
 	}
 	return temp;
 }

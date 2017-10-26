@@ -1,3 +1,13 @@
+/**
+CSC5801
+Tournament.cpp
+Purpose: Handles the matchups between the two prisoners
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
+
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"

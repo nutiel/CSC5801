@@ -1,3 +1,13 @@
+/**
+CSC5801
+Thread.h
+Purpose: Generic declaration of a thread class, also contains
+the mutex class used by the thread class
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 #include <windows.h>
 #include <iostream>

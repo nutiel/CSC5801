@@ -1,3 +1,13 @@
+/**
+CSC5801
+Expression.h
+Purpose: Handles the resolution of simple and complex
+expressions in if statements and returns their result
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

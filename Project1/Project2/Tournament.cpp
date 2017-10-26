@@ -1,3 +1,12 @@
+/**
+CSC5801
+Tournament.cpp
+Purpose: Handles the matchups between the two gangs
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"
@@ -10,6 +19,7 @@
 
 Game* matchups;
 ofstream ifile2;
+int counter = 0;
 
 Tournament::Tournament() :
 	num_Strategies(0) {
@@ -85,7 +95,7 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 
 	Gang* g1 = new Gang();
 	Gang* g2 = new Gang();
-	int random_integer, leaders_choice1, leaders_choice2;
+	int leaders_choice1, leaders_choice2;
 	/*
 	*  Unanimus
 	* -1->both gangs silent, -2->both gangs betrayed
@@ -96,19 +106,17 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 	* -7->mixed response with equal votes
 	*
 	*/
-	int g1_decision, g2_decision;
 
 	readFiles(i, j, g1, g2); // takes the files chosen for the game and gives them to the gang to be assigned to the prisoners
 
-	for (int k = 0; k < 200; k++) {
+	for (int k = 0; k < MAX_ITERARIONS; k++) {
 
 		g1->resetSpy();
 		g2->resetSpy();
 
 		//Add Spy
-		random_integer = rand() % spy_percent + 1;
-		g1->addSpy(random_integer);
-		g1->addSpy(random_integer);
+		g1->addSpy(spy_percent);
+		g2->addSpy(spy_percent);
 
 		//Increace Iterations
 		g1->increaseIterations();
@@ -145,10 +153,17 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 
 	}
 
+	ifile2 << "---------------------" << endl;
 	ifile2 << "Detailed Game Results" << endl;
+	ifile2 << "---------------------" << endl;
 
 	printCurrentResults(g1, g2, *g);
 	g->calculateAverage(g1, g2, g1->ITERATIONS());
+
+	if (i == num_Strategies - 1 && j == num_Strategies - 1) {
+		ifile2 << "Found " << g1->getSpiesFound() << " spies out of " << g1->getTotalSpies() << " for Gang 1" << endl;
+		ifile2 << "Found " << g2->getSpiesFound() << " spies out of " << g2->getTotalSpies() << " for Gang 2" << endl;
+	}
 
 	delete g1;
 	delete g2;
@@ -172,14 +187,14 @@ void Tournament::setNumofFiles(int n) {
 
 void Tournament::printCurrentResults(Gang* g1, Gang* g2, Game g) {
 
-	cout << "\n" << "Gang1 vs Gang2" << endl << endl;
-	ifile2 << "\nResults for match between " << g.getStrategy(10) << " and " << g.getStrategy(10) << endl << endl;
+	cout << "\n" << "Gang1 vs Gang2 -> " << counter++ << endl << endl;
+	ifile2 << "\nResults for match between\n" << g.getStrategy(10) << endl << endl;
 	ifile2 << "g1 w = " << g1->ALLOUTCOMES_W() << ", x = " << g1->ALLOUTCOMES_X() << ", y = " << g1->ALLOUTCOMES_Y() << ", z = " << g1->ALLOUTCOMES_Z();
 	ifile2 << ", a = " << g1->ALLOUTCOMES_A() << ", b = " << g1->ALLOUTCOMES_B() << ", c = " << g1->ALLOUTCOMES_C() << ", score = " << g1->MYSCORE() << endl;
-	ifile2 << "Votes for Silence = " << g1->getSilenceNo() << "Votes for Betray = " << g1->getBetrayNo() << endl;
+	ifile2 << "Votes for Silence = " << g1->getSilenceNo() << "\nVotes for Betray = " << g1->getBetrayNo() << endl;
 	ifile2 << "g2 w = " << g2->ALLOUTCOMES_W() << ", x = " << g2->ALLOUTCOMES_X() << ", y = " << g2->ALLOUTCOMES_Y() << ", z = " << g2->ALLOUTCOMES_Z();
 	ifile2 << ", a = " << g2->ALLOUTCOMES_A() << ", b = " << g2->ALLOUTCOMES_B() << ", c = " << g2->ALLOUTCOMES_C() << ", score = " << g2->MYSCORE() << endl;
-	ifile2 << "Votes for Silence = " << g2->getSilenceNo() << "Votes for Betray = " << g2->getBetrayNo() << endl;
+	ifile2 << "Votes for Silence = " << g2->getSilenceNo() << "\nVotes for Betray = " << g2->getBetrayNo() << endl;
 	
 	if (g1->getHasSpy()) {
 		ifile2 << "\tGang 1 had a spy";
@@ -198,14 +213,15 @@ void Tournament::printCurrentResults(Gang* g1, Gang* g2, Game g) {
 	}
 
 	if (g1->MYSCORE() > g2->MYSCORE()) {
-		ifile2 << "Gang 2 won" << endl;
+		ifile2 << "\tGang 2 won" << endl;
 	}
 	else if (g1->MYSCORE() < g2->MYSCORE()) {
-		ifile2 << "Gang 1 won" << endl;
+		ifile2 << "\tGang 1 won" << endl;
 	}
 	else {
-		ifile2 << "Draw" << endl;
+		ifile2 << "\tDraw" << endl;
 	}
+	ifile2 << endl;
 }
 
 void Tournament::setPrisonerCode(int i, string str, Gang* g) {

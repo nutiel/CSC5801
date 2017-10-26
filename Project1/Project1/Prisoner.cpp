@@ -1,3 +1,12 @@
+/**
+CSC5801
+Prisoner.cpp
+Purpose: Represents a prisoner
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"
@@ -111,7 +120,7 @@ bool Prisoner::makeDecision() {
 
 int Prisoner::powOfN(int n, int p) {
 
-	int temp = n;
+	int temp = 1;
 
 	if (p == 0) {
 		return 1;
@@ -126,10 +135,11 @@ int Prisoner::powOfN(int n, int p) {
 
 int Prisoner::to_int(string num) {
 
-	int temp = 0, j = num.size()-1;
+	int temp = 0, j = num.size() - 1;
 
 	for (std::string::iterator c = num.begin(); c != num.end(); ++c) {
 		temp += (*c - 48) * powOfN(10, j);
+		j--;
 	}
 	return temp;
 }

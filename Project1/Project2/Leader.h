@@ -1,3 +1,13 @@
+/**
+CSC5801
+Leader.h
+Purpose: An extension of the prisoner class, has the responsibility of
+spotting the spy
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

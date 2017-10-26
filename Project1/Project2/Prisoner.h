@@ -1,3 +1,12 @@
+/**
+CSC5801
+Prisoner.h
+Purpose: Represents a prisoner
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

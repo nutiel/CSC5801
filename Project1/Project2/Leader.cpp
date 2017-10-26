@@ -1,3 +1,13 @@
+/**
+CSC5801
+Leader.cpp
+Purpose: An extension of the prisoner class, has the responsibility of 
+spotting the spy
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"

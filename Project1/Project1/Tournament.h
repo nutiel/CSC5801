@@ -1,3 +1,12 @@
+/**
+CSC5801
+Tournament.h
+Purpose: Handles the matchups between the two prisoners
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

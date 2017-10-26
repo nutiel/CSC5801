@@ -1,3 +1,13 @@
+/**
+CSC5801
+Expression.h
+Purpose: Handles the resolution of simple and complex
+expressions in if statements and returns their result
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>
@@ -11,7 +21,7 @@ class Expression {
 public:
 	Expression(int b, int e, vector< string> input, Prisoner* pris);
 	~Expression();
-	int getValue();
+	double getValue();
 	void runExpression();
 	bool getSyntaxCheck();
 	void findValue();
@@ -22,6 +32,6 @@ private:
 	bool syntaxOk;
 	int begin; // where it begins
 	int end; // where it ends
-	int value;
+	double value;
 	Prisoner* p;
 };

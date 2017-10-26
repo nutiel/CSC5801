@@ -1,3 +1,13 @@
+/**
+CSC5801
+Game.cpp
+Purpose: Is responsible for a single game of 200 iterations 
+between 2 combinations of strategies
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"
@@ -93,7 +103,7 @@ string Game::getStrategy(int i) {
 		strategies = strategies + strategy2 + ", ";
 		strategies = strategies + strategy3 + ", ";
 		strategies = strategies + strategy4 + ", ";
-		strategies = strategies + strategy5 + ", ";
+		strategies = strategies + strategy5 + "\n \t\tand \n";
 		strategies = strategies + strategy6 + ", ";
 		strategies = strategies + strategy7 + ", ";
 		strategies = strategies + strategy8 + ", ";

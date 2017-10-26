@@ -1,3 +1,13 @@
+/**
+CSC5801
+CW1.h
+Purpose: Contains main function and handles strategy
+creation and UI
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

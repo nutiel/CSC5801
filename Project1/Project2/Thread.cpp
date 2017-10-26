@@ -1,3 +1,13 @@
+/**
+CSC5801
+Thread.cpp
+Purpose: Generic declaration of a thread class, also contains 
+the mutex class used by the thread class
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"

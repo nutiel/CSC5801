@@ -1,3 +1,12 @@
+/**
+CSC5801
+IfNode.h
+Purpose: Handles the resolution of an if statement
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

@@ -1,3 +1,12 @@
+/**
+CSC5801
+IfNode.cpp
+Purpose: Handles the resolution of an if statement
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW1.h"
 #include "Prisoner.h"
 #include "Tournament.h"

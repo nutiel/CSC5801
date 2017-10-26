@@ -1,3 +1,13 @@
+/**
+CSC5801
+Game.h
+Purpose: Is responsible for a single game of 200 iterations
+between 2 combinations of strategies
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #pragma once
 
 #include <iostream>

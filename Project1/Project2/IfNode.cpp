@@ -1,3 +1,12 @@
+/**
+CSC5801
+IfNode.cpp
+Purpose: Handles the resolution of an if statement
+
+@author Michael Yiangou (B7064124)
+@version
+*/
+
 #include "CW2.h"
 #include "Expression.h"
 #include "Game.h"
@@ -129,7 +138,7 @@ int IfNode::gotoSyntaxCheck(int i) {
 		goto_pstn = new Expression(i + 1, if_stmt.size() - 1, if_stmt, p);
 		goto_pstn->runExpression();
 
-		result = goto_pstn->getValue();
+		result = (int)goto_pstn->getValue();
 		return 0;
 	}
 	else {
