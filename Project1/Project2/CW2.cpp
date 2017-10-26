@@ -289,8 +289,8 @@ void showMenu() {
 	cout << endl << "***********************************************************" << endl;
 	cout << "\t\tMain Menu" << endl;
 	cout << "Press the appropriate number to select action." << endl;
-	cout << "1. To Generate a new set of strategies." << endl;
-	cout << "2. To run tournament with strategies in the \"files\" file." << endl;
+	cout << "1. To Generate a new set of strategies in the \"files\" file(must exist)" << endl;
+	cout << "2. To run tournament with strategies in the \"files\" file(must exist)" << endl;
 	cout << "3. For Detailed Results of each game" << endl;
 	cout << "4. For average score of Each strategy" << endl;
 	cout << "5. For Strategy Rankings" << endl;
@@ -370,13 +370,13 @@ void showStrRanks() {
 
 int main() {
 
-	int x, choice;
+	int x, choice = -1;
 	Tournament* tour;
 
-	showMenu();
-	cin >> choice;
-
 	while (choice != 0) {
+
+		showMenu();
+		cin >> choice;
 
 		switch (choice) {
 		case 0:
@@ -399,10 +399,8 @@ int main() {
 			break;
 		case 2:
 			tour = new Tournament();
-			cout << "How many strategies do you wish to test: ";
-			cin >> x;
 
-			tour->setNumofFiles(x);
+			tour->setNumofFiles(10);
 			cout << endl << "Running Tournament ... ";
 			tour->runTournament();
 			cout << "Done!" << endl;
@@ -425,8 +423,6 @@ int main() {
 			break;
 		}
 
-		showMenu();
-		cin >> choice;
 	}
 
 	return 0;

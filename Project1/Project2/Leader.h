@@ -9,10 +9,10 @@ using namespace std;
 
 class Leader : public Prisoner {
 public:
-	Leader();
+	Leader(Gang* gname);
 	virtual ~Leader();
 	virtual int chooseSpy();
 	virtual int changeChoice(int p);
 private:
-	int choice;
+	int choice1, choice2;
 };

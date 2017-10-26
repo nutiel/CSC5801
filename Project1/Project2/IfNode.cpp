@@ -1,7 +1,12 @@
 #include "CW2.h"
-#include "Prisoner.h"
-#include "IfNode.h"
 #include "Expression.h"
+#include "Game.h"
+#include "Gang.h"
+#include "IfNode.h"
+#include "Leader.h"
+#include "Prisoner.h"
+#include "Thread.h"
+#include "Tournament.h"
 
 IfNode::IfNode(vector< string> input, Prisoner* pris) :
 	if_stmt(input),

@@ -1,4 +1,11 @@
+#include "CW2.h"
+#include "Expression.h"
+#include "Game.h"
 #include "Gang.h"
+#include "IfNode.h"
+#include "Leader.h"
+#include "Thread.h"
+#include "Tournament.h"
 
 Gang::Gang() :
 	w(0), x(0), y(0), z(0),
@@ -6,14 +13,15 @@ Gang::Gang() :
 	iterations(0),
 	last_outcome(' '),
 	has_spy(false),
+	found_spy(false),
 	silence_no(0),
 	betray_no(0) {
 
-	p1 = new Leader();
-	p2 = new Prisoner();
-	p3 = new Prisoner();
-	p4 = new Prisoner();
-	p5 = new Prisoner();
+	p1 = new Leader(this);
+	p2 = new Prisoner(this);
+	p3 = new Prisoner(this);
+	p4 = new Prisoner(this);
+	p5 = new Prisoner(this);
 }
 
 Gang::~Gang(){
@@ -70,12 +78,32 @@ void Gang::increaseIterations() {
 
 int Gang::makeDecision() {
 
+	Prisoner* p;
 	/*->run the make decision code for the prisoners with threads
 	* ->save the number of votes for silence and betray
 	**/
 
-}
+	for (int i = 0; i < 5; i++) {
+		p = getPrisoner(i);
+		if (i+1 != spy) {
+			//starts the decision making process of the prisoner
+			p->start();
+		}
+	}
 
+	for (int i = 0; i < 5; i++) {
+		p = getPrisoner(i);
+		if (i + 1 != spy) {
+			//starts the decision making process of the prisoner
+			p->join();
+		}
+	}
+
+	p = getPrisoner(spy);
+
+	p->start();
+	p->join();
+}
 
 /*
 *
@@ -94,37 +122,107 @@ int Gang::makeDecision() {
 void Gang::result(Gang* g) {
 	if (this->silence_no == 5 && g->getSilenceNo() == 5) {
 		w++;
-		score += 2;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 2;
+		}
 		this->last_outcome = -1;
 	}
 	else if (this->silence_no == 5 && g->getBetrayNo() == 5) {
 		x++;
-		score += 5;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 5;
+		}
 		this->last_outcome = -2;
 	}
 	else if (this->betray_no == 5 && g->getSilenceNo() == 5) {
 		y++;
-		score += 0;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 0;
+		}
 		this->last_outcome = -3;
 	}
 	else if(this->betray_no == 5 && g->getBetrayNo() == 5) {
 		z++;
-		score += 4;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 4;
+		}
 		this->last_outcome = -4;
 	}
 	else if (this->betray_no > g->getBetrayNo()) {
 		a++;
-		score += 2.5;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 2.5;
+		}
 		this->last_outcome = -5;
 	}
 	else if (this->betray_no < g->getBetrayNo()) {
 		b++;
-		score += 3;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 3;
+		}
 		this->last_outcome = -6;
 	}
 	else if (this->betray_no == g->getBetrayNo()) {
 		c++;
-		score += 2;
+		if (found_spy) {
+			if (g->getFoundSpy()) {
+				score += 6;
+			}
+			else {
+				score += 2;
+			}
+		}
+		else {
+			score += 2;
+		}
 		this->last_outcome = -7;
 	}
 }
@@ -194,4 +292,28 @@ Prisoner* Gang::getPrisoner(int i) {
 		return p5;
 		break;
 	}
+}
+
+Leader* Gang::getLeader() {
+	return p1;
+}
+
+void Gang::chooseBetray() {
+	betray_no++;
+}
+
+void Gang::chooseSilence() {
+	silence_no++;
+}
+
+int Gang::getSpy() {
+	return spy;
+}
+
+void Gang::setFoundSpy() {
+	found_spy = true;
+}
+
+bool Gang::getFoundSpy() {
+	return found_spy;
 }

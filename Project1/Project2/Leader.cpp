@@ -1,11 +1,15 @@
-#include "Leader.h"
 #include "CW2.h"
-#include "Prisoner.h"
-#include "IfNode.h"
 #include "Expression.h"
+#include "Game.h"
+#include "Gang.h"
+#include "IfNode.h"
+#include "Leader.h"
+#include "Prisoner.h"
+#include "Thread.h"
+#include "Tournament.h"
 
-Leader::Leader() :
-Prisoner() {
+Leader::Leader(Gang* gname) :
+Prisoner(gname) {
 
 }
 
@@ -15,18 +19,18 @@ Leader::~Leader() {
 
 int Leader::chooseSpy() {
 	//will choose a gang member at random including himself
-	choice = rand() % 5 + 1;
-	return choice;
+	choice1 = rand() % 5 + 1;
+	return choice1;
 }
 
 int Leader::changeChoice(int p) {
 
 	int random_integer = rand () % 5 + 1;
 
-	while (random_integer == p || random_integer == choice) {
+	while (random_integer == p || random_integer == choice1) {
 		random_integer = rand() % 5 + 1;
 	}
 
-	choice = random_integer;
-	return choice;
+	choice2 = random_integer;
+	return choice2;
 }

@@ -1,9 +1,15 @@
 #include "CW2.h"
-#include "Prisoner.h"
-#include "IfNode.h"
 #include "Expression.h"
+#include "Game.h"
+#include "Gang.h"
+#include "IfNode.h"
+#include "Leader.h"
+#include "Prisoner.h"
+#include "Thread.h"
+#include "Tournament.h"
 
-Prisoner::Prisoner() {
+Prisoner::Prisoner(Gang* gname) :
+g(gname) {
 
 }
 
@@ -133,6 +139,34 @@ void Prisoner::setSpy() {
 	spy = !spy;
 }
 
+MutexClass mut;
+
 void Prisoner::run() {
-	/*Makes decision*/
+
+	if (this->spy) {
+
+		if (g->getBetrayNo() < g->getSilenceNo()) {
+			g->chooseBetray();
+		}
+		else {
+			g->chooseSilence();
+		}
+	}
+	else {
+
+		bool decision = makeDecision();
+
+		mut.lock_mutex();
+		if (decision) {
+			g->chooseSilence();
+		}
+		else {
+			g->chooseBetray();
+		}
+		mut.unlock_mutex();
+	}
+}
+
+Gang* Prisoner::getGang() {
+	return g;
 }

@@ -1,4 +1,12 @@
+#include "CW2.h"
+#include "Expression.h"
+#include "Game.h"
+#include "Gang.h"
+#include "IfNode.h"
+#include "Leader.h"
+#include "Prisoner.h"
 #include "Thread.h"
+#include "Tournament.h"
 
 /**
 * standard thread function

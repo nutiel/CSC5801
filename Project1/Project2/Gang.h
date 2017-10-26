@@ -25,13 +25,20 @@ public:
 	bool addSpy(int percent);
 	int makeDecision();
 	bool getHasSpy();
+	int getSpy();
 	int getSilenceNo();
 	int getBetrayNo();
 	Prisoner* getPrisoner(int i);
+	Leader* getLeader();
+	void chooseBetray();
+	void chooseSilence();
+	void setFoundSpy();
+	bool getFoundSpy();
 private:
 	int silence_no, betray_no;
 	int w, x, y, z, a, b, c, iterations;
 	double score;
+	bool found_spy;
 	bool has_spy;
 	int spy; //1..5 depending on who the spy is
 	int last_outcome; // -1 -> W, -2 -> X, -3 -> Y, -4 -> Z, -5 -> A, -6 -> B, -7 -> C 

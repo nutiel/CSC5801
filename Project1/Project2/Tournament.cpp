@@ -28,7 +28,7 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 
 	Gang* g1 = new Gang();
 	Gang* g2 = new Gang();
-	int random_integer;
+	int random_integer, leaders_choice1, leaders_choice2;
 	/*
 	 *  Unanimus
 	 * -1->both gangs silent, -2->both gangs betrayed
@@ -58,6 +58,27 @@ void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 		g2->makeDecision();
 		g1->makeDecision();
 
+		if (g1->getHasSpy()) {
+			//The leader makes a choice for the spy and then gets a chance to change his choice
+			leaders_choice1 = g1->getLeader()->changeChoice(g1->getLeader()->chooseSpy());
+		}
+
+		if (g2->getHasSpy()) {
+			//The leader makes a choice for the spy and then gets a chance to change his choice
+			leaders_choice2 = g2->getLeader()->changeChoice(g2->getLeader()->chooseSpy());
+		}
+
+		if (leaders_choice1 == g1->getSpy() && leaders_choice2 == g2->getSpy()) {
+			g1->setFoundSpy();
+			g2->setFoundSpy();
+		}
+		else if(leaders_choice1 == g1->getSpy()){
+			g1->setFoundSpy();
+		}
+		else {
+			g2->setFoundSpy();
+		}
+
 		//Update variables
 		g1->result(g2);
 		g2->result(g1);
@@ -85,11 +106,19 @@ void Tournament::printCurrentResults(Gang* g1, Gang* g2, Game g) {
 	ifile2 << "Votes for Silence = " << g2->getSilenceNo << "Votes for Betray = " << g2->getBetrayNo << endl;
 	
 	if (g1->getHasSpy()) {
-		ifile2 << "Gang 1 had a spy";
+		ifile2 << "\tGang 1 had a spy";
+		if (g1->getFoundSpy()) {
+			ifile2 << " and found him";
+		}
+		ifile2 << endl;
 	}
 
 	if (g2->getHasSpy()) {
-		ifile2 << "\tGang 2 had a spy\n";
+		ifile2 << "\tGang 2 had a spy";
+		if (g2->getFoundSpy()) {
+			ifile2 << " and found him";
+		}
+		ifile2 << endl;
 	}
 
 	if (g1->MYSCORE() > g2->MYSCORE()) {
