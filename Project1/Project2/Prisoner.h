@@ -3,10 +3,11 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include "Thread.h"
 
 using namespace std;
 
-class Prisoner {
+class Prisoner : public Thread {
 public:
 	Prisoner();
 	virtual ~Prisoner();
@@ -19,4 +20,6 @@ public:
 private:
 	vector< vector< string> > code;
 	bool spy;
+protected:
+	virtual void run();
 };

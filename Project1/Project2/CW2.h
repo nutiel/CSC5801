@@ -22,3 +22,9 @@ void goToStatement(int n);
 bool checkIf(int n);
 
 void showMenu();
+
+void showDetailedRes();
+
+void showStrAvg();
+
+void showStrRanks();

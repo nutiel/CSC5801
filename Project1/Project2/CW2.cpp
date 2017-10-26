@@ -1,4 +1,12 @@
 #include "CW2.h"
+#include "Expression.h"
+#include "Game.h"
+#include "Gang.h"
+#include "IfNode.h"
+#include "Leader.h"
+#include "Prisoner.h"
+#include "Thread.h"
+#include "Tournament.h"
 
 using namespace std;
 
@@ -248,7 +256,7 @@ void createFile(int n) throw (invalid_argument) {
 	name.append(".txt");
 
 	if (remove(("./files/" + name).c_str()) == 0) {
-		cout << "File couldn't be removed\n";
+		//cout << "File couldn't be removed\n";
 	}
 
 	ifile.open("./files/" + name);
@@ -283,14 +291,87 @@ void showMenu() {
 	cout << "Press the appropriate number to select action." << endl;
 	cout << "1. To Generate a new set of strategies." << endl;
 	cout << "2. To run tournament with strategies in the \"files\" file." << endl;
+	cout << "3. For Detailed Results of each game" << endl;
+	cout << "4. For average score of Each strategy" << endl;
+	cout << "5. For Strategy Rankings" << endl;
 	cout << "0. To Exit" << endl;
 	cout << endl << "> ";
+}
+
+void showDetailedRes() {
+
+	string line;
+	bool flag = true;
+
+	ifstream ofile("./files/Results.txt");
+	if (ofile.is_open()) {
+		while (getline(ofile, line)) {
+			if (line == "Strategy Average Scores") {
+				flag = false;
+			}
+			if (flag) {
+				cout << line << endl;
+			}
+		}
+		ofile.close();
+	}
+	else {
+		cout << "Unable to open Results file\n";
+		exit(1);
+	}
+}
+
+void showStrAvg() {
+	string line;
+	bool flag = false;
+
+	ifstream ofile("./files/Results.txt");
+	if (ofile.is_open()) {
+		while (getline(ofile, line)) {
+			if (line == "Strategy Average Scores") {
+				flag = true;
+			}
+			if (line == "Strategy Rankings") {
+				flag = false;
+			}
+			if (flag) {
+				cout << line << endl;
+			}
+		}
+		ofile.close();
+	}
+	else {
+		cout << "Unable to open Results file\n";
+		exit(1);
+	}
+}
+
+void showStrRanks() {
+	string line;
+	bool flag = false;
+
+	ifstream ofile("./files/Results.txt");
+	if (ofile.is_open()) {
+		while (getline(ofile, line)) {
+			if (line == "Strategy Rankings") {
+				flag = true;
+			}
+			if (flag) {
+				cout << line << endl;
+			}
+		}
+		ofile.close();
+	}
+	else {
+		cout << "Unable to open Results file\n";
+		exit(1);
+	}
 }
 
 int main() {
 
 	int x, choice;
-	//Tournament* tour;
+	Tournament* tour;
 
 	showMenu();
 	cin >> choice;
@@ -314,21 +395,30 @@ int main() {
 					exit(1);
 				}
 			}
-			cout << "Done!" << endl;
+			cout << "\nDone!" << endl;
 			break;
 		case 2:
-			//tour = new Tournament();
+			tour = new Tournament();
 			cout << "How many strategies do you wish to test: ";
 			cin >> x;
 
-			//tour->setNumofFiles(x);
+			tour->setNumofFiles(x);
 			cout << endl << "Running Tournament ... ";
-			//tour->runTournament();
+			tour->runTournament();
 			cout << "Done!" << endl;
 
 			cout << "Releasing Memory ... ";
-			//delete tour;
+			delete tour;
 			cout << "Done!" << endl;
+			break;
+		case 3:
+			showDetailedRes();
+			break;
+		case 4:
+			showStrAvg();
+			break;
+		case 5:
+			showStrRanks();
 			break;
 		default:
 			cout << "Invalid input." << endl << "Try again." << endl;

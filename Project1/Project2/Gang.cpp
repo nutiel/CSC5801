@@ -4,7 +4,9 @@ Gang::Gang() :
 	w(0), x(0), y(0), z(0),
 	score(0),
 	iterations(0),
-	last_outcome(' ') {
+	last_outcome(' '),
+	has_spy(false) {
+
 	p1 = new Leader();
 	p2 = new Prisoner();
 	p3 = new Prisoner();
@@ -64,6 +66,11 @@ void Gang::increaseIterations() {
 	iterations++;
 }
 
+int Gang::makeDecision() {
+
+	/*run the make decision code for the prisoners with threads*/
+
+}
 /*
 *
 * char result1 - gangs own decision
@@ -78,7 +85,7 @@ void Gang::increaseIterations() {
 * c -> mixed response with equal votes
 *
 */
-void Gang::result(char result) {
+void Gang::result(int result) {
 	if (result == 'w') {
 		w++;
 		score += 2;
@@ -123,6 +130,8 @@ bool Gang::addSpy(int percent) {
 	if (random_integer > percent) {
 		return false;
 	}
+
+	has_spy = true;
 
 	random_integer = rand() % 5 + 1;
 

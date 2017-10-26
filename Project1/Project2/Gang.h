@@ -21,11 +21,13 @@ public:
 	int ITERATIONS();
 	int MYSCORE();
 	void increaseIterations();
-	void result(char result);
+	void result(int result);
 	bool addSpy(int percent);
+	int makeDecision();
 private:
 	int w, x, y, z, a, b, c, iterations;
 	double score;
+	bool has_spy;
 	int last_outcome; // -1 -> W, -2 -> X, -3 -> Y, -4 -> Z, -5 -> A, -6 -> B, -7 -> C 
 	Leader *p1;
 	Prisoner *p2, *p3, *p4, *p5;

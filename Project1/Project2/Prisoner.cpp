@@ -132,3 +132,7 @@ int Prisoner::parseLine(int n) {
 void Prisoner::setSpy() {
 	spy = !spy;
 }
+
+void Prisoner::run() {
+	/*Makes decision*/
+}
