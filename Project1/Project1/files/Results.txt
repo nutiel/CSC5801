@@ -1,167 +1,2847 @@
+Detailed Game Results
 
 Results for match between 1.txt and 1.txt
 
 p1 w = 198, x = 0, y = 1, z = 1, score = 400
 p2 w = 198, x = 1, y = 0, z = 1, score = 405
 Player 1 won
+Detailed Game Results
 
 Results for match between 1.txt and 2.txt
+
+p1 w = 0, x = 97, y = 1, z = 102, score = 893
+p2 w = 0, x = 1, y = 97, z = 102, score = 413
+Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 3.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 4.txt
+
+p1 w = 52, x = 44, y = 51, z = 53, score = 536
+p2 w = 52, x = 51, y = 44, z = 53, score = 571
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 5.txt
+
+p1 w = 0, x = 111, y = 0, z = 89, score = 911
+p2 w = 0, x = 0, y = 111, z = 89, score = 356
+Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 6.txt
+
+p1 w = 0, x = 105, y = 0, z = 95, score = 905
+p2 w = 0, x = 0, y = 105, z = 95, score = 380
+Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 7.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 8.txt
 
 p1 w = 1, x = 199, y = 0, z = 0, score = 997
 p2 w = 1, x = 0, y = 199, z = 0, score = 2
 Player 2 won
+Detailed Game Results
 
-Results for match between 1.txt and 3.txt
+Results for match between 1.txt and 9.txt
+
+p1 w = 100, x = 94, y = 6, z = 0, score = 670
+p2 w = 100, x = 6, y = 94, z = 0, score = 230
+Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 10.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 11.txt
+
+p1 w = 0, x = 97, y = 0, z = 103, score = 897
+p2 w = 0, x = 0, y = 97, z = 103, score = 412
+Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 12.txt
 
 p1 w = 200, x = 0, y = 0, z = 0, score = 400
 p2 w = 200, x = 0, y = 0, z = 0, score = 400
 Draw
+Detailed Game Results
 
-Results for match between 1.txt and 4.txt
+Results for match between 1.txt and 13.txt
 
-p1 w = 88, x = 88, y = 15, z = 9, score = 652
-p2 w = 88, x = 15, y = 88, z = 9, score = 287
+p1 w = 0, x = 91, y = 0, z = 109, score = 891
+p2 w = 0, x = 0, y = 91, z = 109, score = 436
 Player 2 won
+Detailed Game Results
 
-Results for match between 1.txt and 5.txt
+Results for match between 1.txt and 14.txt
 
-p1 w = 0, x = 98, y = 0, z = 102, score = 898
-p2 w = 0, x = 0, y = 98, z = 102, score = 408
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 15.txt
+
+p1 w = 196, x = 0, y = 4, z = 0, score = 392
+p2 w = 196, x = 4, y = 0, z = 0, score = 412
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 16.txt
+
+p1 w = 0, x = 90, y = 0, z = 110, score = 890
+p2 w = 0, x = 0, y = 90, z = 110, score = 440
 Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 17.txt
+
+p1 w = 0, x = 92, y = 0, z = 108, score = 892
+p2 w = 0, x = 0, y = 92, z = 108, score = 432
+Player 2 won
+Detailed Game Results
+
+Results for match between 1.txt and 18.txt
+
+p1 w = 188, x = 5, y = 6, z = 1, score = 405
+p2 w = 188, x = 6, y = 5, z = 1, score = 410
+Player 1 won
+Detailed Game Results
+
+Results for match between 1.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 1.txt and 20.txt
+
+p1 w = 28, x = 69, y = 44, z = 59, score = 637
+p2 w = 28, x = 44, y = 69, z = 59, score = 512
+Player 2 won
+Detailed Game Results
 
 Results for match between 2.txt and 1.txt
 
 p1 w = 1, x = 0, y = 199, z = 0, score = 2
 p2 w = 1, x = 199, y = 0, z = 0, score = 997
 Player 1 won
+Detailed Game Results
 
 Results for match between 2.txt and 2.txt
 
 p1 w = 1, x = 0, y = 0, z = 199, score = 798
 p2 w = 1, x = 0, y = 0, z = 199, score = 798
 Draw
+Detailed Game Results
 
 Results for match between 2.txt and 3.txt
 
 p1 w = 1, x = 0, y = 199, z = 0, score = 2
 p2 w = 1, x = 199, y = 0, z = 0, score = 997
 Player 1 won
+Detailed Game Results
 
 Results for match between 2.txt and 4.txt
 
-p1 w = 1, x = 0, y = 96, z = 103, score = 414
-p2 w = 1, x = 96, y = 0, z = 103, score = 894
+p1 w = 0, x = 1, y = 92, z = 107, score = 433
+p2 w = 0, x = 92, y = 1, z = 107, score = 888
 Player 1 won
+Detailed Game Results
 
 Results for match between 2.txt and 5.txt
 
 p1 w = 0, x = 1, y = 0, z = 199, score = 801
 p2 w = 0, x = 0, y = 1, z = 199, score = 796
 Player 2 won
+Detailed Game Results
+
+Results for match between 2.txt and 6.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 2.txt and 7.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 8.txt
+
+p1 w = 1, x = 0, y = 99, z = 100, score = 402
+p2 w = 1, x = 99, y = 0, z = 100, score = 897
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 9.txt
+
+p1 w = 1, x = 0, y = 198, z = 1, score = 6
+p2 w = 1, x = 198, y = 0, z = 1, score = 996
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 10.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 11.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 2.txt and 12.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 13.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 2.txt and 14.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 15.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 16.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 2.txt and 17.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 2.txt and 18.txt
+
+p1 w = 0, x = 1, y = 98, z = 101, score = 409
+p2 w = 0, x = 98, y = 1, z = 101, score = 894
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 19.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 2.txt and 20.txt
+
+p1 w = 1, x = 0, y = 0, z = 199, score = 798
+p2 w = 1, x = 0, y = 0, z = 199, score = 798
+Draw
+Detailed Game Results
 
 Results for match between 3.txt and 1.txt
 
-p1 w = 200, x = 0, y = 0, z = 0, score = 400
-p2 w = 200, x = 0, y = 0, z = 0, score = 400
-Draw
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+Player 2 won
+Detailed Game Results
 
 Results for match between 3.txt and 2.txt
 
 p1 w = 1, x = 199, y = 0, z = 0, score = 997
 p2 w = 1, x = 0, y = 199, z = 0, score = 2
 Player 2 won
+Detailed Game Results
 
 Results for match between 3.txt and 3.txt
 
 p1 w = 200, x = 0, y = 0, z = 0, score = 400
 p2 w = 200, x = 0, y = 0, z = 0, score = 400
 Draw
+Detailed Game Results
 
 Results for match between 3.txt and 4.txt
 
 p1 w = 96, x = 104, y = 0, z = 0, score = 712
 p2 w = 96, x = 0, y = 104, z = 0, score = 192
 Player 2 won
+Detailed Game Results
 
 Results for match between 3.txt and 5.txt
 
 p1 w = 0, x = 200, y = 0, z = 0, score = 1000
 p2 w = 0, x = 0, y = 200, z = 0, score = 0
 Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 3.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 9.txt
+
+p1 w = 99, x = 101, y = 0, z = 0, score = 703
+p2 w = 99, x = 0, y = 101, z = 0, score = 198
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 3.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 3.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 3.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 3.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 18.txt
+
+p1 w = 195, x = 5, y = 0, z = 0, score = 415
+p2 w = 195, x = 0, y = 5, z = 0, score = 390
+Player 2 won
+Detailed Game Results
+
+Results for match between 3.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 3.txt and 20.txt
+
+p1 w = 111, x = 89, y = 0, z = 0, score = 667
+p2 w = 111, x = 0, y = 89, z = 0, score = 222
+Player 2 won
+Detailed Game Results
 
 Results for match between 4.txt and 1.txt
 
-p1 w = 102, x = 1, y = 94, z = 3, score = 221
-p2 w = 102, x = 94, y = 1, z = 3, score = 686
+p1 w = 102, x = 1, y = 96, z = 1, score = 213
+p2 w = 102, x = 96, y = 1, z = 1, score = 688
 Player 1 won
+Detailed Game Results
 
 Results for match between 4.txt and 2.txt
 
-p1 w = 0, x = 111, y = 1, z = 88, score = 907
-p2 w = 0, x = 1, y = 111, z = 88, score = 357
+p1 w = 0, x = 108, y = 1, z = 91, score = 904
+p2 w = 0, x = 1, y = 108, z = 91, score = 369
 Player 2 won
+Detailed Game Results
 
 Results for match between 4.txt and 3.txt
+
+p1 w = 89, x = 0, y = 111, z = 0, score = 178
+p2 w = 89, x = 111, y = 0, z = 0, score = 733
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 4.txt
+
+p1 w = 61, x = 48, y = 52, z = 39, score = 518
+p2 w = 61, x = 52, y = 48, z = 39, score = 538
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 5.txt
+
+p1 w = 0, x = 93, y = 0, z = 107, score = 893
+p2 w = 0, x = 0, y = 93, z = 107, score = 428
+Player 2 won
+Detailed Game Results
+
+Results for match between 4.txt and 6.txt
+
+p1 w = 0, x = 105, y = 0, z = 95, score = 905
+p2 w = 0, x = 0, y = 105, z = 95, score = 380
+Player 2 won
+Detailed Game Results
+
+Results for match between 4.txt and 7.txt
+
+p1 w = 103, x = 0, y = 97, z = 0, score = 206
+p2 w = 103, x = 97, y = 0, z = 0, score = 691
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 8.txt
+
+p1 w = 47, x = 50, y = 55, z = 48, score = 536
+p2 w = 47, x = 55, y = 50, z = 48, score = 561
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 9.txt
+
+p1 w = 90, x = 3, y = 104, z = 3, score = 207
+p2 w = 90, x = 104, y = 3, z = 3, score = 712
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 10.txt
+
+p1 w = 100, x = 0, y = 100, z = 0, score = 200
+p2 w = 100, x = 100, y = 0, z = 0, score = 700
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 11.txt
+
+p1 w = 0, x = 99, y = 0, z = 101, score = 899
+p2 w = 0, x = 0, y = 99, z = 101, score = 404
+Player 2 won
+Detailed Game Results
+
+Results for match between 4.txt and 12.txt
+
+p1 w = 95, x = 0, y = 105, z = 0, score = 190
+p2 w = 95, x = 105, y = 0, z = 0, score = 715
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 13.txt
+
+p1 w = 0, x = 112, y = 0, z = 88, score = 912
+p2 w = 0, x = 0, y = 112, z = 88, score = 352
+Player 2 won
+Detailed Game Results
+
+Results for match between 4.txt and 14.txt
+
+p1 w = 86, x = 0, y = 114, z = 0, score = 172
+p2 w = 86, x = 114, y = 0, z = 0, score = 742
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 15.txt
+
+p1 w = 93, x = 0, y = 107, z = 0, score = 186
+p2 w = 93, x = 107, y = 0, z = 0, score = 721
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 16.txt
+
+p1 w = 0, x = 89, y = 0, z = 111, score = 889
+p2 w = 0, x = 0, y = 89, z = 111, score = 444
+Player 2 won
+Detailed Game Results
+
+Results for match between 4.txt and 17.txt
+
+p1 w = 0, x = 106, y = 0, z = 94, score = 906
+p2 w = 0, x = 0, y = 106, z = 94, score = 376
+Player 2 won
+Detailed Game Results
+
+Results for match between 4.txt and 18.txt
+
+p1 w = 95, x = 0, y = 105, z = 0, score = 190
+p2 w = 95, x = 105, y = 0, z = 0, score = 715
+Player 1 won
+Detailed Game Results
+
+Results for match between 4.txt and 19.txt
 
 p1 w = 104, x = 0, y = 96, z = 0, score = 208
 p2 w = 104, x = 96, y = 0, z = 0, score = 688
 Player 1 won
+Detailed Game Results
 
-Results for match between 4.txt and 4.txt
+Results for match between 4.txt and 20.txt
 
-p1 w = 48, x = 47, y = 53, z = 52, score = 539
-p2 w = 48, x = 53, y = 47, z = 52, score = 569
-Player 1 won
-
-Results for match between 4.txt and 5.txt
-
-p1 w = 0, x = 90, y = 0, z = 110, score = 890
-p2 w = 0, x = 0, y = 90, z = 110, score = 440
+p1 w = 31, x = 73, y = 35, z = 61, score = 671
+p2 w = 31, x = 35, y = 73, z = 61, score = 481
 Player 2 won
+Detailed Game Results
 
 Results for match between 5.txt and 1.txt
 
-p1 w = 0, x = 0, y = 91, z = 109, score = 436
-p2 w = 0, x = 91, y = 0, z = 109, score = 891
+p1 w = 0, x = 0, y = 95, z = 105, score = 420
+p2 w = 0, x = 95, y = 0, z = 105, score = 895
 Player 1 won
+Detailed Game Results
 
 Results for match between 5.txt and 2.txt
 
 p1 w = 0, x = 0, y = 1, z = 199, score = 796
 p2 w = 0, x = 1, y = 0, z = 199, score = 801
 Player 1 won
+Detailed Game Results
 
 Results for match between 5.txt and 3.txt
 
 p1 w = 0, x = 0, y = 200, z = 0, score = 0
 p2 w = 0, x = 200, y = 0, z = 0, score = 1000
 Player 1 won
+Detailed Game Results
 
 Results for match between 5.txt and 4.txt
 
-p1 w = 0, x = 0, y = 91, z = 109, score = 436
-p2 w = 0, x = 91, y = 0, z = 109, score = 891
+p1 w = 0, x = 0, y = 105, z = 95, score = 380
+p2 w = 0, x = 105, y = 0, z = 95, score = 905
 Player 1 won
+Detailed Game Results
 
 Results for match between 5.txt and 5.txt
 
 p1 w = 0, x = 0, y = 0, z = 200, score = 800
 p2 w = 0, x = 0, y = 0, z = 200, score = 800
 Draw
+Detailed Game Results
+
+Results for match between 5.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 5.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 8.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 9.txt
+
+p1 w = 0, x = 0, y = 199, z = 1, score = 4
+p2 w = 0, x = 199, y = 0, z = 1, score = 999
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 10.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 5.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 5.txt and 14.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 5.txt and 17.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 5.txt and 18.txt
+
+p1 w = 0, x = 0, y = 105, z = 95, score = 380
+p2 w = 0, x = 105, y = 0, z = 95, score = 905
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 5.txt and 20.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 1.txt
+
+p1 w = 0, x = 0, y = 95, z = 105, score = 420
+p2 w = 0, x = 95, y = 0, z = 105, score = 895
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 2.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 3.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 4.txt
+
+p1 w = 0, x = 0, y = 107, z = 93, score = 372
+p2 w = 0, x = 107, y = 0, z = 93, score = 907
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 5.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 6.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 6.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 8.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 9.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 10.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 6.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 6.txt and 14.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 6.txt and 17.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 6.txt and 18.txt
+
+p1 w = 0, x = 0, y = 91, z = 109, score = 436
+p2 w = 0, x = 91, y = 0, z = 109, score = 891
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 6.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 1.txt
+
+p1 w = 198, x = 2, y = 0, z = 0, score = 406
+p2 w = 198, x = 0, y = 2, z = 0, score = 396
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 4.txt
+
+p1 w = 104, x = 96, y = 0, z = 0, score = 688
+p2 w = 104, x = 0, y = 96, z = 0, score = 208
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 9.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 18.txt
+
+p1 w = 197, x = 3, y = 0, z = 0, score = 409
+p2 w = 197, x = 0, y = 3, z = 0, score = 394
+Player 2 won
+Detailed Game Results
+
+Results for match between 7.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 7.txt and 20.txt
+
+p1 w = 102, x = 98, y = 0, z = 0, score = 694
+p2 w = 102, x = 0, y = 98, z = 0, score = 204
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 1.txt
+
+p1 w = 8, x = 12, y = 173, z = 7, score = 104
+p2 w = 8, x = 173, y = 12, z = 7, score = 909
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 2.txt
+
+p1 w = 1, x = 99, y = 0, z = 100, score = 897
+p2 w = 1, x = 0, y = 99, z = 100, score = 402
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 3.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 4.txt
+
+p1 w = 45, x = 58, y = 48, z = 49, score = 576
+p2 w = 45, x = 48, y = 58, z = 49, score = 526
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 5.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 6.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 7.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 8.txt
+
+p1 w = 100, x = 0, y = 0, z = 100, score = 600
+p2 w = 100, x = 0, y = 0, z = 100, score = 600
+Draw
+Detailed Game Results
+
+Results for match between 8.txt and 9.txt
+
+p1 w = 3, x = 0, y = 195, z = 2, score = 14
+p2 w = 3, x = 195, y = 0, z = 2, score = 989
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 10.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 11.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 12.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 13.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 14.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 15.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 16.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 17.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 8.txt and 18.txt
+
+p1 w = 3, x = 3, y = 192, z = 2, score = 29
+p2 w = 3, x = 192, y = 3, z = 2, score = 974
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 19.txt
+
+p1 w = 1, x = 0, y = 199, z = 0, score = 2
+p2 w = 1, x = 199, y = 0, z = 0, score = 997
+Player 1 won
+Detailed Game Results
+
+Results for match between 8.txt and 20.txt
+
+p1 w = 34, x = 74, y = 51, z = 41, score = 602
+p2 w = 34, x = 51, y = 74, z = 41, score = 487
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 9.txt and 2.txt
+
+p1 w = 0, x = 198, y = 1, z = 1, score = 994
+p2 w = 0, x = 1, y = 198, z = 1, score = 9
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 9.txt and 4.txt
+
+p1 w = 84, x = 98, y = 9, z = 9, score = 694
+p2 w = 84, x = 9, y = 98, z = 9, score = 249
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 7.txt
+
+p1 w = 97, x = 0, y = 103, z = 0, score = 194
+p2 w = 97, x = 103, y = 0, z = 0, score = 709
+Player 1 won
+Detailed Game Results
+
+Results for match between 9.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 9.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 9.txt and 10.txt
+
+p1 w = 113, x = 0, y = 87, z = 0, score = 226
+p2 w = 113, x = 87, y = 0, z = 0, score = 661
+Player 1 won
+Detailed Game Results
+
+Results for match between 9.txt and 11.txt
+
+p1 w = 0, x = 199, y = 0, z = 1, score = 999
+p2 w = 0, x = 0, y = 199, z = 1, score = 4
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 12.txt
+
+p1 w = 96, x = 0, y = 104, z = 0, score = 192
+p2 w = 96, x = 104, y = 0, z = 0, score = 712
+Player 1 won
+Detailed Game Results
+
+Results for match between 9.txt and 13.txt
+
+p1 w = 0, x = 196, y = 0, z = 4, score = 996
+p2 w = 0, x = 0, y = 196, z = 4, score = 16
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 14.txt
+
+p1 w = 96, x = 0, y = 104, z = 0, score = 192
+p2 w = 96, x = 104, y = 0, z = 0, score = 712
+Player 1 won
+Detailed Game Results
+
+Results for match between 9.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 9.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 9.txt and 18.txt
+
+p1 w = 102, x = 5, y = 93, z = 0, score = 229
+p2 w = 102, x = 93, y = 5, z = 0, score = 669
+Player 1 won
+Detailed Game Results
+
+Results for match between 9.txt and 19.txt
+
+p1 w = 109, x = 0, y = 91, z = 0, score = 218
+p2 w = 109, x = 91, y = 0, z = 0, score = 673
+Player 1 won
+Detailed Game Results
+
+Results for match between 9.txt and 20.txt
+
+p1 w = 101, x = 91, y = 1, z = 7, score = 685
+p2 w = 101, x = 1, y = 91, z = 7, score = 235
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 1.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 4.txt
+
+p1 w = 104, x = 96, y = 0, z = 0, score = 688
+p2 w = 104, x = 0, y = 96, z = 0, score = 208
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 9.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 18.txt
+
+p1 w = 198, x = 2, y = 0, z = 0, score = 406
+p2 w = 198, x = 0, y = 2, z = 0, score = 396
+Player 2 won
+Detailed Game Results
+
+Results for match between 10.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 10.txt and 20.txt
+
+p1 w = 103, x = 97, y = 0, z = 0, score = 691
+p2 w = 103, x = 0, y = 97, z = 0, score = 206
+Player 2 won
+Detailed Game Results
+
+Results for match between 11.txt and 1.txt
+
+p1 w = 0, x = 0, y = 105, z = 95, score = 380
+p2 w = 0, x = 105, y = 0, z = 95, score = 905
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 2.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 3.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 4.txt
+
+p1 w = 0, x = 0, y = 94, z = 106, score = 424
+p2 w = 0, x = 94, y = 0, z = 106, score = 894
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 5.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 11.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 11.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 8.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 9.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 10.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 11.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 11.txt and 14.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 11.txt and 17.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 11.txt and 18.txt
+
+p1 w = 0, x = 0, y = 98, z = 102, score = 408
+p2 w = 0, x = 98, y = 0, z = 102, score = 898
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 11.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 4.txt
+
+p1 w = 91, x = 109, y = 0, z = 0, score = 727
+p2 w = 91, x = 0, y = 109, z = 0, score = 182
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 9.txt
+
+p1 w = 94, x = 106, y = 0, z = 0, score = 718
+p2 w = 94, x = 0, y = 106, z = 0, score = 188
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 18.txt
+
+p1 w = 198, x = 2, y = 0, z = 0, score = 406
+p2 w = 198, x = 0, y = 2, z = 0, score = 396
+Player 2 won
+Detailed Game Results
+
+Results for match between 12.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 12.txt and 20.txt
+
+p1 w = 105, x = 95, y = 0, z = 0, score = 685
+p2 w = 105, x = 0, y = 95, z = 0, score = 210
+Player 2 won
+Detailed Game Results
+
+Results for match between 13.txt and 1.txt
+
+p1 w = 0, x = 0, y = 98, z = 102, score = 408
+p2 w = 0, x = 98, y = 0, z = 102, score = 898
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 2.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 3.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 4.txt
+
+p1 w = 0, x = 0, y = 96, z = 104, score = 416
+p2 w = 0, x = 96, y = 0, z = 104, score = 896
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 5.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 13.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 13.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 8.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 9.txt
+
+p1 w = 0, x = 0, y = 198, z = 2, score = 8
+p2 w = 0, x = 198, y = 0, z = 2, score = 998
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 10.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 13.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 13.txt and 14.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 13.txt and 17.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 13.txt and 18.txt
+
+p1 w = 0, x = 0, y = 88, z = 112, score = 448
+p2 w = 0, x = 88, y = 0, z = 112, score = 888
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 13.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 1.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 4.txt
+
+p1 w = 94, x = 106, y = 0, z = 0, score = 718
+p2 w = 94, x = 0, y = 106, z = 0, score = 188
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 9.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 14.txt and 18.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 14.txt and 20.txt
+
+p1 w = 97, x = 103, y = 0, z = 0, score = 709
+p2 w = 97, x = 0, y = 103, z = 0, score = 194
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 4.txt
+
+p1 w = 103, x = 97, y = 0, z = 0, score = 691
+p2 w = 103, x = 0, y = 97, z = 0, score = 206
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 9.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 15.txt and 18.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 15.txt and 20.txt
+
+p1 w = 101, x = 99, y = 0, z = 0, score = 697
+p2 w = 101, x = 0, y = 99, z = 0, score = 202
+Player 2 won
+Detailed Game Results
+
+Results for match between 16.txt and 1.txt
+
+p1 w = 0, x = 0, y = 97, z = 103, score = 412
+p2 w = 0, x = 97, y = 0, z = 103, score = 897
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 2.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 3.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 4.txt
+
+p1 w = 0, x = 0, y = 101, z = 99, score = 396
+p2 w = 0, x = 101, y = 0, z = 99, score = 901
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 5.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 16.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 16.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 8.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 9.txt
+
+p1 w = 0, x = 0, y = 199, z = 1, score = 4
+p2 w = 0, x = 199, y = 0, z = 1, score = 999
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 10.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 16.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 16.txt and 14.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 16.txt and 17.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 16.txt and 18.txt
+
+p1 w = 0, x = 0, y = 99, z = 101, score = 404
+p2 w = 0, x = 99, y = 0, z = 101, score = 899
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 16.txt and 20.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 1.txt
+
+p1 w = 0, x = 0, y = 101, z = 99, score = 396
+p2 w = 0, x = 101, y = 0, z = 99, score = 901
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 2.txt
+
+p1 w = 0, x = 0, y = 1, z = 199, score = 796
+p2 w = 0, x = 1, y = 0, z = 199, score = 801
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 3.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 4.txt
+
+p1 w = 0, x = 0, y = 108, z = 92, score = 368
+p2 w = 0, x = 108, y = 0, z = 92, score = 908
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 5.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 7.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 8.txt
+
+p1 w = 0, x = 0, y = 100, z = 100, score = 400
+p2 w = 0, x = 100, y = 0, z = 100, score = 900
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 9.txt
+
+p1 w = 0, x = 0, y = 199, z = 1, score = 4
+p2 w = 0, x = 199, y = 0, z = 1, score = 999
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 10.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 12.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 14.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 15.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 16.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 17.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 17.txt and 18.txt
+
+p1 w = 0, x = 0, y = 108, z = 92, score = 368
+p2 w = 0, x = 108, y = 0, z = 92, score = 908
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 19.txt
+
+p1 w = 0, x = 0, y = 200, z = 0, score = 0
+p2 w = 0, x = 200, y = 0, z = 0, score = 1000
+Player 1 won
+Detailed Game Results
+
+Results for match between 17.txt and 20.txt
+
+p1 w = 0, x = 0, y = 3, z = 197, score = 788
+p2 w = 0, x = 3, y = 0, z = 197, score = 803
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 18.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 3.txt
+
+p1 w = 196, x = 0, y = 4, z = 0, score = 392
+p2 w = 196, x = 4, y = 0, z = 0, score = 412
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 4.txt
+
+p1 w = 89, x = 109, y = 2, z = 0, score = 723
+p2 w = 89, x = 2, y = 109, z = 0, score = 188
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 5.txt
+
+p1 w = 0, x = 94, y = 0, z = 106, score = 894
+p2 w = 0, x = 0, y = 94, z = 106, score = 424
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 6.txt
+
+p1 w = 0, x = 108, y = 0, z = 92, score = 908
+p2 w = 0, x = 0, y = 108, z = 92, score = 368
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 7.txt
+
+p1 w = 195, x = 0, y = 5, z = 0, score = 390
+p2 w = 195, x = 5, y = 0, z = 0, score = 415
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 8.txt
+
+p1 w = 1, x = 198, y = 1, z = 0, score = 992
+p2 w = 1, x = 1, y = 198, z = 0, score = 7
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 9.txt
+
+p1 w = 188, x = 3, y = 6, z = 3, score = 403
+p2 w = 188, x = 6, y = 3, z = 3, score = 418
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 18.txt and 11.txt
+
+p1 w = 0, x = 102, y = 0, z = 98, score = 902
+p2 w = 0, x = 0, y = 102, z = 98, score = 392
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 12.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 13.txt
+
+p1 w = 0, x = 85, y = 0, z = 115, score = 885
+p2 w = 0, x = 0, y = 85, z = 115, score = 460
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 14.txt
+
+p1 w = 199, x = 0, y = 1, z = 0, score = 398
+p2 w = 199, x = 1, y = 0, z = 0, score = 403
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 15.txt
+
+p1 w = 198, x = 0, y = 2, z = 0, score = 396
+p2 w = 198, x = 2, y = 0, z = 0, score = 406
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 16.txt
+
+p1 w = 0, x = 101, y = 0, z = 99, score = 901
+p2 w = 0, x = 0, y = 101, z = 99, score = 396
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 17.txt
+
+p1 w = 0, x = 100, y = 0, z = 100, score = 900
+p2 w = 0, x = 0, y = 100, z = 100, score = 400
+Player 2 won
+Detailed Game Results
+
+Results for match between 18.txt and 18.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 18.txt and 19.txt
+
+p1 w = 197, x = 0, y = 3, z = 0, score = 394
+p2 w = 197, x = 3, y = 0, z = 0, score = 409
+Player 1 won
+Detailed Game Results
+
+Results for match between 18.txt and 20.txt
+
+p1 w = 104, x = 91, y = 2, z = 3, score = 675
+p2 w = 104, x = 2, y = 91, z = 3, score = 230
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 1.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 2.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 3.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 4.txt
+
+p1 w = 107, x = 93, y = 0, z = 0, score = 679
+p2 w = 107, x = 0, y = 93, z = 0, score = 214
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 5.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 6.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 7.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 8.txt
+
+p1 w = 1, x = 199, y = 0, z = 0, score = 997
+p2 w = 1, x = 0, y = 199, z = 0, score = 2
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 9.txt
+
+p1 w = 91, x = 109, y = 0, z = 0, score = 727
+p2 w = 91, x = 0, y = 109, z = 0, score = 182
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 10.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 11.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 12.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 13.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 14.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 15.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 16.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 17.txt
+
+p1 w = 0, x = 200, y = 0, z = 0, score = 1000
+p2 w = 0, x = 0, y = 200, z = 0, score = 0
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 18.txt
+
+p1 w = 199, x = 1, y = 0, z = 0, score = 403
+p2 w = 199, x = 0, y = 1, z = 0, score = 398
+Player 2 won
+Detailed Game Results
+
+Results for match between 19.txt and 19.txt
+
+p1 w = 200, x = 0, y = 0, z = 0, score = 400
+p2 w = 200, x = 0, y = 0, z = 0, score = 400
+Draw
+Detailed Game Results
+
+Results for match between 19.txt and 20.txt
+
+p1 w = 83, x = 117, y = 0, z = 0, score = 751
+p2 w = 83, x = 0, y = 117, z = 0, score = 166
+Player 2 won
+Detailed Game Results
+
+Results for match between 20.txt and 1.txt
+
+p1 w = 97, x = 0, y = 103, z = 0, score = 194
+p2 w = 97, x = 103, y = 0, z = 0, score = 709
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 2.txt
+
+p1 w = 1, x = 0, y = 0, z = 199, score = 798
+p2 w = 1, x = 0, y = 0, z = 199, score = 798
+Draw
+Detailed Game Results
+
+Results for match between 20.txt and 3.txt
+
+p1 w = 104, x = 0, y = 96, z = 0, score = 208
+p2 w = 104, x = 96, y = 0, z = 0, score = 688
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 4.txt
+
+p1 w = 27, x = 33, y = 55, z = 85, score = 559
+p2 w = 27, x = 55, y = 33, z = 85, score = 669
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 5.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 20.txt and 6.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 20.txt and 7.txt
+
+p1 w = 100, x = 0, y = 100, z = 0, score = 200
+p2 w = 100, x = 100, y = 0, z = 0, score = 700
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 8.txt
+
+p1 w = 34, x = 46, y = 78, z = 42, score = 466
+p2 w = 34, x = 78, y = 46, z = 42, score = 626
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 9.txt
+
+p1 w = 98, x = 6, y = 88, z = 8, score = 258
+p2 w = 98, x = 88, y = 6, z = 8, score = 668
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 10.txt
+
+p1 w = 105, x = 0, y = 95, z = 0, score = 210
+p2 w = 105, x = 95, y = 0, z = 0, score = 685
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 11.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 20.txt and 12.txt
+
+p1 w = 113, x = 0, y = 87, z = 0, score = 226
+p2 w = 113, x = 87, y = 0, z = 0, score = 661
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 13.txt
+
+p1 w = 0, x = 0, y = 0, z = 200, score = 800
+p2 w = 0, x = 0, y = 0, z = 200, score = 800
+Draw
+Detailed Game Results
+
+Results for match between 20.txt and 14.txt
+
+p1 w = 92, x = 0, y = 108, z = 0, score = 184
+p2 w = 92, x = 108, y = 0, z = 0, score = 724
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 15.txt
+
+p1 w = 94, x = 0, y = 106, z = 0, score = 188
+p2 w = 94, x = 106, y = 0, z = 0, score = 718
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 16.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 20.txt and 17.txt
+
+p1 w = 0, x = 1, y = 0, z = 199, score = 801
+p2 w = 0, x = 0, y = 1, z = 199, score = 796
+Player 2 won
+Detailed Game Results
+
+Results for match between 20.txt and 18.txt
+
+p1 w = 101, x = 0, y = 99, z = 0, score = 202
+p2 w = 101, x = 99, y = 0, z = 0, score = 697
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 19.txt
+
+p1 w = 89, x = 0, y = 111, z = 0, score = 178
+p2 w = 89, x = 111, y = 0, z = 0, score = 733
+Player 1 won
+Detailed Game Results
+
+Results for match between 20.txt and 20.txt
+
+p1 w = 2, x = 2, y = 0, z = 196, score = 798
+p2 w = 2, x = 0, y = 2, z = 196, score = 788
+Player 2 won
 
 Strategy Average Scores
 
-01 | 4.99 | 4.99 | 4.49 | 4.46 | 3.43
-02 | 4.00 | 4.00 | 3.99 | 3.99 | 2.07
-03 | 5.00 | 5.00 | 4.99 | 4.99 | 3.56
-04 | 4.54 | 4.47 | 4.46 | 4.45 | 2.85
-05 | 4.00 | 4.00 | 3.98 | 3.98 | 2.20
+01 | 4.99 | 4.99 | 4.55 | 4.54 | 4.53 | 4.53 | 4.50 | 4.49 | 4.49 | 4.49 | 4.47 | 4.47 | 4.46 | 4.46 | 4.46 | 4.45 | 3.54 | 3.44 | 3.35 | 3.19
+02 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.99 | 3.99 | 3.99 | 3.99 | 2.17 | 2.06 | 2.04 | 2.01
+03 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.67 | 3.56 | 3.52 | 3.44
+04 | 4.56 | 4.54 | 4.54 | 4.53 | 4.53 | 4.53 | 4.52 | 4.50 | 4.50 | 4.48 | 4.47 | 4.46 | 4.45 | 4.44 | 3.35 | 3.35 | 2.85 | 2.69 | 2.68 | 2.63
+05 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.98 | 3.98 | 3.98 | 2.14 | 2.12 | 2.10 | 2.00
+06 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.98 | 3.98 | 2.18 | 2.10 | 2.00 | 2.00
+07 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.54 | 3.50 | 3.47 | 3.46
+08 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.50 | 4.49 | 4.49 | 3.13 | 3.01 | 3.00 | 3.00 | 2.88 | 2.81
+09 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.98 | 4.98 | 4.97 | 4.95 | 3.56 | 3.47 | 3.42 | 3.34
+10 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.50 | 3.46 | 3.44 | 3.42
+11 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.98 | 3.98 | 2.12 | 2.06 | 2.04 | 2.02
+12 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.63 | 3.59 | 3.58 | 3.56
+13 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.98 | 3.98 | 2.30 | 2.24 | 2.18 | 2.08
+14 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.71 | 3.62 | 3.59 | 3.56
+15 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.60 | 3.59 | 3.48 | 3.46
+16 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.98 | 3.98 | 3.98 | 2.22 | 2.20 | 2.06 | 2.02
+17 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.98 | 3.98 | 3.98 | 3.94 | 2.16 | 2.00 | 2.00 | 2.00
+18 | 4.99 | 4.96 | 4.87 | 4.54 | 4.54 | 4.53 | 4.51 | 4.50 | 4.50 | 4.50 | 4.49 | 4.47 | 4.47 | 4.46 | 4.44 | 4.42 | 3.62 | 3.58 | 3.48 | 3.38
+19 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 5.00 | 4.99 | 4.99 | 4.99 | 4.99 | 3.75 | 3.67 | 3.63 | 3.44
+20 | 4.01 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 4.00 | 3.99 | 3.99 | 3.99 | 3.94 | 2.79 | 2.56 | 2.44 | 2.40
 
 Strategy Rankings
 
-02.txt -> 3.61
-05.txt -> 3.63
-04.txt -> 4.15
-01.txt -> 4.47
+17.txt -> 3.60
+11.txt -> 3.61
+06.txt -> 3.61
+05.txt -> 3.61
+02.txt -> 3.62
+16.txt -> 3.62
+13.txt -> 3.64
+20.txt -> 3.71
+04.txt -> 4.03
+08.txt -> 4.04
+01.txt -> 4.32
+18.txt -> 4.36
+09.txt -> 4.68
+10.txt -> 4.69
+07.txt -> 4.70
+15.txt -> 4.70
 03.txt -> 4.71
+12.txt -> 4.72
+14.txt -> 4.72
+19.txt -> 4.72
 

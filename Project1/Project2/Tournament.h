@@ -16,7 +16,7 @@ public:
 	void runTournament();
 	void setNumofFiles(int n);
 	//Runs the 200 iterations for a game
-	void runSimulation(int i, int j, Game* g);
+	void runSimulation(int i, int j, Game* g, int spy_percent);
 	//Reads the 2 strategy files
 	void readFiles(int i, int j, Gang* p1, Gang* p2);
 	//Saves the results of the game for both prisoners in a file
@@ -27,6 +27,8 @@ public:
 	void printStats();
 	//Sorts the contents of the average array
 	void sortAverageArr(string *average, double *avnum);
+
+	void setPrisonerCode(int i, string str, Gang* g);
 private:
 	int num_Strategies;
 	static const int MAX_ITERARIONS = 200;

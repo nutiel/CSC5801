@@ -24,40 +24,43 @@ void Tournament::setNumofFiles(int n) {
 	num_Strategies = n;
 }
 
-void Tournament::runSimulation(int i, int j, Game* g) {
+void Tournament::runSimulation(int i, int j, Game* g, int spy_percent) {
 
 	Gang* g1 = new Gang();
 	Gang* g2 = new Gang();
-
+	int random_integer;
 	/*
 	 *  Unanimus
-	 * w->both gangs silent, z->both gangs betrayed
-	 * x->we were silent, y->we betrayed,
+	 * -1->both gangs silent, -2->both gangs betrayed
+	 * -3->we were silent, -4->we betrayed,
 	 *
 	 *  Mixed responce
-	 * a->in the gang with most betrays, b->in the gang with the least betrays,
-	 * c->mixed response with equal votes
+	 * -5->in the gang with most betrays, -6->in the gang with the least betrays,
+	 * -7->mixed response with equal votes
 	 *
 	 */
 	int g1_decision, g2_decision;
 
-	readFiles(i, j, g1, g2);
+	readFiles(i, j, g1, g2); // takes the files chosen for the game and gives them to the gang to be assigned to the prisoners
 
 	for (int k = 0; k < 200; k++) {
 
+		//Add Spy
+		random_integer = rand() % spy_percent + 1;
+		g1->addSpy(random_integer);
+		g1->addSpy(random_integer);
+
+		//Increace Iterations
 		g1->increaseIterations();
 		g2->increaseIterations();
+		
+		//make the decision and save the results in the class
+		g2->makeDecision();
+		g1->makeDecision();
 
-		/*
-		*
-		*Needs to be fixed <---------------
-		*/
-
-		g2_decision = g2->makeDecision();
-		g1_decision = g1->makeDecision();
-
-		g1->result(g2_decision);
-		g2->result(g1_decision);
+		//Update variables
+		g1->result(g2);
+		g2->result(g1);
 
 	}
 
@@ -70,50 +73,47 @@ void Tournament::runSimulation(int i, int j, Game* g) {
 	delete g2;
 }
 
-void Tournament::printCurrentResults(Gang* p1, Gang* p2, Game g) {
+void Tournament::printCurrentResults(Gang* g1, Gang* g2, Game g) {
 
-	/*
-	*
-	*Needs to be fixed <---------------
-	*/
-
-	cout << "\n" << g.getStrategy1() << " vs " << g.getStrategy2() << endl << endl;
-	ifile2 << "\nResults for match between " << g.getStrategy1() << " and " << g.getStrategy2() << endl << endl;
-	ifile2 << "p1 w = " << p1->ALLOUTCOMES_W() << ", x = " << p1->ALLOUTCOMES_X() << ", y = " << p1->ALLOUTCOMES_Y() << ", z = " << p1->ALLOUTCOMES_Z();
-	ifile2 << ", score = " << p1->MYSCORE() << endl;
-	ifile2 << "p2 w = " << p2->ALLOUTCOMES_W() << ", x = " << p2->ALLOUTCOMES_X() << ", y = " << p2->ALLOUTCOMES_Y() << ", z = " << p2->ALLOUTCOMES_Z();
-	ifile2 << ", score = " << p2->MYSCORE() << endl;
-	if (p1->MYSCORE() > p2->MYSCORE()) {
-		ifile2 << "Player 2 won" << endl;
+	cout << "\n" << "Gang1 vs Gang2" << endl << endl;
+	ifile2 << "\nResults for match between " << g.getStrategy(10) << " and " << g.getStrategy(10) << endl << endl;
+	ifile2 << "p1 w = " << g1->ALLOUTCOMES_W() << ", x = " << g1->ALLOUTCOMES_X() << ", y = " << g1->ALLOUTCOMES_Y() << ", z = " << g1->ALLOUTCOMES_Z();
+	ifile2 << ", a = " << g1->ALLOUTCOMES_A() << ", b = " << g1->ALLOUTCOMES_B() << ", c = " << g1->ALLOUTCOMES_C() << ", score = " << g1->MYSCORE() << endl;
+	ifile2 << "Votes for Silence = " << g1->getSilenceNo << "Votes for Betray = " << g1->getBetrayNo << endl;
+	ifile2 << "p2 w = " << g2->ALLOUTCOMES_W() << ", x = " << g2->ALLOUTCOMES_X() << ", y = " << g2->ALLOUTCOMES_Y() << ", z = " << g2->ALLOUTCOMES_Z();
+	ifile2 << ", a = " << g2->ALLOUTCOMES_A() << ", b = " << g2->ALLOUTCOMES_B() << ", c = " << g2->ALLOUTCOMES_C() << ", score = " << g2->MYSCORE() << endl;
+	ifile2 << "Votes for Silence = " << g2->getSilenceNo << "Votes for Betray = " << g2->getBetrayNo << endl;
+	
+	if (g1->getHasSpy()) {
+		ifile2 << "Gang 1 had a spy";
 	}
-	else if (p1->MYSCORE() < p2->MYSCORE()) {
-		ifile2 << "Player 1 won" << endl;
+
+	if (g2->getHasSpy()) {
+		ifile2 << "\tGang 2 had a spy\n";
+	}
+
+	if (g1->MYSCORE() > g2->MYSCORE()) {
+		ifile2 << "Gang 2 won" << endl;
+	}
+	else if (g1->MYSCORE() < g2->MYSCORE()) {
+		ifile2 << "Gang 1 won" << endl;
 	}
 	else {
 		ifile2 << "Draw" << endl;
 	}
 }
 
-void Tournament::readFiles(int i, int j, Gang* p1, Gang* p2) {
+void Tournament::setPrisonerCode(int i, string str, Gang* g) {
 
-
-	string st1 = matchups[j + i * num_Strategies].getStrategy1();
-	string st2 = matchups[j + i * num_Strategies].getStrategy2();
-	string line;
 	int l = 0;
-
-	/*
-	*
-	* Needs to be fixed <---------------
-	* Add set code for all the prisoners or let the gang class take care of it
-	*/
+	string line;
 
 	//prisoner1 strategy
-	ifstream ofile("./files/" + st1);
+	ifstream ofile("./files/" + str);
 	if (ofile.is_open()) {
 		while (getline(ofile, line))
 		{
-			p1->setCode(line, l);
+			g->getPrisoner(i)->setCode(line, l);
 			l++;
 		}
 		ofile.close();
@@ -122,22 +122,17 @@ void Tournament::readFiles(int i, int j, Gang* p1, Gang* p2) {
 		cout << "Unable to open file for prisoner1\n";
 		exit(1);
 	}
+}
 
-	l = 0;
+void Tournament::readFiles(int i, int j, Gang* g1, Gang* g2) {
 
-	//prisoner2 strategy
-	ifstream ofile2("./files/" + st2);
-	if (ofile2.is_open()) {
-		while (getline(ofile2, line))
-		{
-			p2->setCode(line, l);
-			l++;
+	for (int k = 0; k < 10; k++) {
+		if (k < 5) {
+			setPrisonerCode(k, matchups[j + i * num_Strategies].getStrategy(k), g1);
 		}
-		ofile2.close();
-	}
-	else {
-		cout << "Unable to open file for prisoner2\n";
-		exit(1);
+		else {
+			setPrisonerCode(k, matchups[j + i * num_Strategies].getStrategy(k), g2);
+		}
 	}
 }
 
@@ -146,6 +141,7 @@ void Tournament::runTournament() {
 	matchups = new Game[num_Strategies*num_Strategies];
 	arr = new double[num_Strategies*num_Strategies];
 	string name1, name2;
+	int random;
 
 	string name;
 
@@ -160,16 +156,24 @@ void Tournament::runTournament() {
 		arr[i] = -1;
 	}
 
+	int spy_percent;
+	cout << "\nGive the % for the propability of a spy: ";
+	cin >> spy_percent;
+
 	for (int i = 0; i < num_Strategies; i++) {
 		for (int j = 0; j < num_Strategies; j++) {
 			name1 = "";
 			name2 = "";
-			name1 = name1 + std::to_string(i + 1);
-			name1.append(".txt");
-			name2 = name2 + std::to_string(j + 1);
-			name2.append(".txt");
-			matchups[j + i*num_Strategies].setStrategy(name1, name2);
-			runSimulation(i, j, &matchups[j + i*num_Strategies]);
+			for (int k = 0; k < 5; k++) {
+				random = rand() % 5 + 1;
+				name1 = name1 + std::to_string(random);
+				name1.append(".txt");
+				random = rand() % 5 + 1;
+				name2 = name2 + std::to_string(random);
+				name2.append(".txt");
+				matchups[j + i*num_Strategies].setStrategy(name1, name2, k);
+			}
+			runSimulation(i, j, &matchups[j + i*num_Strategies], spy_percent);
 			saveStats(matchups[j + i*num_Strategies], i, j);
 		}
 	}
@@ -181,6 +185,8 @@ void Tournament::runTournament() {
 	delete[] matchups;
 }
 
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 void Tournament::printStats() {
 
 	string *avname = new string[num_Strategies];
@@ -220,6 +226,9 @@ void Tournament::printStats() {
 	delete[] avnum;
 }
 
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ *!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
 void Tournament::sortAverageArr(string *avname, double *avnum) {
 	string tname;
 	double tav;
@@ -241,6 +250,8 @@ void Tournament::sortAverageArr(string *avname, double *avnum) {
 	}
 }
 
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 void Tournament::saveStats(Game g, int str1, int str2) {
 
 	double temp;

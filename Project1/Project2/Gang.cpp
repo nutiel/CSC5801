@@ -5,7 +5,9 @@ Gang::Gang() :
 	score(0),
 	iterations(0),
 	last_outcome(' '),
-	has_spy(false) {
+	has_spy(false),
+	silence_no(0),
+	betray_no(0) {
 
 	p1 = new Leader();
 	p2 = new Prisoner();
@@ -68,9 +70,13 @@ void Gang::increaseIterations() {
 
 int Gang::makeDecision() {
 
-	/*run the make decision code for the prisoners with threads*/
+	/*->run the make decision code for the prisoners with threads
+	* ->save the number of votes for silence and betray
+	**/
 
 }
+
+
 /*
 *
 * char result1 - gangs own decision
@@ -85,38 +91,38 @@ int Gang::makeDecision() {
 * c -> mixed response with equal votes
 *
 */
-void Gang::result(int result) {
-	if (result == 'w') {
+void Gang::result(Gang* g) {
+	if (this->silence_no == 5 && g->getSilenceNo() == 5) {
 		w++;
 		score += 2;
 		this->last_outcome = -1;
 	}
-	else if (result == 'x') {
+	else if (this->silence_no == 5 && g->getBetrayNo() == 5) {
 		x++;
 		score += 5;
 		this->last_outcome = -2;
 	}
-	else if (result == 'y') {
+	else if (this->betray_no == 5 && g->getSilenceNo() == 5) {
 		y++;
 		score += 0;
 		this->last_outcome = -3;
 	}
-	else if(result == 'z') {
+	else if(this->betray_no == 5 && g->getBetrayNo() == 5) {
 		z++;
 		score += 4;
 		this->last_outcome = -4;
 	}
-	else if (result == 'a') {
+	else if (this->betray_no > g->getBetrayNo()) {
 		a++;
 		score += 2.5;
 		this->last_outcome = -5;
 	}
-	else if (result == 'b') {
+	else if (this->betray_no < g->getBetrayNo()) {
 		b++;
 		score += 3;
 		this->last_outcome = -6;
 	}
-	else if (result == 'c') {
+	else if (this->betray_no == g->getBetrayNo()) {
 		c++;
 		score += 2;
 		this->last_outcome = -7;
@@ -153,5 +159,39 @@ bool Gang::addSpy(int percent) {
 		break;
 	}
 
+	spy = random_integer;
+
 	return true;
+}
+
+bool Gang::getHasSpy() {
+	return has_spy;
+}
+
+int Gang::getSilenceNo() {
+	return silence_no;
+}
+
+int Gang::getBetrayNo() {
+	return betray_no;
+}
+
+Prisoner* Gang::getPrisoner(int i) {
+	switch (i%5) {
+	case 0:
+		return p1;
+		break;
+	case 1:
+		return p2;
+		break;
+	case 2:
+		return p3;
+		break;
+	case 3:
+		return p4;
+		break;
+	case 4:
+		return p5;
+		break;
+	}
 }
